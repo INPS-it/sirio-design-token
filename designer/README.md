@@ -25,7 +25,8 @@ Ora puoi applicare i token agli elementi del tuo progetto. Segui la documentazio
 https://docs.tokens.studio/getting-started
 
 Se vuoi puoi rendere puoi importare i token come stili all'interno di Figma.
-#### 🚨 ATTENZIONE: 
+
+####  🚨 ATTENZIONE: 
 Se stai usando la nostra libreria già li hai quindi NON farlo (altrimenti verranno duplicati)
 
 

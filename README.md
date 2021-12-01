@@ -23,8 +23,7 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 ********************************************************************************************************************************************************************************
 
 ## Sirio Design System
-👋 Ciao sono Sirio
-👀 Sono il linguaggio visivo e di interazione dell'Istituto! Progettare per il Cittadino con me da oggi è più semplice.
+👋 Ciao sono Sirio. Sono il linguaggio visivo e di interazione dell'Istituto! Progettare per il Cittadino con me da oggi è più semplice.
 
 #### I miei obiettivi
 - 👨‍💼👩🏻‍💼👩🏽‍🔧🧑🏼‍🏫 Semplificare e migliorare l’esperienza degli utenti
