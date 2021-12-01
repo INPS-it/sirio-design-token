@@ -4,8 +4,8 @@ Trovi di seguito una breve guida per il loro utilizzo:
 
 
 
-## 👩‍🎨 Strumenti essenziali
-### 1. Scaricare e installare il tool Figma (tool per la progettazione)
+### 👩‍🎨 Strumenti essenziali
+#### 1. Scaricare e installare il tool Figma (tool per la progettazione)
 Puoi [scaricare il tool da qui](🔗 https://www.figma.com/downloads/).
 
 ### 2. Scaricare e installare il plugin Figma Token  (plugin utile per la gestione dei Design Token)
