@@ -2,6 +2,8 @@
 Mi sono già presentato, sono Sirio, e qui troverai i miei token.
 Trovi di seguito una breve guida per il loro utilizzo:
 
+
+
 ## 👩‍🎨 Strumenti essenziali
 ### 1. Scaricare e installare il tool Figma (tool per la progettazione)
 Puoi [scaricare il tool da qui](🔗 https://www.figma.com/downloads/).
@@ -12,7 +14,7 @@ Puoi [scaricare il plugin da qui](🔗 https://www.figma.com/community/plugin/84
 ## Cosa troverai qui dentro:
 All'interno di questa cartella è presente un file JSON che puoi utilizzare come input al'interno del plugin Figma Token.
 
-#### Segui questa guida:
+#### Segui questa guida per utilizzarli nei tuoi progetti:
 1. Se ancora non lo hai fatto installa il plugin Figma Token
 2. Scarica il file designer-token.json
 3. Aprilo con un block note 
