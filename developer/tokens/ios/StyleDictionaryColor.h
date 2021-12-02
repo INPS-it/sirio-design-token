@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Dec 2021 11:42:20 GMT
+// Generated on Wed, 01 Dec 2021 16:35:44 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -76,25 +76,25 @@ ColorAliasBackgroundColorPrimaryDark0,
 ColorAliasInteractiveBorderFocus,
 ColorAliasGradientAccentPrimaryDark,
 ColorAliasGradientAccentPrimary,
-data-entry-label-color-default,
-data-entry-label-color-hover,
-data-entry-label-color-focus,
-data-entry-label-color-valued,
-data-entry-placeholder-color-default,
-data-entry-placeholder-color-hover,
-data-entry-placeholder-color-focus,
-data-entry-placeholder-color-valued,
-data-entry-border-color-default,
-data-entry-border-color-hover,
-data-entry-border-color-focus,
-data-entry-border-color-valued,
+ColorSpecificDataEntryLabelColorDefault,
+ColorSpecificDataEntryLabelColorHover,
+ColorSpecificDataEntryLabelColorFocus,
+ColorSpecificDataEntryLabelColorValued,
+ColorSpecificDataEntryPlaceholderColorDefault,
+ColorSpecificDataEntryPlaceholderColorHover,
+ColorSpecificDataEntryPlaceholderColorFocus,
+ColorSpecificDataEntryPlaceholderColorValued,
+ColorSpecificDataEntryBorderColorDefault,
+ColorSpecificDataEntryBorderColorHover,
+ColorSpecificDataEntryBorderColorFocus,
+ColorSpecificDataEntryBorderColorValued,
 ColorSpecificDataEntryBorderColorError,
 ColorSpecificDataEntryBorderColorWarning,
 ColorSpecificDataEntryBorderColorSuccess,
-option-background-color-hover,
-option-background-color-focus,
-option-background-color-pressed,
-option-background-color-valued,
+ColorSpecificOptionBackgroundColorHover,
+ColorSpecificOptionBackgroundColorFocus,
+ColorSpecificOptionBackgroundColorPressed,
+ColorSpecificOptionBackgroundColorValued,
 ColorSpecificProgressbarBackgroundColor
 };
 

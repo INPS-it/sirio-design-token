@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Dec 2021 11:42:20 GMT
+// Generated on Wed, 01 Dec 2021 16:35:44 GMT
 
 
 import UIKit
@@ -39,18 +39,6 @@ public enum StyleDictionaryColor {
     public static let aliasTextColorPrimaryLight1 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
     public static let aliasTextColorSecondaryDark0 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let aliasTextColorSecondaryDark1 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
-    public static let data-entry-border-color-default = [object Object]
-    public static let data-entry-border-color-focus = [object Object]
-    public static let data-entry-border-color-hover = [object Object]
-    public static let data-entry-border-color-valued = [object Object]
-    public static let data-entry-label-color-default = [object Object]
-    public static let data-entry-label-color-focus = [object Object]
-    public static let data-entry-label-color-hover = [object Object]
-    public static let data-entry-label-color-valued = [object Object]
-    public static let data-entry-placeholder-color-default = [object Object]
-    public static let data-entry-placeholder-color-focus = [object Object]
-    public static let data-entry-placeholder-color-hover = [object Object]
-    public static let data-entry-placeholder-color-valued = [object Object]
     public static let globalAccent100 = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let globalAccent110 = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
     public static let globalAccent120 = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
@@ -88,12 +76,24 @@ public enum StyleDictionaryColor {
     public static let globalSemanticInfo100 = UIColor(red: 0.000, green: 0.467, blue: 0.639, alpha: 1)
     public static let globalSemanticSuccesso100 = UIColor(red: 0.016, green: 0.596, blue: 0.580, alpha: 1)
     public static let globalSemanticWarning100 = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
-    public static let option-background-color-focus = [object Object]
-    public static let option-background-color-hover = [object Object]
-    public static let option-background-color-pressed = [object Object]
-    public static let option-background-color-valued = [object Object]
-    public static let specificDataEntryBorderColorError = [object Object]
-    public static let specificDataEntryBorderColorSuccess = [object Object]
-    public static let specificDataEntryBorderColorWarning = [object Object]
+    public static let specificDataEntryBorderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificDataEntryBorderColorError = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
+    public static let specificDataEntryBorderColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let specificDataEntryBorderColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
+    public static let specificDataEntryBorderColorSuccess = UIColor(red: 0.016, green: 0.596, blue: 0.580, alpha: 1)
+    public static let specificDataEntryBorderColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificDataEntryBorderColorWarning = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
+    public static let specificDataEntryLabelColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificDataEntryLabelColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let specificDataEntryLabelColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
+    public static let specificDataEntryLabelColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificDataEntryPlaceholderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificDataEntryPlaceholderColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let specificDataEntryPlaceholderColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
+    public static let specificDataEntryPlaceholderColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificOptionBackgroundColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let specificOptionBackgroundColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
+    public static let specificOptionBackgroundColorPressed = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
+    public static let specificOptionBackgroundColorValued = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let specificProgressbarBackgroundColor = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
 }
