@@ -908,10 +908,10 @@
     "style": {
       "h6-medium": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-0",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.2",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.05}",
+          "fontSize": "{typography.global.fontSize.05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -922,10 +922,10 @@
       },
       "h5-medium": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-1",
-          "lineHeight": "$lineHeights.1",
-          "fontSize": "$fontSize.3",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.06}",
+          "fontSize": "{typography.global.fontSize.06}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -936,10 +936,10 @@
       },
       "h4-medium": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.2",
-          "fontSize": "$fontSize.4",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.07}",
+          "fontSize": "{typography.global.fontSize.07}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -950,10 +950,10 @@
       },
       "h4-large": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.3",
-          "fontSize": "$fontSize.5",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.08}",
+          "fontSize": "{typography.global.fontSize.08}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -964,10 +964,10 @@
       },
       "h3-medium": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.4",
-          "fontSize": "$fontSize.6",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.09}",
+          "fontSize": "{typography.global.fontSize.09}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -978,10 +978,10 @@
       },
       "h3-large": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.5",
-          "fontSize": "$fontSize.7",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.10}",
+          "fontSize": "{typography.global.fontSize.10}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -992,10 +992,10 @@
       },
       "h2-medium": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.6",
-          "fontSize": "$fontSize.8",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.11}",
+          "fontSize": "{typography.global.fontSize.11}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1006,10 +1006,10 @@
       },
       "h2-large": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.7",
-          "fontSize": "$fontSize.9",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.12}",
+          "fontSize": "{typography.global.fontSize.12}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1020,10 +1020,10 @@
       },
       "h1-medium": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.8",
-          "fontSize": "$fontSize.10",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.13}",
+          "fontSize": "{typography.global.fontSize.13}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1034,10 +1034,10 @@
       },
       "h1-large": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.9",
-          "fontSize": "$fontSize.11",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.14}",
+          "fontSize": "{typography.global.fontSize.14}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1048,10 +1048,10 @@
       },
       "h1-extralarge": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.10",
-          "fontSize": "$fontSize.12",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.15}",
+          "fontSize": "{typography.global.fontSize.15}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1062,10 +1062,10 @@
       },
       "link-p-medium-02": {
         "value": {
-          "fontFamily": "$fontFamilies.lora",
-          "fontWeight": "$fontWeights.lora-3",
-          "lineHeight": "$lineHeights.11",
-          "fontSize": "$fontSize.1",
+          "fontFamily": "{typography.global.fontFamily.02}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1076,10 +1076,10 @@
       },
       "link-p-medium-01": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.11",
-          "fontSize": "$fontSize.1",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1090,10 +1090,10 @@
       },
       "link-p-large-02": {
         "value": {
-          "fontFamily": "$fontFamilies.lora",
-          "fontWeight": "$fontWeights.lora-3",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.2",
+          "fontFamily": "{typography.global.fontFamily.02}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.05}",
+          "fontSize": "{typography.global.fontSize.05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1104,10 +1104,10 @@
       },
       "link-p-large-01": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-2",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.2",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.05}",
+          "fontSize": "{typography.global.fontSize.05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1118,10 +1118,10 @@
       },
       "label-medium": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-1",
-          "lineHeight": "$lineHeights.12",
-          "fontSize": "$fontSize.1",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1132,10 +1132,10 @@
       },
       "placeholder-base": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-0",
-          "lineHeight": "$lineHeights.12",
-          "fontSize": "$fontSize.1",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.400}",
+          "lineHeight": "{typography.global.lineHeights.06}",
+          "fontSize": "{typography.global.fontSize.06}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1146,10 +1146,10 @@
       },
       "disclaimer-base": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-0",
-          "lineHeight": "$lineHeights.13",
-          "fontSize": "$fontSize.0",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1160,10 +1160,10 @@
       },
       "p-medium-01": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-0",
-          "lineHeight": "$lineHeights.11",
-          "fontSize": "$fontSize.1",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.400}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1174,10 +1174,10 @@
       },
       "p-medium-02": {
         "value": {
-          "fontFamily": "$fontFamilies.lora",
-          "fontWeight": "$fontWeights.lora-4",
-          "lineHeight": "$lineHeights.11",
-          "fontSize": "$fontSize.1",
+          "fontFamily": "{typography.global.fontFamily.02}",
+          "fontWeight": "{typography.global.fontWeights.400}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1188,10 +1188,10 @@
       },
       "p-large-02": {
         "value": {
-          "fontFamily": "$fontFamilies.lora",
-          "fontWeight": "$fontWeights.lora-4",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.2",
+          "fontFamily": "{typography.global.fontFamily.02}",
+          "fontWeight": "{typography.global.fontWeights.400}",
+          "lineHeight": "{typography.global.lineHeights.05}",
+          "fontSize": "{typography.global.fontSize.05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1202,10 +1202,10 @@
       },
       "p-large-01": {
         "value": {
-          "fontFamily": "$fontFamilies.titillium-web",
-          "fontWeight": "$fontWeights.titillium-web-0",
-          "lineHeight": "$lineHeights.0",
-          "fontSize": "$fontSize.2",
+          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontWeight": "{typography.global.fontWeights.700}",
+          "lineHeight": "{typography.global.lineHeights.05}",
+          "fontSize": "{typography.global.fontSize.05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
