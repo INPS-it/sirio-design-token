@@ -34,8 +34,8 @@
   --color-global-semantic-alert-110: #7f1a3b;
   --color-global-semantic-alert-120: #551128;
   --color-global-semantic-alert-130: #3f0d1b;
-  --color-global-gradient-01: #000000;
-  --color-global-gradient-02: #000000;
+  --color-global-gradient-01: linear-gradient(180deg, #007db3 0%, #18cee7 100%);
+  --color-global-gradient-02: linear-gradient(180deg, #00354c 0%, #007db3 50.52%, #18cee7 100%);
   --color-alias-interactive-accent-default: #18cee7;
   --color-alias-interactive-accent-hover: #8ce7f3;
   --color-alias-interactive-accent-focus: #13a5b9;
@@ -62,9 +62,9 @@
   --color-alias-background-color-primary-light-1: #edf4f7;
   --color-alias-background-color-primary-light-0: #ffffff;
   --color-alias-background-color-primary-dark-0: #00354c;
-  --color-alias-interactive-border-focus: #454d56;
-  --color-alias-gradient-accent-primary-dark: #000000;
-  --color-alias-gradient-accent-primary: #000000;
+  --color-alias-interactive-border-focus: #0092d1;
+  --color-alias-gradient-accent-primary-dark: linear-gradient(180deg, #00354c 0%, #007db3 50.52%, #18cee7 100%);
+  --color-alias-gradient-accent-primary: linear-gradient(180deg, #007db3 0%, #18cee7 100%);
   --color-specific-data-entry-label-color-default: #454d56;
   --color-specific-data-entry-label-color-hover: #005980;
   --color-specific-data-entry-label-color-focus: #004766;
@@ -85,6 +85,7 @@
   --color-specific-option-background-color-pressed: #00354c;
   --color-specific-option-background-color-valued: #007db3;
   --color-specific-progressbar-background-color: #000000;
+  --color-specific-card-overlay-gradient-img: #000000;
   --typography-global-font-family-01: Titillium Web;
   --typography-global-font-family-02: Lora;
   --typography-global-font-family-03: Roboto Mono;

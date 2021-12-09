@@ -319,7 +319,7 @@
         "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
       },
       "interactive-border-focus": {
-        "value": "{color.global.secondary-100.value}",
+        "value": "#0092D1",
         "type": "color",
         "description": "🟣 Token alias: Colore da applicare al bordo che evidenzia i componenti in stato focus"
       },
@@ -434,6 +434,11 @@
         "value": "linear-gradient(180deg, #00354c 0%, #007db3 50.52%, #18cee7 100%)",
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare al background della progressbar per evidenziare l’avanzamento dello stato"
+      },
+      "card-overlay-gradient-img": {
+        "value": "linear-gradient(90deg, #000000 0%, #00000000 100%)",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
       }
     }
   },

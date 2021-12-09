@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Dec 2021 16:35:44 GMT
+// Generated on Thu, 09 Dec 2021 14:59:14 GMT
 
 
 import UIKit
@@ -20,7 +20,7 @@ public class StyleDictionary {
     public static let colorAliasInteractiveAccentFocus = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
     public static let colorAliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let colorAliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
-    public static let colorAliasInteractiveBorderFocus = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let colorAliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
     public static let colorAliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorAliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
     public static let colorAliasInteractivePrimaryHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
@@ -76,6 +76,7 @@ public class StyleDictionary {
     public static let colorGlobalSemanticInfo100 = UIColor(red: 0.000, green: 0.467, blue: 0.639, alpha: 1)
     public static let colorGlobalSemanticSuccesso100 = UIColor(red: 0.016, green: 0.596, blue: 0.580, alpha: 1)
     public static let colorGlobalSemanticWarning100 = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
+    public static let colorSpecificCardOverlayGradientImg = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorSpecificDataEntryBorderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorSpecificDataEntryBorderColorError = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
     public static let colorSpecificDataEntryBorderColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)

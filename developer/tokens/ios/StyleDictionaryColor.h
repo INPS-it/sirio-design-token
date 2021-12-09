@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Dec 2021 16:35:44 GMT
+// Generated on Thu, 09 Dec 2021 14:59:14 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -45,7 +45,6 @@ ColorGlobalSemanticInfo100,
 ColorGlobalSemanticAlert110,
 ColorGlobalSemanticAlert120,
 ColorGlobalSemanticAlert130,
-ColorGlobalGradient01,
 ColorGlobalGradient02,
 ColorAliasInteractiveAccentDefault,
 ColorAliasInteractiveAccentHover,
@@ -95,7 +94,8 @@ ColorSpecificOptionBackgroundColorHover,
 ColorSpecificOptionBackgroundColorFocus,
 ColorSpecificOptionBackgroundColorPressed,
 ColorSpecificOptionBackgroundColorValued,
-ColorSpecificProgressbarBackgroundColor
+ColorSpecificProgressbarBackgroundColor,
+ColorSpecificCardOverlayGradientImg
 };
 
 @interface StyleDictionaryColor : NSObject

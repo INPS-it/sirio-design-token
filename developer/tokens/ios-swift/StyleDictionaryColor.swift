@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Dec 2021 16:35:44 GMT
+// Generated on Thu, 09 Dec 2021 14:59:14 GMT
 
 
 import UIKit
@@ -20,7 +20,7 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveAccentFocus = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
     public static let aliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let aliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
-    public static let aliasInteractiveBorderFocus = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let aliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
     public static let aliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let aliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
     public static let aliasInteractivePrimaryHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
@@ -51,7 +51,6 @@ public enum StyleDictionaryColor {
     public static let globalDarkSecondary120 = UIColor(red: 0.090, green: 0.098, blue: 0.110, alpha: 1)
     public static let globalDarkSecondary125 = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let globalDarkSecondary130 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let globalGradient01 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let globalGradient02 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let globalLightPrimary40 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
     public static let globalLightPrimary50 = UIColor(red: 0.761, green: 0.886, blue: 0.941, alpha: 1)
@@ -76,6 +75,7 @@ public enum StyleDictionaryColor {
     public static let globalSemanticInfo100 = UIColor(red: 0.000, green: 0.467, blue: 0.639, alpha: 1)
     public static let globalSemanticSuccesso100 = UIColor(red: 0.016, green: 0.596, blue: 0.580, alpha: 1)
     public static let globalSemanticWarning100 = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
+    public static let specificCardOverlayGradientImg = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let specificDataEntryBorderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let specificDataEntryBorderColorError = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
     public static let specificDataEntryBorderColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
