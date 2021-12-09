@@ -911,7 +911,7 @@
       }
     },
     "style": {
-      "h6-medium": {
+      "h6-md": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -925,7 +925,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H6 Medium (MD)"
       },
-      "h5-medium": {
+      "h5-md": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -939,7 +939,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H5 Medium (MD)"
       },
-      "h4-medium": {
+      "h4-md": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -953,7 +953,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H4 Medium (MD)"
       },
-      "h4-large": {
+      "h4-lg": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -967,7 +967,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H4 Large (LG)"
       },
-      "h3-medium": {
+      "h3-md": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -981,7 +981,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H3 Medium (MD)"
       },
-      "h3-large": {
+      "h3-lg": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -995,7 +995,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H3 Large (LG)"
       },
-      "h2-medium": {
+      "h2-md": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1009,7 +1009,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H2 Medium (MD)"
       },
-      "h2-large": {
+      "h2-lg": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1023,7 +1023,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H2 Large (LG)"
       },
-      "h1-medium": {
+      "h1-md": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1037,7 +1037,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H1 Medium (MD)"
       },
-      "h1-large": {
+      "h1-lg": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1051,7 +1051,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H1 Large (LG)"
       },
-      "h1-extralarge": {
+      "h1-xl": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1063,9 +1063,9 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H1 Extra-Large (XL)"
+        "description": "🔸 Token alias: Stile di testo da applicare agli H1 Extra-lg (XL)"
       },
-      "link-h3-medium-01": {
+      "link-h3-md-01": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1079,7 +1079,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Link utilizzati nelle titolazioni H3 Medium (MD) con Font Size Titillium Web"
       },
-      "link-h4-medium-01": {
+      "link-h4-md-01": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1093,7 +1093,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Link utilizzati nelle titolazioni H4 Medium (MD) con Font Size Titillium Web"
       },
-      "link-p-medium-02": {
+      "link-p-md-02": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.02}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1107,7 +1107,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Lora"
       },
-      "link-p-medium-01": {
+      "link-p-md-01": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1121,7 +1121,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Titillium Web"
       },
-      "link-p-large-02": {
+      "link-p-lg-02": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.02}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1135,7 +1135,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Lora"
       },
-      "link-p-large-01": {
+      "link-p-lg-01": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1289,7 +1289,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Disclaimer"
       },
-      "signature-p-large-02": {
+      "signature-p-lg-02": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.02}",
           "fontWeight": "{typography.global.fontWeights.700-i}",
@@ -1303,7 +1303,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
       },
-      "signature-p-medium-02": {
+      "signature-p-md-02": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.02}",
           "fontWeight": "{typography.global.fontWeights.700-i}",
@@ -1317,7 +1317,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
       },
-      "p-medium-01": {
+      "p-md-01": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.400}",
@@ -1331,7 +1331,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Titillium Web"
       },
-      "p-medium-02": {
+      "p-md-02": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.02}",
           "fontWeight": "{typography.global.fontWeights.400}",
@@ -1345,7 +1345,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Lora"
       },
-      "p-large-02": {
+      "p-lg-02": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.02}",
           "fontWeight": "{typography.global.fontWeights.400}",
@@ -1359,7 +1359,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Lora"
       },
-      "p-large-01": {
+      "p-lg-01": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.400}",
