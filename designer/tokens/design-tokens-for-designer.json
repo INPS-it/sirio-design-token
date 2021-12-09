@@ -1065,7 +1065,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H1 Extra-Large (XL)"
       },
-      "link-h3-medum-01": {
+      "link-h3-medium-01": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
@@ -1079,7 +1079,7 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Link utilizzati nelle titolazioni H3 Medium (MD) con Font Size Titillium Web"
       },
-      "link-h4-medum-01": {
+      "link-h4-medium-01": {
         "value": {
           "fontFamily": "{typography.global.fontFamily.01}",
           "fontWeight": "{typography.global.fontWeights.700}",
