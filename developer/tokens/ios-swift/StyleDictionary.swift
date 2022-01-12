@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Dec 2021 14:59:14 GMT
+// Generated on Wed, 12 Jan 2022 15:57:44 GMT
 
 
 import UIKit
@@ -98,8 +98,8 @@ public class StyleDictionary {
     public static let colorSpecificOptionBackgroundColorValued = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorSpecificProgressbarBackgroundColor = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let typographyAliasDisclaimerFontWeight400 = Regular
-    public static let typographyAliasDisclaimerMdLineHeight03 = 21
-    public static let typographyAliasDisclaimerMdSize03 = 14
+    public static let typographyAliasDisclaimerMdLineHeight04 = 24
+    public static let typographyAliasDisclaimerMdSize04 = 16
     public static let typographyAliasFontFamilyHeading01 = Titillium Web
     public static let typographyAliasFontFamilyNumber03 = Roboto Mono
     public static let typographyAliasFontFamilyText01 = Titillium Web
@@ -129,17 +129,26 @@ public class StyleDictionary {
     public static let typographyAliasH5FontWeight600 = SemiBold
     public static let typographyAliasH5MdLineHeight06 = 30
     public static let typographyAliasH5MdSize06 = 20
-    public static let typographyAliasH6FontWeight400 = Regular
+    public static let typographyAliasH6FontWeight600 = SemiBold
     public static let typographyAliasH6MdLineHeight05 = 27
     public static let typographyAliasH6MdSize05 = 18
+    public static let typographyAliasLabelFontWeight400 = Regular
     public static let typographyAliasLabelFontWeight600 = SemiBold
-    public static let typographyAliasLabelMdLineHeight04 = 24
+    public static let typographyAliasLabelFontWeight700 = Bold
+    public static let typographyAliasLabelLgSize05 = 18
+    public static let typographyAliasLabelLineHeight01 = 16
     public static let typographyAliasLabelMdSize04 = 16
+    public static let typographyAliasLabelXlLineHeight03 = 21
+    public static let typographyAliasLabelXlSize06 = 20
     public static let typographyAliasLinkFontWeight700 = Bold
-    public static let typographyAliasLinkLgLineHeight05 = 27
-    public static let typographyAliasLinkLgSize05 = 18
-    public static let typographyAliasLinkMdLineHeight04 = 24
-    public static let typographyAliasLinkMdSize04 = 16
+    public static let typographyAliasLinkH3MdLineHeight09 = 48
+    public static let typographyAliasLinkH3MdSize09 = 32
+    public static let typographyAliasLinkH4MdLineHeight07 = 36
+    public static let typographyAliasLinkH4MdSize07 = 24
+    public static let typographyAliasLinkPLgLineHeight05 = 27
+    public static let typographyAliasLinkPLgSize05 = 18
+    public static let typographyAliasLinkPMdLineHeight04 = 24
+    public static let typographyAliasLinkPMdSize04 = 16
     public static let typographyAliasPFontWeight400 = Regular
     public static let typographyAliasPLgLineHeight05 = 27
     public static let typographyAliasPLgSize05 = 18

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Dec 2021 14:59:14 GMT
+// Generated on Wed, 12 Jan 2022 15:57:44 GMT
 
 
 import UIKit
@@ -51,6 +51,7 @@ public enum StyleDictionaryColor {
     public static let globalDarkSecondary120 = UIColor(red: 0.090, green: 0.098, blue: 0.110, alpha: 1)
     public static let globalDarkSecondary125 = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let globalDarkSecondary130 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let globalGradient01 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let globalGradient02 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let globalLightPrimary40 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
     public static let globalLightPrimary50 = UIColor(red: 0.761, green: 0.886, blue: 0.941, alpha: 1)

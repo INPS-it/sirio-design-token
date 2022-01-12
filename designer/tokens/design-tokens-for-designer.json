@@ -754,25 +754,45 @@
         "type": "fontSizes",
         "description": "🟣 Token alias: Font size da associare agli Paragrafi Medium (MD) presenti in pagina"
       },
+      "label-xl-size-06": {
+        "value": "{typography.global.fontSize.06}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare agli Label Extra Large (XL) presenti in pagina"
+      },
+      "label-lg-size-05": {
+        "value": "{typography.global.fontSize.05}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare agli Label Large (LG) presenti in pagina"
+      },
       "label-md-size-04": {
         "value": "{typography.global.fontSize.04}",
         "type": "fontSizes",
         "description": "🟣 Token alias: Font size da associare agli Label Medium (MD) presenti in pagina"
       },
-      "disclaimer-md-size-03": {
-        "value": "{typography.global.fontSize.03}",
+      "disclaimer-md-size-04": {
+        "value": "{typography.global.fontSize.04}",
         "type": "fontSizes",
         "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
       },
-      "link-lg-size-05": {
+      "link-h3-md-size-09": {
+        "value": "{typography.global.fontSize.09}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un H3 Medium (MD)"
+      },
+      "link-h4-md-size-07": {
+        "value": "{typography.global.fontSize.07}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un H4 Medium (MD)"
+      },
+      "link-p-lg-size-05": {
         "value": "{typography.global.fontSize.05}",
         "type": "fontSizes",
-        "description": "🟣 Token alias: Font size da associare agli Label Large (LG) presenti in pagina"
+        "description": "🟣 Token alias: Font size da associare ai Link Large (LG) presenti in un paragrafo Large (LG)"
       },
-      "link-md-size-04": {
+      "link-p-md-size-04": {
         "value": "{typography.global.fontSize.04}",
         "type": "fontSizes",
-        "description": "🟣 Token alias: Font size da associare agli Label Medium (MD) presenti in pagina"
+        "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un paragrafo Medium (MD)"
       },
       "h1-xl-line-height-15": {
         "value": "{typography.global.lineHeights.15}",
@@ -839,25 +859,40 @@
         "type": "lineHeights",
         "description": "🟣 Token alias: Line Height da associare agli Paragrafo Medium (MD)"
       },
-      "label-md-line-height-04": {
-        "value": "{typography.global.lineHeights.04}",
+      "label-xl-line-height-03": {
+        "value": "{typography.global.lineHeights.03}",
+        "type": "lineHeights",
+        "description": "🟣 Token alias: Line Height da associare agli Label Extra Large (XL)"
+      },
+      "label-line-height-01": {
+        "value": "{typography.global.lineHeights.01}",
         "type": "lineHeights",
         "description": "🟣 Token alias: Line Height da associare agli Label Medium (MD)"
       },
-      "disclaimer-md-line-height-03": {
-        "value": "{typography.global.lineHeights.03}",
+      "disclaimer-md-line-height-04": {
+        "value": "{typography.global.lineHeights.04}",
         "type": "lineHeights",
         "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
       },
-      "link-lg-line-height-05": {
+      "link-h3-md-line-height-09": {
+        "value": "{typography.global.lineHeights.09}",
+        "type": "lineHeights",
+        "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un H3 Medium (MD)"
+      },
+      "link-h4-md-line-height-07": {
+        "value": "{typography.global.lineHeights.07}",
+        "type": "lineHeights",
+        "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un H4 Medium (MD)"
+      },
+      "link-p-lg-line-height-05": {
         "value": "{typography.global.lineHeights.05}",
         "type": "lineHeights",
-        "description": "🟣 Token alias: Line Height da associare agli Link Large (LG)"
+        "description": "🟣 Token alias: Line Height da associare agli Link Large (LG) all'interno di un Paragrafo Large (LG)"
       },
-      "link-md-line-height-04": {
+      "link-p-md-line-height-04": {
         "value": "{typography.global.lineHeights.04}",
         "type": "lineHeights",
-        "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD)"
+        "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un Paragrafo Medium (MD)"
       },
       "h1-font-weight-700": {
         "value": "{typography.global.fontWeights.700}",
@@ -884,20 +919,30 @@
         "type": "fontWeights",
         "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti gli H5"
       },
-      "h6-font-weight-400": {
-        "value": "{typography.global.fontWeights.400}",
+      "h6-font-weight-600": {
+        "value": "{typography.global.fontWeights.600}",
         "type": "fontWeights",
-        "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti gli H6"
+        "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti gli H6"
       },
       "p-font-weight-400": {
         "value": "{typography.global.fontWeights.400}",
         "type": "fontWeights",
         "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti i Paragrafi"
       },
+      "label-font-weight-700": {
+        "value": "{typography.global.fontWeights.700}",
+        "type": "fontWeights",
+        "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti le Label"
+      },
       "label-font-weight-600": {
         "value": "{typography.global.fontWeights.600}",
         "type": "fontWeights",
         "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti le Label"
+      },
+      "label-font-weight-400": {
+        "value": "{typography.global.fontWeights.400}",
+        "type": "fontWeights",
+        "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti le Label"
       },
       "disclaimer-font-weight-400": {
         "value": "{typography.global.fontWeights.400}",
@@ -913,10 +958,10 @@
     "style": {
       "h6-md": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.05}",
-          "fontSize": "{typography.global.fontSize.05}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h6-font-weight-600}",
+          "lineHeight": "{typography.alias.h6-md-line-height-05}",
+          "fontSize": "{typography.alias.h6-md-size-05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -927,10 +972,10 @@
       },
       "h5-md": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.06}",
-          "fontSize": "{typography.global.fontSize.06}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h5-font-weight-600}",
+          "lineHeight": "{typography.alias.h5-md-line-height-06}",
+          "fontSize": "{typography.alias.h5-md-size-06}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -939,12 +984,12 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H5 Medium (MD)"
       },
-      "h4-md": {
+      "h4-md": { 
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.07}",
-          "fontSize": "{typography.global.fontSize.07}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h4-font-weight-700}",
+          "lineHeight": "{typography.alias.h4-md-line-height-07}",
+          "fontSize": "{typography.alias.h4-md-size-07}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -955,10 +1000,10 @@
       },
       "h4-lg": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.08}",
-          "fontSize": "{typography.global.fontSize.08}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h4-font-weight-700}",
+          "lineHeight": "{typography.alias.h4-lg-line-height-08}",
+          "fontSize": "{typography.alias.h4-lg-size-08}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -967,12 +1012,12 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H4 Large (LG)"
       },
-      "h3-md": {
+      "h3-md": { 
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.09}",
-          "fontSize": "{typography.global.fontSize.09}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h3-font-weight-700}",
+          "lineHeight": "{typography.alias.h3-md-line-height-09}",
+          "fontSize": "{typography.alias.h3-md-size-09}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -983,10 +1028,10 @@
       },
       "h3-lg": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.10}",
-          "fontSize": "{typography.global.fontSize.10}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h3-font-weight-700}",
+          "lineHeight": "{typography.alias.h3-lg-line-height-10}",
+          "fontSize": "{typography.alias.h3-lg-size-10}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -997,10 +1042,10 @@
       },
       "h2-md": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.11}",
-          "fontSize": "{typography.global.fontSize.11}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h2-font-weight-700}",
+          "lineHeight": "{typography.alias.h2-md-line-height-11}",
+          "fontSize": "{typography.alias.h2-md-size-11}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1011,10 +1056,10 @@
       },
       "h2-lg": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.12}",
-          "fontSize": "{typography.global.fontSize.12}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h2-font-weight-700}",
+          "lineHeight": "{typography.alias.h2-lg-line-height-12}",
+          "fontSize": "{typography.alias.h2-lg-size-12}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1025,10 +1070,10 @@
       },
       "h1-md": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.13}",
-          "fontSize": "{typography.global.fontSize.13}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h1-font-weight-700}",
+          "lineHeight": "{typography.alias.h1-md-line-height-13}",
+          "fontSize": "{typography.alias.h1-md-size-13}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1039,10 +1084,10 @@
       },
       "h1-lg": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.14}",
-          "fontSize": "{typography.global.fontSize.14}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h1-font-weight-700}",
+          "lineHeight": "{typography.alias.h1-lg-line-height-14}",
+          "fontSize": "{typography.alias.h1-lg-size-14}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1053,10 +1098,10 @@
       },
       "h1-xl": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.15}",
-          "fontSize": "{typography.global.fontSize.15}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h1-font-weight-700}",
+          "lineHeight": "{typography.alias.h1-xl-line-height-15}",
+          "fontSize": "{typography.alias.h1-xl-size-15}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1065,12 +1110,12 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare agli H1 Extra-lg (XL)"
       },
-      "link-h3-md-01": {
+      "link-h3-md-01": { 
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.09}",
-          "fontSize": "{typography.global.fontSize.09}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.h3-md-line-height-09}",
+          "fontSize": "{typography.alias.link-h3-md-size-09}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1081,10 +1126,10 @@
       },
       "link-h4-md-01": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.07}",
-          "fontSize": "{typography.global.fontSize.07}",
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-h4-md-line-height-07}",
+          "fontSize": "{typography.alias.link-h4-md-size-07}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1095,24 +1140,24 @@
       },
       "link-p-md-02": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.02}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.04}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-p-md-line-height-04}",
+          "fontSize": "{typography.alias.link-p-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
-          "textDecoration": "underline"
+          "textDecoration": "underline"         
         },
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Lora"
       },
       "link-p-md-01": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.04}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-p-md-line-height-04}",
+          "fontSize": "{typography.alias.link-p-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1123,10 +1168,10 @@
       },
       "link-p-lg-02": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.02}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.05}",
-          "fontSize": "{typography.global.fontSize.05}",
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-p-lg-line-height-05}",
+          "fontSize": "{typography.alias.link-p-lg-size-05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1137,10 +1182,10 @@
       },
       "link-p-lg-01": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.05}",
-          "fontSize": "{typography.global.fontSize.05}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-p-lg-line-height-05}",
+          "fontSize": "{typography.alias.link-p-lg-size-05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1151,10 +1196,10 @@
       },
       "label-xl-700": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.03}",
-          "fontSize": "{typography.global.fontSize.06}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-700}",
+          "lineHeight": "{typography.alias.label-xl-line-height-03}",
+          "fontSize": "{typography.alias.label-xl-size-06}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1165,10 +1210,10 @@
       },
       "label-xl-400": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.400}",
-          "lineHeight": "{typography.global.lineHeights.03}",
-          "fontSize": "{typography.global.fontSize.06}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.alias.label-xl-line-height-03}",
+          "fontSize": "{typography.alias.label-xl-size-06}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1179,10 +1224,10 @@
       },
       "label-lg-700": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.02}",
-          "fontSize": "{typography.global.fontSize.05}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-700}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-lg-size-05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1193,10 +1238,10 @@
       },
       "label-md-700": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.01}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-700}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1207,10 +1252,10 @@
       },
       "label-md-600": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.600}",
-          "lineHeight": "{typography.global.lineHeights.01}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-600}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1221,10 +1266,10 @@
       },
       "label-md-400": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.400}",
-          "lineHeight": "{typography.global.lineHeights.01}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1235,10 +1280,10 @@
       },
       "label-md-number-400": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.03}",
-          "fontWeight": "{typography.global.fontWeights.400}",
-          "lineHeight": "{typography.global.lineHeights.01}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-number-03}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1249,7 +1294,7 @@
       },
       "placeholder-md-400": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
           "fontWeight": "{typography.global.fontWeights.400}",
           "lineHeight": "{typography.global.lineHeights.01}",
           "fontSize": "{typography.global.fontSize.04}",
@@ -1263,7 +1308,7 @@
       },
       "helper-text-xs-400": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
           "fontWeight": "{typography.global.fontWeights.400}",
           "lineHeight": "12px",
           "fontSize": "{typography.global.fontSize.02}",
@@ -1275,12 +1320,12 @@
         "type": "typography",
         "description": "🔸 Token alias: Stile di testo da applicare ai Placeholder"
       },
-      "disclaimer-base": {
+      "disclaimer-md-400": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.700}",
-          "lineHeight": "{typography.global.lineHeights.04}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.disclaimer-font-weight-400}",
+          "lineHeight": "{typography.alias.disclaimer-md-line-height-04}",
+          "fontSize": "{typography.alias.disclaimer-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1291,10 +1336,10 @@
       },
       "signature-p-lg-02": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.02}",
+          "fontFamily": "{typography.alias.font-family-text-02}",
           "fontWeight": "{typography.global.fontWeights.700-i}",
-          "lineHeight": "{typography.global.lineHeights.05}",
-          "fontSize": "{typography.global.fontSize.05}",
+          "lineHeight": "{typography.alias.p-lg-line-height-05}",
+          "fontSize": "{typography.alias.p-lg-size-05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1305,10 +1350,10 @@
       },
       "signature-p-md-02": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.02}",
+          "fontFamily": "{typography.alias.font-family-text-02}",
           "fontWeight": "{typography.global.fontWeights.700-i}",
-          "lineHeight": "{typography.global.lineHeights.04}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "lineHeight": "{typography.alias.p-md-line-height-04}",
+          "fontSize": "{typography.alias.p-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1319,10 +1364,10 @@
       },
       "p-md-01": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.400}",
-          "lineHeight": "{typography.global.lineHeights.04}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.p-font-weight-400}",
+          "lineHeight": "{typography.alias.p-md-line-height-04}",
+          "fontSize": "{typography.alias.p-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1333,10 +1378,10 @@
       },
       "p-md-02": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.02}",
-          "fontWeight": "{typography.global.fontWeights.400}",
-          "lineHeight": "{typography.global.lineHeights.04}",
-          "fontSize": "{typography.global.fontSize.04}",
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.alias.p-font-weight-400}",
+          "lineHeight": "{typography.alias.p-md-line-height-04}",
+          "fontSize": "{typography.alias.p-md-size-04}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1347,10 +1392,10 @@
       },
       "p-lg-02": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.02}",
-          "fontWeight": "{typography.global.fontWeights.400}",
-          "lineHeight": "{typography.global.lineHeights.05}",
-          "fontSize": "{typography.global.fontSize.05}",
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.alias.p-font-weight-400}",
+          "lineHeight": "{typography.alias.p-lg-line-height-05}",
+          "fontSize": "{typography.alias.p-lg-size-05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -1361,10 +1406,10 @@
       },
       "p-lg-01": {
         "value": {
-          "fontFamily": "{typography.global.fontFamily.01}",
-          "fontWeight": "{typography.global.fontWeights.400}",
-          "lineHeight": "{typography.global.lineHeights.05}",
-          "fontSize": "{typography.global.fontSize.05}",
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.p-font-weight-400}",
+          "lineHeight": "{typography.alias.p-lg-line-height-05}",
+          "fontSize": "{typography.alias.p-lg-size-05}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",

@@ -754,25 +754,45 @@
         "type": "fontSizes",
         "description": "🟣 Token alias: Font size da associare agli Paragrafi Medium (MD) presenti in pagina"
       },
+      "label-xl-size-06": {
+        "value": "{typography.global.fontSize.06.value}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare agli Label Extra Large (XL) presenti in pagina"
+      },
+      "label-lg-size-05": {
+        "value": "{typography.global.fontSize.05.value}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare agli Label Large (LG) presenti in pagina"
+      },
       "label-md-size-04": {
         "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
         "description": "🟣 Token alias: Font size da associare agli Label Medium (MD) presenti in pagina"
       },
-      "disclaimer-md-size-03": {
-        "value": "{typography.global.fontSize.03.value}",
+      "disclaimer-md-size-04": {
+        "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
         "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
       },
-      "link-lg-size-05": {
+      "link-h3-md-size-09": {
+        "value": "{typography.global.fontSize.09.value}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un H3 Medium (MD)"
+      },
+      "link-h4-md-size-07": {
+        "value": "{typography.global.fontSize.07.value}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un H4 Medium (MD)"
+      },
+      "link-p-lg-size-05": {
         "value": "{typography.global.fontSize.05.value}",
         "type": "fontSizes",
-        "description": "🟣 Token alias: Font size da associare agli Label Large (LG) presenti in pagina"
+        "description": "🟣 Token alias: Font size da associare ai Link Large (LG) presenti in un paragrafo Large (LG)"
       },
-      "link-md-size-04": {
+      "link-p-md-size-04": {
         "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
-        "description": "🟣 Token alias: Font size da associare agli Label Medium (MD) presenti in pagina"
+        "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un paragrafo Medium (MD)"
       },
       "h1-xl-line-height-15": {
         "value": "{typography.global.lineHeights.15.value}",
@@ -839,25 +859,40 @@
         "type": "lineHeights",
         "description": "🟣 Token alias: Line Height da associare agli Paragrafo Medium (MD)"
       },
-      "label-md-line-height-04": {
-        "value": "{typography.global.lineHeights.04.value}",
+      "label-xl-line-height-03": {
+        "value": "{typography.global.lineHeights.03.value}",
+        "type": "lineHeights",
+        "description": "🟣 Token alias: Line Height da associare agli Label Extra Large (XL)"
+      },
+      "label-line-height-01": {
+        "value": "{typography.global.lineHeights.01.value}",
         "type": "lineHeights",
         "description": "🟣 Token alias: Line Height da associare agli Label Medium (MD)"
       },
-      "disclaimer-md-line-height-03": {
-        "value": "{typography.global.lineHeights.03.value}",
+      "disclaimer-md-line-height-04": {
+        "value": "{typography.global.lineHeights.04.value}",
         "type": "lineHeights",
         "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
       },
-      "link-lg-line-height-05": {
+      "link-h3-md-line-height-09": {
+        "value": "{typography.global.lineHeights.09.value}",
+        "type": "lineHeights",
+        "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un H3 Medium (MD)"
+      },
+      "link-h4-md-line-height-07": {
+        "value": "{typography.global.lineHeights.07.value}",
+        "type": "lineHeights",
+        "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un H4 Medium (MD)"
+      },
+      "link-p-lg-line-height-05": {
         "value": "{typography.global.lineHeights.05.value}",
         "type": "lineHeights",
-        "description": "🟣 Token alias: Line Height da associare agli Link Large (LG)"
+        "description": "🟣 Token alias: Line Height da associare agli Link Large (LG) all'interno di un Paragrafo Large (LG)"
       },
-      "link-md-line-height-04": {
+      "link-p-md-line-height-04": {
         "value": "{typography.global.lineHeights.04.value}",
         "type": "lineHeights",
-        "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD)"
+        "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un Paragrafo Medium (MD)"
       },
       "h1-font-weight-700": {
         "value": "{typography.global.fontWeights.700.value}",
@@ -884,20 +919,30 @@
         "type": "fontWeights",
         "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti gli H5"
       },
-      "h6-font-weight-400": {
-        "value": "{typography.global.fontWeights.400.value}",
+      "h6-font-weight-600": {
+        "value": "{typography.global.fontWeights.600.value}",
         "type": "fontWeights",
-        "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti gli H6"
+        "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti gli H6"
       },
       "p-font-weight-400": {
         "value": "{typography.global.fontWeights.400.value}",
         "type": "fontWeights",
         "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti i Paragrafi"
       },
+      "label-font-weight-700": {
+        "value": "{typography.global.fontWeights.700.value}",
+        "type": "fontWeights",
+        "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti le Label"
+      },
       "label-font-weight-600": {
         "value": "{typography.global.fontWeights.600.value}",
         "type": "fontWeights",
         "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti le Label"
+      },
+      "label-font-weight-400": {
+        "value": "{typography.global.fontWeights.400.value}",
+        "type": "fontWeights",
+        "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti le Label"
       },
       "disclaimer-font-weight-400": {
         "value": "{typography.global.fontWeights.400.value}",
