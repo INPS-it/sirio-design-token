@@ -199,7 +199,7 @@
         "description": "🟣 Token alias: Colore di accento che identifica il passaggio del mouse su un elemento "
       },
       "interactive-accent-focus": {
-        "value": "{color.global.accent-110}",
+        "value": "{color.global.accent-100}",
         "type": "color",
         "description": "🟣 Token alias: Colore di accento che identifica la selezione di un elemento usando una tastiera o una voce"
       },
@@ -219,7 +219,7 @@
         "description": "🟣 Token alias: Colore declinato dal primario che identifica il passaggio del mouse su un elemento"
       },
       "interactive-primary-focus": {
-        "value": "{color.global.dark-primary-115}",
+        "value": "{color.global.primary-100}",
         "type": "color",
         "description": "🟣 Token alias: Colore declinato dal primario che identifica la selezione di un elemento usando una tastiera o una voce"
       },
@@ -239,7 +239,7 @@
         "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente può interagire"
       },
       "interactive-secondary-focus": {
-        "value": "{color.global.dark-secondary-120}",
+        "value": "{color.global.secondary-100}",
         "type": "color",
         "description": "🟣 Token alias: Colore declinato dal secondario che identifica la selezione di un elemento usando una tastiera o una voce"
       },
@@ -259,7 +259,7 @@
         "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
       },
       "interactive-red-focus": {
-        "value": "{color.global.semantic-alert-120}",
+        "value": "{color.global.semantic-alert-100}",
         "type": "color",
         "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
       },

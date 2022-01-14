@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 12 Jan 2022 15:57:44 GMT
+// Generated on Fri, 14 Jan 2022 09:57:12 GMT
 
 
 import UIKit
@@ -17,20 +17,20 @@ public class StyleDictionary {
     public static let colorAliasGradientAccentPrimary = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorAliasGradientAccentPrimaryDark = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorAliasInteractiveAccentDefault = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
-    public static let colorAliasInteractiveAccentFocus = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
+    public static let colorAliasInteractiveAccentFocus = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let colorAliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let colorAliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
     public static let colorAliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
     public static let colorAliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
-    public static let colorAliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let colorAliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorAliasInteractivePrimaryHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorAliasInteractivePrimaryPressed = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
     public static let colorAliasInteractiveRedDefault = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
-    public static let colorAliasInteractiveRedFocus = UIColor(red: 0.333, green: 0.067, blue: 0.157, alpha: 1)
+    public static let colorAliasInteractiveRedFocus = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
     public static let colorAliasInteractiveRedHover = UIColor(red: 0.498, green: 0.102, blue: 0.231, alpha: 1)
     public static let colorAliasInteractiveRedPressed = UIColor(red: 0.247, green: 0.051, blue: 0.106, alpha: 1)
     public static let colorAliasInteractiveSecondaryDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
-    public static let colorAliasInteractiveSecondaryFocus = UIColor(red: 0.090, green: 0.098, blue: 0.110, alpha: 1)
+    public static let colorAliasInteractiveSecondaryFocus = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorAliasInteractiveSecondaryHover = UIColor(red: 0.176, green: 0.200, blue: 0.224, alpha: 1)
     public static let colorAliasInteractiveSecondaryPressed = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let colorAliasTextColorDisabled = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
@@ -79,20 +79,20 @@ public class StyleDictionary {
     public static let colorSpecificCardOverlayGradientImg = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorSpecificDataEntryBorderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorSpecificDataEntryBorderColorError = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
-    public static let colorSpecificDataEntryBorderColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let colorSpecificDataEntryBorderColorFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorSpecificDataEntryBorderColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorSpecificDataEntryBorderColorSuccess = UIColor(red: 0.016, green: 0.596, blue: 0.580, alpha: 1)
     public static let colorSpecificDataEntryBorderColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorSpecificDataEntryBorderColorWarning = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
     public static let colorSpecificDataEntryLabelColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
-    public static let colorSpecificDataEntryLabelColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let colorSpecificDataEntryLabelColorFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorSpecificDataEntryLabelColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorSpecificDataEntryLabelColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorSpecificDataEntryPlaceholderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
-    public static let colorSpecificDataEntryPlaceholderColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let colorSpecificDataEntryPlaceholderColorFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorSpecificDataEntryPlaceholderColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorSpecificDataEntryPlaceholderColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
-    public static let colorSpecificOptionBackgroundColorFocus = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let colorSpecificOptionBackgroundColorFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorSpecificOptionBackgroundColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorSpecificOptionBackgroundColorPressed = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
     public static let colorSpecificOptionBackgroundColorValued = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
