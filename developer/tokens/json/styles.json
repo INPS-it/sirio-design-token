@@ -65,6 +65,7 @@
   "ColorAliasInteractiveBorderFocus": "#0092d1",
   "ColorAliasGradientAccentPrimaryDark": "#000000",
   "ColorAliasGradientAccentPrimary": "#000000",
+  "ColorAliasOverlayDarkPrimary120": "#00354c",
   "ColorSpecificDataEntryLabelColorDefault": "#454d56",
   "ColorSpecificDataEntryLabelColorHover": "#005980",
   "ColorSpecificDataEntryLabelColorFocus": "#007db3",

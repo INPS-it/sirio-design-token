@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 14 Jan 2022 09:57:11 GMT
+// Generated on Mon, 17 Jan 2022 10:38:47 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -76,6 +76,7 @@ ColorAliasBackgroundColorPrimaryDark0,
 ColorAliasInteractiveBorderFocus,
 ColorAliasGradientAccentPrimaryDark,
 ColorAliasGradientAccentPrimary,
+ColorAliasOverlayDarkPrimary120,
 ColorSpecificDataEntryLabelColorDefault,
 ColorSpecificDataEntryLabelColorHover,
 ColorSpecificDataEntryLabelColorFocus,
