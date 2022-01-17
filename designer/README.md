@@ -21,7 +21,7 @@ All'interno di questa cartella è presente un file JSON che puoi utilizzare come
 4. Copia il contenuto (puoi anche copiare il suo contenuto da github)
 5. Accedi a Figma, quindi al progetto su cui vuoi importare i token
 6. Apri il plugin e incolla TUTTO il contenuto del JSON nel tab del plugin "JSON", clicca su "Save"
-7. Ora dovresti vedere i token nel pannello del plugin "Tokens"
+7. Ora dovresti vedere i token nel pannello del plugin "Tokens".
 
 Ora puoi applicare i token agli elementi del tuo progetto. Segui la documentazione del plugin per scoprire come fare:
 https://docs.tokens.studio/getting-started
