@@ -2,7 +2,6 @@
 //
 // StyleDictionaryColor.swift
 //
-
 // Do not edit directly
 // Generated on Mon, 17 Jan 2022 10:38:47 GMT
 

@@ -81,7 +81,7 @@ I token specifici del componente costituiscono i token che rappresentano proprie
 
 ## 🛠 Strumenti per Developer
 ### 1. Scaricare o clonare il repo sul proprio computer
-Puoi [scaricare questo pacchetto](🔗 https://github.com/martinapaper/martinapaper) o clonarlo tramite il terminale.
+Puoi [scaricare questo pacchetto](🔗 https://github.com/INPS-it/sirio-design-token.git) o clonarlo tramite il terminale.
 Abbiamo trasformato i nostri token tramite la libreria [Amazon style dictionary](🔗 https://amzn.github.io/style-dictionary/#/).
 
 

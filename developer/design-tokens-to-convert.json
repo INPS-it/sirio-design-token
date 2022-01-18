@@ -877,7 +877,7 @@
       "disclaimer-md-line-height-04": {
         "value": "{typography.global.lineHeights.04.value}",
         "type": "lineHeights",
-        "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
+        "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium(MD)"
       },
       "link-h3-md-line-height-09": {
         "value": "{typography.global.lineHeights.09.value}",
