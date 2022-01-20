@@ -2,8 +2,9 @@
 //
 // StyleDictionary.swift
 //
+
 // Do not edit directly
-// Generated on Mon, 17 Jan 2022 10:38:47 GMT
+// Generated on Thu, 20 Jan 2022 11:15:21 GMT
 
 
 import UIKit
@@ -18,7 +19,7 @@ public class StyleDictionary {
     public static let colorAliasInteractiveAccentDefault = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let colorAliasInteractiveAccentFocus = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let colorAliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
-    public static let colorAliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
+    public static let colorAliasInteractiveAccentPressed = UIColor(red: 0.400, green: 0.910, blue: 0.976, alpha: 1)
     public static let colorAliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
     public static let colorAliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorAliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
@@ -41,7 +42,7 @@ public class StyleDictionary {
     public static let colorAliasTextColorSecondaryDark1 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorGlobalAccent100 = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let colorGlobalAccent110 = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
-    public static let colorGlobalAccent120 = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
+    public static let colorGlobalAccent65 = UIColor(red: 0.400, green: 0.910, blue: 0.976, alpha: 1)
     public static let colorGlobalAccent70 = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let colorGlobalDarkPrimary110 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorGlobalDarkPrimary115 = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)

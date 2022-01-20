@@ -26,6 +26,11 @@
         "type": "color",
         "description": "🟡 Token globale: Colore di accento"
       },
+      "accent-65": {
+        "value": "#66E8F9",
+        "type": "color",
+        "description": "🟡 Token globale: Colore di accento declinato dal principale"
+      },
       "accent-70": {
         "value": "#8ce7f3",
         "type": "color",
@@ -33,11 +38,6 @@
       },
       "accent-110": {
         "value": "#13a5b9",
-        "type": "color",
-        "description": "🟡 Token globale: Colore di accento declinato dal principale"
-      },
-      "accent-120": {
-        "value": "#0f7d8a",
         "type": "color",
         "description": "🟡 Token globale: Colore di accento declinato dal principale"
       },
@@ -204,7 +204,7 @@
         "description": "🟣 Token alias: Colore di accento che identifica la selezione di un elemento usando una tastiera o una voce"
       },
       "interactive-accent-pressed": {
-        "value": "{color.global.accent-120}",
+        "value": "{color.global.accent-65}",
         "type": "color",
         "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente ha interagito"
       },
@@ -334,7 +334,7 @@
         "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
       },
       "overlay-dark-primary-120": {
-        "value": "rgba(0, 53, 76, 0.9)",
+        "value": "rgba(0, 53, 76, 0.9);",
         "type": "color",
         "description": "🟣 Token alias: Colore dark con opacitàal 90%"
       }
@@ -973,7 +973,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H6 Medium (MD)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H6 Medium (MD)"
       },
       "h5-md": {
         "value": {
@@ -987,7 +987,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H5 Medium (MD)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H5 Medium (MD)"
       },
       "h4-md": { 
         "value": {
@@ -1001,7 +1001,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H4 Medium (MD)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H4 Medium (MD)"
       },
       "h4-lg": {
         "value": {
@@ -1015,7 +1015,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H4 Large (LG)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H4 Large (LG)"
       },
       "h3-md": { 
         "value": {
@@ -1029,7 +1029,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H3 Medium (MD)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H3 Medium (MD)"
       },
       "h3-lg": {
         "value": {
@@ -1043,7 +1043,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H3 Large (LG)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H3 Large (LG)"
       },
       "h2-md": {
         "value": {
@@ -1057,7 +1057,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H2 Medium (MD)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H2 Medium (MD)"
       },
       "h2-lg": {
         "value": {
@@ -1071,7 +1071,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H2 Large (LG)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H2 Large (LG)"
       },
       "h1-md": {
         "value": {
@@ -1085,7 +1085,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H1 Medium (MD)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Medium (MD)"
       },
       "h1-lg": {
         "value": {
@@ -1099,7 +1099,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H1 Large (LG)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Large (LG)"
       },
       "h1-xl": {
         "value": {
@@ -1113,7 +1113,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare agli H1 Extra-lg (XL)"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Extra-lg (XL)"
       },
       "link-h3-md-01": { 
         "value": {
@@ -1124,10 +1124,10 @@
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
-          "textDecoration": "underline"
+          "textDecoration": "$textDecoration.underline"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Link utilizzati nelle titolazioni H3 Medium (MD) con Font Size Titillium Web"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link utilizzati nelle titolazioni H3 Medium (MD) con Font Size Titillium Web"
       },
       "link-h4-md-01": {
         "value": {
@@ -1138,10 +1138,10 @@
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
-          "textDecoration": "underline"
+          "textDecoration": "$textDecoration.underline"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Link utilizzati nelle titolazioni H4 Medium (MD) con Font Size Titillium Web"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link utilizzati nelle titolazioni H4 Medium (MD) con Font Size Titillium Web"
       },
       "link-p-md-02": {
         "value": {
@@ -1152,10 +1152,10 @@
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
-          "textDecoration": "underline"         
+          "textDecoration": "$textDecoration.underline"         
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Lora"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Lora"
       },
       "link-p-md-01": {
         "value": {
@@ -1166,10 +1166,10 @@
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
-          "textDecoration": "underline"
+          "textDecoration": "$textDecoration.underline"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Titillium Web"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Titillium Web"
       },
       "link-p-lg-02": {
         "value": {
@@ -1180,10 +1180,10 @@
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
-          "textDecoration": "underline"
+          "textDecoration": "$textDecoration.underline"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Lora"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Lora"
       },
       "link-p-lg-01": {
         "value": {
@@ -1194,10 +1194,10 @@
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
-          "textDecoration": "underline"
+          "textDecoration": "$textDecoration.underline"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Titillium Web"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Titillium Web"
       },
       "label-xl-700": {
         "value": {
@@ -1211,7 +1211,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare alle Label"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
       },
       "label-xl-400": {
         "value": {
@@ -1225,7 +1225,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare alle Label"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
       },
       "label-lg-700": {
         "value": {
@@ -1239,7 +1239,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare alle Label"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
       },
       "label-md-700": {
         "value": {
@@ -1253,7 +1253,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare alle Label"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
       },
       "label-md-600": {
         "value": {
@@ -1267,7 +1267,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare alle Label"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
       },
       "label-md-400": {
         "value": {
@@ -1281,7 +1281,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare alle Label"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
       },
       "label-md-number-400": {
         "value": {
@@ -1295,7 +1295,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare alle Label"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
       },
       "placeholder-md-400": {
         "value": {
@@ -1309,7 +1309,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Placeholder"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Placeholder"
       },
       "helper-text-xs-400": {
         "value": {
@@ -1323,7 +1323,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Placeholder"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Placeholder"
       },
       "disclaimer-md-400": {
         "value": {
@@ -1337,7 +1337,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Disclaimer"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Disclaimer"
       },
       "signature-p-lg-02": {
         "value": {
@@ -1351,7 +1351,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
       },
       "signature-p-md-02": {
         "value": {
@@ -1365,7 +1365,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
       },
       "p-md-01": {
         "value": {
@@ -1379,7 +1379,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Titillium Web"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Titillium Web"
       },
       "p-md-02": {
         "value": {
@@ -1393,7 +1393,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Lora"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Lora"
       },
       "p-lg-02": {
         "value": {
@@ -1407,7 +1407,7 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Lora"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Lora"
       },
       "p-lg-01": {
         "value": {
@@ -1421,7 +1421,63 @@
           "textDecoration": "$textDecoration.none"
         },
         "type": "typography",
-        "description": "🔸 Token alias: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Titillium Web"
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Titillium Web"
+      },
+      "breadcrumb-md-default": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.global.fontWeights-600}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare al Breadcrumb in stato default"
+      },
+      "breadcrumb-md-current": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.global.fontWeights-600}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare al Breadcrumb in stato attivo"
+      },  
+      "breadcrumb-md-hover": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.global.fontWeights-600}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.underline"
+        },
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare al Breadcrumb in stato hover"
+      }, 
+      "breadcrumb-md-focus": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.global.fontWeights-600}",
+          "lineHeight": "{typography.global.lineHeights.04}",
+          "fontSize": "{typography.global.fontSize.04}",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare al Breadcrumb in stato focus"
       },
       "textCase": {
         "none": {

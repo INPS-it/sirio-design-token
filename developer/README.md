@@ -29,16 +29,3 @@ Non modificare il nome del token o il suo valore! se hai bisogno di aggiungere, 
 
 ********************************************************************************************************************************************************************************
 
-## FAQ
-#### 🚨 Noto un errore in un file che contenente la lista dei token che mi occorrono
-1. Segnala il problema, inviaci un report e provvederemo a risolvere l'anomalia.
- 
-#### 🙆‍♀️ Credo sia utile creare un token per un scenario specifico
-1. Contatta il team UX@INPS e segnala l'anomalia
-2. Non procedere in autonomia, fai una richiesta al team e insieme valuteremo l'integrazione del token 
-
-#### 😔 Non riesco ad utilizzare il plugin Figma Token
-1. Puoi cercare risposte nella guida del plugin https://docs.tokens.studio/getting-started, o in alternativa siamo a tua disposizione. Contattaci!
-
-## 🚧 Bug, problemi e richieste di funzionalità
-Contatta il team UX@INPS e segnala l'anomalia

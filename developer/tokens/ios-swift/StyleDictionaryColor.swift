@@ -2,8 +2,9 @@
 //
 // StyleDictionaryColor.swift
 //
+
 // Do not edit directly
-// Generated on Mon, 17 Jan 2022 10:38:47 GMT
+// Generated on Thu, 20 Jan 2022 11:15:21 GMT
 
 
 import UIKit
@@ -18,7 +19,7 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveAccentDefault = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let aliasInteractiveAccentFocus = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let aliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
-    public static let aliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
+    public static let aliasInteractiveAccentPressed = UIColor(red: 0.400, green: 0.910, blue: 0.976, alpha: 1)
     public static let aliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
     public static let aliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let aliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
@@ -41,7 +42,7 @@ public enum StyleDictionaryColor {
     public static let aliasTextColorSecondaryDark1 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let globalAccent100 = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let globalAccent110 = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
-    public static let globalAccent120 = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
+    public static let globalAccent65 = UIColor(red: 0.400, green: 0.910, blue: 0.976, alpha: 1)
     public static let globalAccent70 = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let globalDarkPrimary110 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let globalDarkPrimary115 = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)

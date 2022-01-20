@@ -26,6 +26,11 @@
         "type": "color",
         "description": "🟡 Token globale: Colore di accento"
       },
+      "accent-65": {
+        "value": "#66E8F9",
+        "type": "color",
+        "description": "🟡 Token globale: Colore di accento declinato dal principale"
+      },
       "accent-70": {
         "value": "#8ce7f3",
         "type": "color",
@@ -33,11 +38,6 @@
       },
       "accent-110": {
         "value": "#13a5b9",
-        "type": "color",
-        "description": "🟡 Token globale: Colore di accento declinato dal principale"
-      },
-      "accent-120": {
-        "value": "#0f7d8a",
         "type": "color",
         "description": "🟡 Token globale: Colore di accento declinato dal principale"
       },
@@ -204,7 +204,7 @@
         "description": "🟣 Token alias: Colore di accento che identifica la selezione di un elemento usando una tastiera o una voce"
       },
       "interactive-accent-pressed": {
-        "value": "{color.global.accent-120.value}",
+        "value": "{color.global.accent-65.value}",
         "type": "color",
         "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente ha interagito"
       },
@@ -877,7 +877,7 @@
       "disclaimer-md-line-height-04": {
         "value": "{typography.global.lineHeights.04.value}",
         "type": "lineHeights",
-        "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium(MD)"
+        "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
       },
       "link-h3-md-line-height-09": {
         "value": "{typography.global.lineHeights.09.value}",

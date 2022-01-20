@@ -93,19 +93,3 @@ Puoi [scaricare il tool da qui](🔗 https://www.figma.com/downloads/).
 Puoi [scaricare il plugin da qui](🔗 https://www.figma.com/community/plugin/843461159747178978)
 
 ********************************************************************************************************************************************************************************
-
-
-## FAQ
-#### 🚨 Noto un errore nella name-convention di un token
-1. Contatta il team UX@INPS e segnala l'anomalia
-2. Confrontati con i Designer per effettuare una verifica dei token che sono hanno loro nella libreria
- 
-#### 🙆‍♀️ Credo sia utile creare un token per un scenario specifico
-1. Contatta il team UX@INPS e segnala l'anomalia
-2. Non procedere in autonomia, fai una richiesta al team e insieme valuteremo l'integrazione del token 
-
-#### 😔 Non riesco ad utilizzare il plugin Figma Token
-1. Puoi cercare risposte nella guida del plugin https://docs.tokens.studio/getting-started, o in alternativa siamo a tua disposizione. Contattaci!
-
-## 🚧 Bug, problemi e richieste di funzionalità
-Contatta il team UX@INPS e segnala l'anomalia

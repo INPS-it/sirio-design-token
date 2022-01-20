@@ -2,8 +2,9 @@
 //
 // StyleDictionaryColor.h
 //
+
 // Do not edit directly
-// Generated on Mon, 17 Jan 2022 10:38:47 GMT
+// Generated on Thu, 20 Jan 2022 11:15:21 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -14,9 +15,9 @@ ColorGlobalPrimary000,
 ColorGlobalSecondary100,
 ColorGlobalSecondary90,
 ColorGlobalAccent100,
+ColorGlobalAccent65,
 ColorGlobalAccent70,
 ColorGlobalAccent110,
-ColorGlobalAccent120,
 ColorGlobalDarkPrimary110,
 ColorGlobalDarkPrimary115,
 ColorGlobalDarkPrimary120,
