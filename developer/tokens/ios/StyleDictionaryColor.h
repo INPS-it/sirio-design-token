@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 20 Jan 2022 11:15:21 GMT
+// Generated on Thu, 10 Mar 2022 09:26:16 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -15,9 +15,9 @@ ColorGlobalPrimary000,
 ColorGlobalSecondary100,
 ColorGlobalSecondary90,
 ColorGlobalAccent100,
-ColorGlobalAccent65,
 ColorGlobalAccent70,
 ColorGlobalAccent110,
+ColorGlobalAccent120,
 ColorGlobalDarkPrimary110,
 ColorGlobalDarkPrimary115,
 ColorGlobalDarkPrimary120,
@@ -76,7 +76,6 @@ ColorAliasBackgroundColorPrimaryDark0,
 ColorAliasInteractiveBorderFocus,
 ColorAliasGradientAccentPrimaryDark,
 ColorAliasGradientAccentPrimary,
-ColorAliasOverlayDarkPrimary120,
 ColorSpecificDataEntryLabelColorDefault,
 ColorSpecificDataEntryLabelColorHover,
 ColorSpecificDataEntryLabelColorFocus,
@@ -97,7 +96,12 @@ ColorSpecificOptionBackgroundColorFocus,
 ColorSpecificOptionBackgroundColorPressed,
 ColorSpecificOptionBackgroundColorValued,
 ColorSpecificProgressbarBackgroundColor,
-ColorSpecificCardOverlayGradientImg
+ColorSpecificCardOverlayGradientImg,
+ColorSpecificTabbarIconDefault,
+ColorSpecificTabbarIconActive,
+ColorSpecificTabbarLabelDefault,
+ColorSpecificTabbarLabelActive,
+ColorSpecificTabbarBackgound000
 };
 
 @interface StyleDictionaryColor : NSObject

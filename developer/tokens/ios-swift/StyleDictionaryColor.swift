@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 20 Jan 2022 11:15:21 GMT
+// Generated on Thu, 10 Mar 2022 09:26:16 GMT
 
 
 import UIKit
@@ -19,7 +19,7 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveAccentDefault = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let aliasInteractiveAccentFocus = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let aliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
-    public static let aliasInteractiveAccentPressed = UIColor(red: 0.400, green: 0.910, blue: 0.976, alpha: 1)
+    public static let aliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
     public static let aliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
     public static let aliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let aliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
@@ -33,7 +33,6 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveSecondaryFocus = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let aliasInteractiveSecondaryHover = UIColor(red: 0.176, green: 0.200, blue: 0.224, alpha: 1)
     public static let aliasInteractiveSecondaryPressed = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
-    public static let aliasOverlayDarkPrimary120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 0.9)
     public static let aliasTextColorDisabled = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
     public static let aliasTextColorPrimaryDark0 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let aliasTextColorPrimaryLight0 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -42,7 +41,7 @@ public enum StyleDictionaryColor {
     public static let aliasTextColorSecondaryDark1 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let globalAccent100 = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let globalAccent110 = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
-    public static let globalAccent65 = UIColor(red: 0.400, green: 0.910, blue: 0.976, alpha: 1)
+    public static let globalAccent120 = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
     public static let globalAccent70 = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let globalDarkPrimary110 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let globalDarkPrimary115 = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
@@ -98,4 +97,9 @@ public enum StyleDictionaryColor {
     public static let specificOptionBackgroundColorPressed = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
     public static let specificOptionBackgroundColorValued = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let specificProgressbarBackgroundColor = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let specificTabbarBackgound000 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let specificTabbarIconActive = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
+    public static let specificTabbarIconDefault = UIColor(red: 0.357, green: 0.404, blue: 0.447, alpha: 1)
+    public static let specificTabbarLabelActive = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
+    public static let specificTabbarLabelDefault = UIColor(red: 0.357, green: 0.404, blue: 0.447, alpha: 1)
 }

@@ -4,9 +4,9 @@
   --color-global-secondary-100: #454d56;
   --color-global-secondary-90: #5b6772;
   --color-global-accent-100: #18cee7;
-  --color-global-accent-65: #66e8f9;
   --color-global-accent-70: #8ce7f3;
   --color-global-accent-110: #13a5b9;
+  --color-global-accent-120: #0f7d8a;
   --color-global-dark-primary-110: #005980;
   --color-global-dark-primary-115: #004766;
   --color-global-dark-primary-120: #00354c;
@@ -39,7 +39,7 @@
   --color-alias-interactive-accent-default: #18cee7;
   --color-alias-interactive-accent-hover: #8ce7f3;
   --color-alias-interactive-accent-focus: #18cee7;
-  --color-alias-interactive-accent-pressed: #66e8f9;
+  --color-alias-interactive-accent-pressed: #0f7d8a;
   --color-alias-interactive-primary-default: #007db3;
   --color-alias-interactive-primary-hover: #005980;
   --color-alias-interactive-primary-focus: #007db3;
@@ -65,7 +65,6 @@
   --color-alias-interactive-border-focus: #0092d1;
   --color-alias-gradient-accent-primary-dark: #000000;
   --color-alias-gradient-accent-primary: #000000;
-  --color-alias-overlay-dark-primary-120: rgba(0, 53, 76, 0.9);
   --color-specific-data-entry-label-color-default: #454d56;
   --color-specific-data-entry-label-color-hover: #005980;
   --color-specific-data-entry-label-color-focus: #007db3;
@@ -87,6 +86,11 @@
   --color-specific-option-background-color-valued: #007db3;
   --color-specific-progressbar-background-color: #000000;
   --color-specific-card-overlay-gradient-img: #000000;
+  --color-specific-tabbar-icon-default: #5b6772;
+  --color-specific-tabbar-icon-active: #007db3;
+  --color-specific-tabbar-label-default: #5b6772;
+  --color-specific-tabbar-label-active: #007db3;
+  --color-specific-tabbar-backgound-000: #ffffff;
   --typography-global-font-family-01: Titillium Web;
   --typography-global-font-family-02: Lora;
   --typography-global-font-family-03: Roboto Mono;
@@ -150,6 +154,7 @@
   --typography-alias-label-xl-size-06: 20;
   --typography-alias-label-lg-size-05: 18;
   --typography-alias-label-md-size-04: 16;
+  --typography-alias-label-xs-size-02: 12;
   --typography-alias-disclaimer-md-size-04: 16;
   --typography-alias-link-h3-md-size-09: 32;
   --typography-alias-link-h4-md-size-07: 24;
@@ -187,4 +192,5 @@
   --typography-alias-label-font-weight-400: Regular;
   --typography-alias-disclaimer-font-weight-400: Regular;
   --typography-alias-link-font-weight-700: Bold;
+  --typography-specific-ios-tabbar-label-xs-size: 11;
 }

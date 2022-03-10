@@ -26,11 +26,6 @@
         "type": "color",
         "description": "🟡 Token globale: Colore di accento"
       },
-      "accent-65": {
-        "value": "#66E8F9",
-        "type": "color",
-        "description": "🟡 Token globale: Colore di accento declinato dal principale"
-      },
       "accent-70": {
         "value": "#8ce7f3",
         "type": "color",
@@ -38,6 +33,11 @@
       },
       "accent-110": {
         "value": "#13a5b9",
+        "type": "color",
+        "description": "🟡 Token globale: Colore di accento declinato dal principale"
+      },
+      "accent-120": {
+        "value": "#0f7d8a",
         "type": "color",
         "description": "🟡 Token globale: Colore di accento declinato dal principale"
       },
@@ -204,7 +204,7 @@
         "description": "🟣 Token alias: Colore di accento che identifica la selezione di un elemento usando una tastiera o una voce"
       },
       "interactive-accent-pressed": {
-        "value": "{color.global.accent-65.value}",
+        "value": "{color.global.accent-120.value}",
         "type": "color",
         "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente ha interagito"
       },
@@ -332,11 +332,6 @@
         "value": "linear-gradient(180deg, #007db3 0%, #18cee7 100%)",
         "type": "color",
         "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
-      },
-      "overlay-dark-primary-120": {
-        "value": "rgba(0, 53, 76, 0.9);",
-        "type": "color",
-        "description": "🟣 Token alias: Colore dark con opacitàal 90%"
       }
     },
     "specific": {
@@ -444,6 +439,31 @@
         "value": "linear-gradient(90deg, #000000 0%, #00000000 100%)",
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
+      },
+      "tabbar-icon-default": {
+        "value": "#5B6772",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare all'icona in stato default all'interno del componente tab bar"
+      },
+      "tabbar-icon-active": {
+        "value": "#007DB3",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare all'icona in stato active all'interno del componente tab bar"
+      },
+      "tabbar-label-default": {
+        "value": "#5B6772",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alla label in stato default all'interno del componente tab bar"
+      },
+      "tabbar-label-active": {
+        "value": "#007DB3",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alla label in stato active all'interno del componente tab bar"
+      },
+      "tabbar-backgound-000": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare albackground del contenitore del componente tab bar"
       }
     }
   },
@@ -774,6 +794,11 @@
         "type": "fontSizes",
         "description": "🟣 Token alias: Font size da associare agli Label Medium (MD) presenti in pagina"
       },
+      "label-xs-size-02": {
+        "value": "{typography.global.fontSize.02.value}",
+        "type": "fontSizes",
+        "description": "🟣 Token alias: Font size da associare alle Label Extra Small (XS) presenti nei dispositivi mobile"
+      },
       "disclaimer-md-size-04": {
         "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
@@ -958,6 +983,13 @@
         "value": "{typography.global.fontWeights.700.value}",
         "type": "fontWeights",
         "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti i Link"
+      }
+    },
+    "specific": {
+      "ios-tabbar-label-xs-size":{
+        "value": "11",
+        "type": "fontSizes",
+        "description": "🔵 Token specifico di componente: Font size da associare alle label in tabbar"
       }
     }
   }

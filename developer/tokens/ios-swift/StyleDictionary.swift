@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 20 Jan 2022 11:15:21 GMT
+// Generated on Thu, 10 Mar 2022 09:26:16 GMT
 
 
 import UIKit
@@ -19,7 +19,7 @@ public class StyleDictionary {
     public static let colorAliasInteractiveAccentDefault = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let colorAliasInteractiveAccentFocus = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let colorAliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
-    public static let colorAliasInteractiveAccentPressed = UIColor(red: 0.400, green: 0.910, blue: 0.976, alpha: 1)
+    public static let colorAliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
     public static let colorAliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
     public static let colorAliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorAliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
@@ -33,7 +33,6 @@ public class StyleDictionary {
     public static let colorAliasInteractiveSecondaryFocus = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorAliasInteractiveSecondaryHover = UIColor(red: 0.176, green: 0.200, blue: 0.224, alpha: 1)
     public static let colorAliasInteractiveSecondaryPressed = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
-    public static let colorAliasOverlayDarkPrimary120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 0.9)
     public static let colorAliasTextColorDisabled = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
     public static let colorAliasTextColorPrimaryDark0 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorAliasTextColorPrimaryLight0 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
@@ -42,7 +41,7 @@ public class StyleDictionary {
     public static let colorAliasTextColorSecondaryDark1 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorGlobalAccent100 = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let colorGlobalAccent110 = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
-    public static let colorGlobalAccent65 = UIColor(red: 0.400, green: 0.910, blue: 0.976, alpha: 1)
+    public static let colorGlobalAccent120 = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
     public static let colorGlobalAccent70 = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let colorGlobalDarkPrimary110 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorGlobalDarkPrimary115 = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
@@ -98,6 +97,11 @@ public class StyleDictionary {
     public static let colorSpecificOptionBackgroundColorPressed = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
     public static let colorSpecificOptionBackgroundColorValued = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorSpecificProgressbarBackgroundColor = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorSpecificTabbarBackgound000 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorSpecificTabbarIconActive = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
+    public static let colorSpecificTabbarIconDefault = UIColor(red: 0.357, green: 0.404, blue: 0.447, alpha: 1)
+    public static let colorSpecificTabbarLabelActive = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
+    public static let colorSpecificTabbarLabelDefault = UIColor(red: 0.357, green: 0.404, blue: 0.447, alpha: 1)
     public static let typographyAliasDisclaimerFontWeight400 = Regular
     public static let typographyAliasDisclaimerMdLineHeight04 = 24
     public static let typographyAliasDisclaimerMdSize04 = 16
@@ -141,6 +145,7 @@ public class StyleDictionary {
     public static let typographyAliasLabelMdSize04 = 16
     public static let typographyAliasLabelXlLineHeight03 = 21
     public static let typographyAliasLabelXlSize06 = 20
+    public static let typographyAliasLabelXsSize02 = 12
     public static let typographyAliasLinkFontWeight700 = Bold
     public static let typographyAliasLinkH3MdLineHeight09 = 48
     public static let typographyAliasLinkH3MdSize09 = 32
@@ -198,4 +203,5 @@ public class StyleDictionary {
     public static let typographyGlobalLineHeights13 = 72
     public static let typographyGlobalLineHeights14 = 78
     public static let typographyGlobalLineHeights15 = 84
+    public static let typographySpecificIosTabbarLabelXsSize = 11
 }
