@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 10 Mar 2022 09:26:16 GMT
+// Generated on Fri, 18 Mar 2022 13:16:30 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -51,6 +51,7 @@ ColorAliasInteractiveAccentDefault,
 ColorAliasInteractiveAccentHover,
 ColorAliasInteractiveAccentFocus,
 ColorAliasInteractiveAccentPressed,
+ColorAliasInteractivePrimary000Default,
 ColorAliasInteractivePrimaryDefault,
 ColorAliasInteractivePrimaryHover,
 ColorAliasInteractivePrimaryFocus,
@@ -64,6 +65,7 @@ ColorAliasInteractiveRedHover,
 ColorAliasInteractiveRedFocus,
 ColorAliasInteractiveRedPressed,
 ColorAliasTextColorDisabled,
+ColorAliasTextColorPrimary100,
 ColorAliasTextColorPrimaryLight0,
 ColorAliasTextColorPrimaryLight1,
 ColorAliasTextColorSecondaryDark1,
@@ -101,7 +103,15 @@ ColorSpecificTabbarIconDefault,
 ColorSpecificTabbarIconActive,
 ColorSpecificTabbarLabelDefault,
 ColorSpecificTabbarLabelActive,
-ColorSpecificTabbarBackgound000
+ColorSpecificTabbarBackgound000,
+ColorSpecificAppNavigationLightBackgound000,
+ColorSpecificAppNavigationLightIconDefault,
+ColorSpecificAppNavigationLightIconPressed,
+ColorSpecificAppNavigationLightTitle,
+ColorSpecificAppNavigationDarkBackgound120,
+ColorSpecificAppNavigationDarkIconDefault,
+ColorSpecificAppNavigationDarkIconPressed,
+ColorSpecificAppNavigationDarkTitle
 };
 
 @interface StyleDictionaryColor : NSObject

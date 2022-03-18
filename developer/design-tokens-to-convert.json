@@ -208,6 +208,11 @@
         "type": "color",
         "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente ha interagito"
       },
+      "interactive-primary-000-default": {
+        "value": "{color.global.primary-000.value}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore primario che identifica un elemento con cui l’utente può interagire"
+      },
       "interactive-primary-default": {
         "value": "{color.global.primary-100.value}",
         "type": "color",
@@ -272,6 +277,11 @@
         "value": "{color.global.mid-secondary-70.value}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che sono all’interno di componenti in stato disabilitato"
+      },
+      "text-color-primary-100": {
+        "value": "{color.global.primary-100.value}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },
       "text-color-primary-light-0": {
         "value": "{color.global.primary-000.value}",
@@ -464,6 +474,46 @@
         "value": "#ffffff",
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare albackground del contenitore del componente tab bar"
+      },
+      "app-navigation-light-backgound-000": {
+        "value": "{color.global.primary-000.value}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode light)"
+      },
+      "app-navigation-light-icon-default": {
+        "value": "{color.alias.interactive-secondary-default.value}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode light)"
+      },
+      "app-navigation-light-icon-pressed": {
+        "value": "rgba(color.global.dark-primary-120.value, 0.25)",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode light)"
+      },
+      "app-navigation-light-title": {
+        "value": "{color.alias.text-color-primary-dark-0.value}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
+      },
+      "app-navigation-dark-backgound-120": {
+        "value": "{color.global.dark-primary-120.value}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode dark)"
+      },
+      "app-navigation-dark-icon-default": {
+        "value": "{color.alias.interactive-primary-000-default.value}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode dark)"
+      },
+      "app-navigation-dark-icon-pressed": {
+        "value": "rgba(#ffffff, 25%)",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode dark)"
+      },
+      "app-navigation-dark-title": {
+        "value": "{color.global.light-primary-50.value}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
       }
     }
   },
@@ -990,6 +1040,31 @@
         "value": "11",
         "type": "fontSizes",
         "description": "🔵 Token specifico di componente: Font size da associare alle label in tabbar"
+      },
+      "app-navigation-title-xl-size":{
+        "value": "{typography.global.fontSize.09.value}",
+        "type": "fontSizes",
+        "description": "🔵 Token specifico di componente: Font size da associare ai titoli XL nell'app navigation"
+      },
+      "app-navigation-title-md-size":{
+        "value": "{typography.global.fontSize.06.value}",
+        "type": "fontSizes",
+        "description": "🔵 Token specifico di componente: Font size da associare ai titoli MD nell'app navigation"
+      },
+      "app-navigation-title-xl-line-height":{
+        "value": "{typography.global.lineHeights.09.value}",
+        "type": "lineHeights",
+        "description": "🔵 Token specifico di componente: Line Height da associare ai titoli XL nell'app navigation"
+      },
+      "app-navigation-title-md-line-height":{
+        "value": "{typography.global.lineHeights.06.value}",
+        "type": "lineHeights",
+        "description": "🔵 Token specifico di componente: Line Height da associare ai titoli MD nell'app navigation"
+      },
+      "app-navigation-title-font-weight-600":{
+        "value": "{typography.global.fontWeights.600.value}",
+        "type": "fontWeights",
+        "description": "🔵 Token specifico di componente: Font Weight da associare ai titoli nell'app navigation"
       }
     }
   }

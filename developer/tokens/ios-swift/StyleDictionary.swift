@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 10 Mar 2022 09:26:16 GMT
+// Generated on Fri, 18 Mar 2022 13:16:30 GMT
 
 
 import UIKit
@@ -21,6 +21,7 @@ public class StyleDictionary {
     public static let colorAliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let colorAliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
     public static let colorAliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
+    public static let colorAliasInteractivePrimary000Default = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorAliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorAliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorAliasInteractivePrimaryHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
@@ -34,6 +35,7 @@ public class StyleDictionary {
     public static let colorAliasInteractiveSecondaryHover = UIColor(red: 0.176, green: 0.200, blue: 0.224, alpha: 1)
     public static let colorAliasInteractiveSecondaryPressed = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let colorAliasTextColorDisabled = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
+    public static let colorAliasTextColorPrimary100 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let colorAliasTextColorPrimaryDark0 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorAliasTextColorPrimaryLight0 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorAliasTextColorPrimaryLight1 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
@@ -76,6 +78,14 @@ public class StyleDictionary {
     public static let colorGlobalSemanticInfo100 = UIColor(red: 0.000, green: 0.467, blue: 0.639, alpha: 1)
     public static let colorGlobalSemanticSuccesso100 = UIColor(red: 0.016, green: 0.596, blue: 0.580, alpha: 1)
     public static let colorGlobalSemanticWarning100 = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
+    public static let colorSpecificAppNavigationDarkBackgound120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
+    public static let colorSpecificAppNavigationDarkIconDefault = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorSpecificAppNavigationDarkIconPressed = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorSpecificAppNavigationDarkTitle = UIColor(red: 0.761, green: 0.886, blue: 0.941, alpha: 1)
+    public static let colorSpecificAppNavigationLightBackgound000 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorSpecificAppNavigationLightIconDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let colorSpecificAppNavigationLightIconPressed = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorSpecificAppNavigationLightTitle = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorSpecificCardOverlayGradientImg = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorSpecificDataEntryBorderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let colorSpecificDataEntryBorderColorError = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
@@ -203,5 +213,10 @@ public class StyleDictionary {
     public static let typographyGlobalLineHeights13 = 72
     public static let typographyGlobalLineHeights14 = 78
     public static let typographyGlobalLineHeights15 = 84
+    public static let typographySpecificAppNavigationTitleFontWeight600 = SemiBold
+    public static let typographySpecificAppNavigationTitleMdLineHeight = 30
+    public static let typographySpecificAppNavigationTitleMdSize = 20
+    public static let typographySpecificAppNavigationTitleXlLineHeight = 48
+    public static let typographySpecificAppNavigationTitleXlSize = 32
     public static let typographySpecificIosTabbarLabelXsSize = 11
 }

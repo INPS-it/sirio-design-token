@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 10 Mar 2022 09:26:16 GMT
+// Generated on Fri, 18 Mar 2022 13:16:30 GMT
 
 
 import UIKit
@@ -21,6 +21,7 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
     public static let aliasInteractiveAccentPressed = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)
     public static let aliasInteractiveBorderFocus = UIColor(red: 0.000, green: 0.573, blue: 0.820, alpha: 1)
+    public static let aliasInteractivePrimary000Default = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let aliasInteractivePrimaryDefault = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let aliasInteractivePrimaryFocus = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let aliasInteractivePrimaryHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
@@ -34,6 +35,7 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveSecondaryHover = UIColor(red: 0.176, green: 0.200, blue: 0.224, alpha: 1)
     public static let aliasInteractiveSecondaryPressed = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let aliasTextColorDisabled = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
+    public static let aliasTextColorPrimary100 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let aliasTextColorPrimaryDark0 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let aliasTextColorPrimaryLight0 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let aliasTextColorPrimaryLight1 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
@@ -76,6 +78,14 @@ public enum StyleDictionaryColor {
     public static let globalSemanticInfo100 = UIColor(red: 0.000, green: 0.467, blue: 0.639, alpha: 1)
     public static let globalSemanticSuccesso100 = UIColor(red: 0.016, green: 0.596, blue: 0.580, alpha: 1)
     public static let globalSemanticWarning100 = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
+    public static let specificAppNavigationDarkBackgound120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
+    public static let specificAppNavigationDarkIconDefault = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let specificAppNavigationDarkIconPressed = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let specificAppNavigationDarkTitle = UIColor(red: 0.761, green: 0.886, blue: 0.941, alpha: 1)
+    public static let specificAppNavigationLightBackgound000 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let specificAppNavigationLightIconDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificAppNavigationLightIconPressed = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let specificAppNavigationLightTitle = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let specificCardOverlayGradientImg = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let specificDataEntryBorderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let specificDataEntryBorderColorError = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)

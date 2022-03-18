@@ -208,6 +208,11 @@
         "type": "color",
         "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente ha interagito"
       },
+      "interactive-primary-000-default": {
+        "value": "{color.global.primary-000}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore primario che identifica un elemento con cui l’utente può interagire"
+      },
       "interactive-primary-default": {
         "value": "{color.global.primary-100}",
         "type": "color",
@@ -463,7 +468,47 @@
       "tabbar-backgound-000": {
         "value": "#ffffff",
         "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare albackground del contenitore del componente tab bar"
+        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente tab bar"
+      },
+      "app-navigation-light-backgound-000": {
+        "value": "{color.global.primary-000}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode light)"
+      },
+      "app-navigation-light-icon-default": {
+        "value": "{color.alias.interactive-secondary-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode light)"
+      },
+      "app-navigation-light-icon-pressed": {
+        "value": "rgba(color.global.dark-primary-120, 0.25)",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode light)"
+      },
+      "app-navigation-light-title": {
+        "value": "{color.alias.text-color-primary-dark-0}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
+      },
+      "app-navigation-dark-backgound-120": {
+        "value": "{color.global.dark-primary-120}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode dark)"
+      },
+      "app-navigation-dark-icon-default": {
+        "value": "{color.alias.interactive-primary-000-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode dark)"
+      },
+      "app-navigation-dark-icon-pressed": {
+        "value": "rgba(color.alias.interactive-primary-000-default, 0.25)",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode dark)"
+      },
+      "app-navigation-dark-title": {
+        "value": "{color.global.light-primary-50}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
       }
     }
   },
@@ -995,6 +1040,31 @@
         "value": "11",
         "type": "fontSizes",
         "description": "🔵 Token specifico di componente: Font size da associare alle label in tabbar"
+      },
+      "app-navigation-title-xl-size":{
+        "value": "{typography.global.fontSize.09}",
+        "type": "fontSizes",
+        "description": "🔵 Token specifico di componente: Font size da associare ai titoli XL nell'app navigation"
+      },
+      "app-navigation-title-md-size":{
+        "value": "{typography.global.fontSize.06}",
+        "type": "fontSizes",
+        "description": "🔵 Token specifico di componente: Font size da associare ai titoli MD nell'app navigation"
+      },
+      "app-navigation-title-xl-line-height":{
+        "value": "{typography.global.lineHeights.09}",
+        "type": "lineHeights",
+        "description": "🔵 Token specifico di componente: Line Height da associare ai titoli XL nell'app navigation"
+      },
+      "app-navigation-title-md-line-height":{
+        "value": "{typography.global.lineHeights.06}",
+        "type": "lineHeights",
+        "description": "🔵 Token specifico di componente: Line Height da associare ai titoli MD nell'app navigation"
+      },
+      "app-navigation-title-font-weight-600":{
+        "value": "{typography.global.fontWeights.600}",
+        "type": "fontWeights",
+        "description": "🔵 Token specifico di componente: Font Weight da associare ai titoli nell'app navigation"
       }
     },
       "style": {
@@ -1515,6 +1585,34 @@
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
+        },
+        "app-navigation-title-xl": {
+          "value": {
+            "fontFamily": "{typography.alias.font-family-text-01}",
+            "fontWeight": "{typography.specific.app-navigation-title-font-weight-600}",
+            "lineHeight": "{typography.specific.app-navigation-title-xl-line-height}",
+            "fontSize": "{typography.specific.app-navigation-title-xl-size}",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography",
+          "description": "🔸 Stile tipografico: Stile di testo da applicare ai titoli XL presenti all'interno del componente tab bar"
+        },
+        "app-navigation-title-md": {
+          "value": {
+            "fontFamily": "{typography.alias.font-family-text-01}",
+            "fontWeight": "{typography.specific.app-navigation-title-font-weight-600}",
+            "lineHeight": "{typography.specific.app-navigation-title-md-line-height}",
+            "fontSize": "{typography.specific.app-navigation-title-md-size}",
+            "letterSpacing": "$letterSpacing.0",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography",
+          "description": "🔸 Stile tipografico: Stile di testo da applicare ai titoli MD presenti all'interno del componente tab bar"
         },
         "textCase": {
           "none": {
