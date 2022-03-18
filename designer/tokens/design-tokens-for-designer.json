@@ -465,32 +465,32 @@
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare alla label in stato active all'interno del componente tab bar"
       },
-      "tabbar-backgound-000": {
+      "tabbar-background-000": {
         "value": "#ffffff",
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente tab bar"
       },
-      "app-navigation-light-backgound-000": {
+      "app-navigation-light-background-000": {
         "value": "{color.global.primary-000}",
         "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode light)"
+        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode ligth)"
       },
       "app-navigation-light-icon-default": {
         "value": "{color.alias.interactive-secondary-default}",
         "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode light)"
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode ligth)"
       },
       "app-navigation-light-icon-pressed": {
         "value": "rgba(color.global.dark-primary-120, 0.25)",
         "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode light)"
+        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode ligth)"
       },
       "app-navigation-light-title": {
         "value": "{color.alias.text-color-primary-dark-0}",
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
       },
-      "app-navigation-dark-backgound-120": {
+      "app-navigation-dark-background-120": {
         "value": "{color.global.dark-primary-120}",
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode dark)"
