@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 18 Mar 2022 13:16:30 GMT
+// Generated on Tue, 05 Apr 2022 15:39:31 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -67,10 +67,11 @@ ColorAliasInteractiveRedPressed,
 ColorAliasTextColorDisabled,
 ColorAliasTextColorPrimary100,
 ColorAliasTextColorPrimaryLight0,
-ColorAliasTextColorPrimaryLight1,
-ColorAliasTextColorSecondaryDark1,
-ColorAliasTextColorSecondaryDark0,
-ColorAliasTextColorPrimaryDark0,
+ColorAliasTextColorPrimaryLight40,
+ColorAliasTextColorPrimaryLight50,
+ColorAliasTextColorSecondaryDark100,
+ColorAliasTextColorSecondaryDark130,
+ColorAliasTextColorPrimaryDark110,
 ColorAliasBackgroundColorDisabled,
 ColorAliasBackgroundColorPrimaryLight1,
 ColorAliasBackgroundColorPrimaryLight0,
@@ -78,6 +79,12 @@ ColorAliasBackgroundColorPrimaryDark0,
 ColorAliasInteractiveBorderFocus,
 ColorAliasGradientAccentPrimaryDark,
 ColorAliasGradientAccentPrimary,
+ColorAliasOverlay90DarkPrimary120,
+ColorAliasOverlay15Secondary100,
+ColorAliasOverlay25Primary000,
+ColorAliasAppInteractiveSecondaryDefault,
+ColorAliasAppInteractivePrimaryActive,
+ColorAliasAppInteractivePrimary000Default,
 ColorSpecificDataEntryLabelColorDefault,
 ColorSpecificDataEntryLabelColorHover,
 ColorSpecificDataEntryLabelColorFocus,
@@ -98,20 +105,7 @@ ColorSpecificOptionBackgroundColorFocus,
 ColorSpecificOptionBackgroundColorPressed,
 ColorSpecificOptionBackgroundColorValued,
 ColorSpecificProgressbarBackgroundColor,
-ColorSpecificCardOverlayGradientImg,
-ColorSpecificTabbarIconDefault,
-ColorSpecificTabbarIconActive,
-ColorSpecificTabbarLabelDefault,
-ColorSpecificTabbarLabelActive,
-ColorSpecificTabbarBackground000,
-ColorSpecificAppNavigationLightBackground000,
-ColorSpecificAppNavigationLightIconDefault,
-ColorSpecificAppNavigationLightIconPressed,
-ColorSpecificAppNavigationLightTitle,
-ColorSpecificAppNavigationDarkBackground120,
-ColorSpecificAppNavigationDarkIconDefault,
-ColorSpecificAppNavigationDarkIconPressed,
-ColorSpecificAppNavigationDarkTitle
+ColorSpecificCardOverlayGradientImg
 };
 
 @interface StyleDictionaryColor : NSObject

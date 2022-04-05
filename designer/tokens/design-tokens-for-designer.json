@@ -283,22 +283,27 @@
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
       },
-      "text-color-primary-light-1": {
+      "text-color-primary-light-40": {
         "value": "{color.global.light-primary-40}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
       },
-      "text-color-secondary-dark-1": {
+      "text-color-primary-light-50": {
+        "value": "{color.global.light-primary-50}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
+      },
+      "text-color-secondary-dark-100": {
         "value": "{color.global.secondary-100}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },
-      "text-color-secondary-dark-0": {
+      "text-color-secondary-dark-130": {
         "value": "{color.global.dark-secondary-130}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },
-      "text-color-primary-dark-0": {
+      "text-color-primary-dark-110": {
         "value": "{color.global.dark-primary-110}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
@@ -337,6 +342,36 @@
         "value": "linear-gradient(180deg, #007db3 0%, #18cee7 100%)",
         "type": "color",
         "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
+      },
+      "overlay-90-dark-primary-120": {
+        "value": "rgba(0, 53, 76, 90%)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 90% nei componenti di colore dark-primary-120"
+      },
+      "overlay-15-secondary-100": {
+        "value": "rgba(69, 77, 86, 15%)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
+      },
+      "overlay-25-primary-000": {
+        "value": "rgba(0, 125, 179, 15%)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
+      },
+      "app-interactive-secondary-default": {
+        "value": "{color.global.secondary-90}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato default del componente app navigation"
+      },
+      "app-interactive-primary-active": {
+        "value": "{color.alias.interactive-primary-default}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
+      },
+      "app-interactive-primary-000-default": {
+        "value": "{color.global.primary-000}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
       }
     },
     "specific": {
@@ -444,71 +479,6 @@
         "value": "linear-gradient(90deg, #000000 0%, #00000000 100%)",
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
-      },
-      "tabbar-icon-default": {
-        "value": "#5B6772",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare all'icona in stato default all'interno del componente tab bar"
-      },
-      "tabbar-icon-active": {
-        "value": "#007DB3",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare all'icona in stato active all'interno del componente tab bar"
-      },
-      "tabbar-label-default": {
-        "value": "#5B6772",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alla label in stato default all'interno del componente tab bar"
-      },
-      "tabbar-label-active": {
-        "value": "#007DB3",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alla label in stato active all'interno del componente tab bar"
-      },
-      "tabbar-background-000": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente tab bar"
-      },
-      "app-navigation-light-background-000": {
-        "value": "{color.global.primary-000}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode ligth)"
-      },
-      "app-navigation-light-icon-default": {
-        "value": "{color.alias.interactive-secondary-default}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode ligth)"
-      },
-      "app-navigation-light-icon-pressed": {
-        "value": "rgba(color.global.dark-primary-120, 0.25)",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode ligth)"
-      },
-      "app-navigation-light-title": {
-        "value": "{color.alias.text-color-primary-dark-0}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
-      },
-      "app-navigation-dark-background-120": {
-        "value": "{color.global.dark-primary-120}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode dark)"
-      },
-      "app-navigation-dark-icon-default": {
-        "value": "{color.alias.interactive-primary-000-default}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode dark)"
-      },
-      "app-navigation-dark-icon-pressed": {
-        "value": "rgba(color.alias.interactive-primary-000-default, 0.25)",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode dark)"
-      },
-      "app-navigation-dark-title": {
-        "value": "{color.global.light-primary-50}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
       }
     }
   },

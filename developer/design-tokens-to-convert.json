@@ -288,23 +288,28 @@
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
       },
-      "text-color-primary-light-1": {
-        "value": "{color.global.light-primary-40.value}",
+      "text-color-primary-light-40": {
+        "value": "{color.global.light-primary-40}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
       },
-      "text-color-secondary-dark-1": {
-        "value": "{color.global.secondary-100.value}",
+      "text-color-primary-light-50": {
+        "value": "{color.global.light-primary-50}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
+      },
+      "text-color-secondary-dark-100": {
+        "value": "{color.global.secondary-100}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },
-      "text-color-secondary-dark-0": {
-        "value": "{color.global.dark-secondary-130.value}",
+      "text-color-secondary-dark-130": {
+        "value": "{color.global.dark-secondary-130}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },
-      "text-color-primary-dark-0": {
-        "value": "{color.global.dark-primary-110.value}",
+      "text-color-primary-dark-110": {
+        "value": "{color.global.dark-primary-110}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },
@@ -342,6 +347,36 @@
         "value": "linear-gradient(180deg, #007db3 0%, #18cee7 100%)",
         "type": "color",
         "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
+      },
+      "overlay-90-dark-primary-120": {
+        "value": "rgba(0, 53, 76, 90%)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 90% nei componenti di colore dark-primary-120"
+      },
+      "overlay-15-secondary-100": {
+        "value": "rgba(69, 77, 86, 15%)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
+      },
+      "overlay-25-primary-000": {
+        "value": "rgba(0, 125, 179, 15%)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
+      },
+      "app-interactive-secondary-default": {
+        "value": "{color.global.secondary-90.value}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato default del componente app navigation"
+      },
+      "app-interactive-primary-active": {
+        "value": "{color.alias.interactive-primary-default.value}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
+      },
+      "app-interactive-primary-000-default": {
+        "value": "{color.global.primary-000.value}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
       }
     },
     "specific": {
@@ -449,71 +484,6 @@
         "value": "linear-gradient(90deg, #000000 0%, #00000000 100%)",
         "type": "color",
         "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
-      },
-      "tabbar-icon-default": {
-        "value": "#5B6772",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare all'icona in stato default all'interno del componente tab bar"
-      },
-      "tabbar-icon-active": {
-        "value": "#007DB3",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare all'icona in stato active all'interno del componente tab bar"
-      },
-      "tabbar-label-default": {
-        "value": "#5B6772",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alla label in stato default all'interno del componente tab bar"
-      },
-      "tabbar-label-active": {
-        "value": "#007DB3",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alla label in stato active all'interno del componente tab bar"
-      },
-      "tabbar-background-000": {
-        "value": "#ffffff",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare albackground del contenitore del componente tab bar"
-      },
-      "app-navigation-light-background-000": {
-        "value": "{color.global.primary-000.value}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode light)"
-      },
-      "app-navigation-light-icon-default": {
-        "value": "{color.alias.interactive-secondary-default.value}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode light)"
-      },
-      "app-navigation-light-icon-pressed": {
-        "value": "rgba(color.global.dark-primary-120.value, 0.25)",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode light)"
-      },
-      "app-navigation-light-title": {
-        "value": "{color.alias.text-color-primary-dark-0.value}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
-      },
-      "app-navigation-dark-background-120": {
-        "value": "{color.global.dark-primary-120.value}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare al background del contenitore del componente app navigation (mode dark)"
-      },
-      "app-navigation-dark-icon-default": {
-        "value": "{color.alias.interactive-primary-000-default.value}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato default del componente app navigation (mode dark)"
-      },
-      "app-navigation-dark-icon-pressed": {
-        "value": "rgba(#ffffff, 25%)",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare alle icone in stato pressed del componente app navigation (mode dark)"
-      },
-      "app-navigation-dark-title": {
-        "value": "{color.global.light-primary-50.value}",
-        "type": "color",
-        "description": "🔵 Token specifico di componente: Colore da applicare ai titoli del componente app navigation (mode dark)"
       }
     }
   },
@@ -523,6 +493,7 @@
         "01": {
           "value": "Titillium Web",
           "type": "fontFamilies",
+          "category": "typography",
           "description": "🟡 Token globale: Font istituzionale INPS, usato per quasi la totalità dei testi"
         },
         "02": {
@@ -533,6 +504,7 @@
         "03": {
           "value": "Roboto Mono",
           "type": "fontFamilies",
+          "category": "typography",
           "description": "🟡 Token globale: Font usato per valori numerici"
         }
       },
@@ -540,76 +512,91 @@
         "01": {
           "value": "16",
           "type": "lineHeights",
+          "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-01 corrispondente) "
         },
         "02": {
           "value": "18",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-02 corrispondente) "
         },
         "03": {
           "value": "21",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-03 corrispondente) "
         },
         "04": {
           "value": "24",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-04 corrispondente) "
         },
         "05": {
           "value": "27",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-05 corrispondente) "
         },
         "06": {
           "value": "30",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-06 corrispondente) "
         },
         "07": {
           "value": "36",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-07 corrispondente) "
         },
         "08": {
           "value": "42",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-08 corrispondente) "
         },
         "09": {
           "value": "48",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-09 corrispondente) "
         },
         "10": {
           "value": "54",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-10 corrispondente) "
         },
         "11": {
           "value": "60",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-11 corrispondente) "
         },
         "12": {
           "value": "66",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-12 corrispondente) "
         },
         "13": {
           "value": "72",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-13 corrispondente) "
         },
         "14": {
           "value": "78",
           "type": "lineHeights",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-14 corrispondente) "
         },
         "15": {
           "value": "84",
           "type": "lineHeights",
+           "category": "size",
           "description": " Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-15 corrispondente) "
         }        
       },
@@ -617,51 +604,61 @@
         "700-i": {
           "value": "Bold Italic",
           "type": "fontWeights",
+          "category": "typography",
           "description": "🟡 Token globale: Font bold italic, usato per enfatizzare contenuti specifici (esempio: citazioni)"
         },
         "700": {
           "value": "Bold",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font bold, usato per enfatizzare contenuti specifici (esempio: titoli pagina)"
         },
         "600-i": {
           "value": "SemiBold Italic",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font semibold italic, usato per enfatizzare contenuti specifici (esempio: firma articolo)"
         },
         "600": {
           "value": "SemiBold",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font semibold, usato per enfatizzare contenuti specifici (esempio: label form)"
         },
         "500-i": {
           "value": "Medium Italic",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font medium italic, usato per enfatizzare contenuti specifici in testi lunghi"
         },
         "500": {
           "value": "Medium",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font medium, usato per enfatizzare contenuti specifici in testi lunghi"
         },
         "400-i": {
           "value": "Italic",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font regular italic, usato per enfatizzare testi informativi"
         },
         "400": {
           "value": "Regular",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font regular, usato tutti i testi come paragrafi e placeholder all’interno dei text-field"
         },
         "300-i": {
           "value": "Light Italic",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font light italic, usato per testi con font size maggiore ai 16px"
         },
         "300": {
           "value": "Light",
           "type": "fontWeights",
+           "category": "typography",
           "description": "🟡 Token globale: Font light, usato per testi con font size maggiore ai 16px"
         }
       },
@@ -669,76 +666,91 @@
         "01": {
           "value": "10",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "02": {
           "value": "12",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "03": {
           "value": "14",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "04": {
           "value": "16",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "05": {
           "value": "18",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "06": {
           "value": "20",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "07": {
           "value": "24",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "08": {
           "value": "28",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "09": {
           "value": "32",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "10": {
           "value": "36",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "11": {
           "value": "40",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "12": {
           "value": "44",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "13": {
           "value": "48",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "14": {
           "value": "52",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         },
         "15": {
           "value": "56",
           "type": "fontSizes",
+           "category": "size",
           "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
         }
       }
@@ -762,276 +774,331 @@
       "font-family-number-03": {
         "value": "{typography.global.fontFamily.03.value}",
         "type": "fontFamilies",
+        "category": "typography",
         "description": "🟣 Token alias: Font family Roboto Mono da utilizzare per testi numerici"
       },
       "h1-xl-size-15": {
         "value": "{typography.global.fontSize.15.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H1 Extra Large (XL) presenti in pagina"
       },
       "h1-lg-size-14": {
         "value": "{typography.global.fontSize.14.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H1 Large (LG) presenti in pagina"
       },
       "h1-md-size-13": {
         "value": "{typography.global.fontSize.13.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H1 Medium (MD) presenti in pagina"
       },
       "h2-lg-size-12": {
         "value": "{typography.global.fontSize.12.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H2 Large (LG) presenti in pagina"
       },
       "h2-md-size-11": {
         "value": "{typography.global.fontSize.11.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H2 Medium (MD) presenti in pagina"
       },
       "h3-lg-size-10": {
         "value": "{typography.global.fontSize.10.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H3 Large (LG) presenti in pagina"
       },
       "h3-md-size-09": {
         "value": "{typography.global.fontSize.09.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H3 Medium (MD) presenti in pagina"
       },
       "h4-lg-size-08": {
         "value": "{typography.global.fontSize.08.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H4 Large (LG) presenti in pagina"
       },
       "h4-md-size-07": {
         "value": "{typography.global.fontSize.07.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H4 Medium (MD) presenti in pagina"
       },
       "h5-md-size-06": {
         "value": "{typography.global.fontSize.06.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H5 Medium (MD) presenti in pagina"
       },
       "h6-md-size-05": {
         "value": "{typography.global.fontSize.05.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli H6 Medium (MD) presenti in pagina"
       },
       "p-lg-size-05": {
         "value": "{typography.global.fontSize.05.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli Paragrafi Large (LG) presenti in pagina"
       },
       "p-md-size-04": {
         "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli Paragrafi Medium (MD) presenti in pagina"
       },
       "label-xl-size-06": {
         "value": "{typography.global.fontSize.06.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli Label Extra Large (XL) presenti in pagina"
       },
       "label-lg-size-05": {
         "value": "{typography.global.fontSize.05.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli Label Large (LG) presenti in pagina"
       },
       "label-md-size-04": {
         "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli Label Medium (MD) presenti in pagina"
       },
       "label-xs-size-02": {
         "value": "{typography.global.fontSize.02.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare alle Label Extra Small (XS) presenti nei dispositivi mobile"
       },
       "disclaimer-md-size-04": {
         "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
       },
       "link-h3-md-size-09": {
         "value": "{typography.global.fontSize.09.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un H3 Medium (MD)"
       },
       "link-h4-md-size-07": {
         "value": "{typography.global.fontSize.07.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un H4 Medium (MD)"
       },
       "link-p-lg-size-05": {
         "value": "{typography.global.fontSize.05.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare ai Link Large (LG) presenti in un paragrafo Large (LG)"
       },
       "link-p-md-size-04": {
         "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un paragrafo Medium (MD)"
       },
       "h1-xl-line-height-15": {
         "value": "{typography.global.lineHeights.15.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H1 Extra Large (XL)"
       },
       "h1-lg-line-height-14": {
         "value": "{typography.global.lineHeights.14.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H1 Large (LG)"
       },
       "h1-md-line-height-13": {
         "value": "{typography.global.lineHeights.13.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H1 Medium (MD)"
       },
       "h2-lg-line-height-12": {
         "value": "{typography.global.lineHeights.12.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H2 Large (LG)"
       },
       "h2-md-line-height-11": {
         "value": "{typography.global.lineHeights.11.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H2 Medium (MD)"
       },
       "h3-lg-line-height-10": {
         "value": "{typography.global.lineHeights.10.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H3 Large (LG)"
       },
       "h3-md-line-height-09": {
         "value": "{typography.global.lineHeights.09.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H3 Medium (MD)"
       },
       "h4-lg-line-height-08": {
         "value": "{typography.global.lineHeights.08.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H4 Large (LG)"
       },
       "h4-md-line-height-07": {
         "value": "{typography.global.lineHeights.07.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H4 Medium (MD)"
       },
       "h5-md-line-height-06": {
         "value": "{typography.global.lineHeights.06.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H5 Medium (MD)"
       },
       "h6-md-line-height-05": {
         "value": "{typography.global.lineHeights.05.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli H6 Medium (MD)"
       },
       "p-lg-line-height-05": {
         "value": "{typography.global.lineHeights.05.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Paragrafo Large (LG)"
       },
       "p-md-line-height-04": {
         "value": "{typography.global.lineHeights.04.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Paragrafo Medium (MD)"
       },
       "label-xl-line-height-03": {
         "value": "{typography.global.lineHeights.03.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Label Extra Large (XL)"
       },
       "label-line-height-01": {
         "value": "{typography.global.lineHeights.01.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Label Medium (MD)"
       },
       "disclaimer-md-line-height-04": {
         "value": "{typography.global.lineHeights.04.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
       },
       "link-h3-md-line-height-09": {
         "value": "{typography.global.lineHeights.09.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un H3 Medium (MD)"
       },
       "link-h4-md-line-height-07": {
         "value": "{typography.global.lineHeights.07.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un H4 Medium (MD)"
       },
       "link-p-lg-line-height-05": {
         "value": "{typography.global.lineHeights.05.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Link Large (LG) all'interno di un Paragrafo Large (LG)"
       },
       "link-p-md-line-height-04": {
         "value": "{typography.global.lineHeights.04.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un Paragrafo Medium (MD)"
       },
       "h1-font-weight-700": {
         "value": "{typography.global.fontWeights.700.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti gli H1"
       },
       "h2-font-weight-700": {
         "value": "{typography.global.fontWeights.700.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti gli H2"
       },
       "h3-font-weight-700": {
         "value": "{typography.global.fontWeights.700.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti gli H3"
       },
       "h4-font-weight-700": {
         "value": "{typography.global.fontWeights.700.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti gli H4"
       },
       "h5-font-weight-600": {
         "value": "{typography.global.fontWeights.600.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti gli H5"
       },
       "h6-font-weight-600": {
         "value": "{typography.global.fontWeights.600.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti gli H6"
       },
       "p-font-weight-400": {
         "value": "{typography.global.fontWeights.400.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti i Paragrafi"
       },
       "label-font-weight-700": {
         "value": "{typography.global.fontWeights.700.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti le Label"
       },
       "label-font-weight-600": {
         "value": "{typography.global.fontWeights.600.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti le Label"
       },
       "label-font-weight-400": {
         "value": "{typography.global.fontWeights.400.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti le Label"
       },
       "disclaimer-font-weight-400": {
         "value": "{typography.global.fontWeights.400.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti i Disclaimer"
       },
       "link-font-weight-700": {
         "value": "{typography.global.fontWeights.700.value}",
         "type": "fontWeights",
+         "category": "typography",
         "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti i Link"
       }
     },
@@ -1039,31 +1106,37 @@
       "ios-tabbar-label-xs-size":{
         "value": "11",
         "type": "fontSizes",
+         "category": "size",
         "description": "🔵 Token specifico di componente: Font size da associare alle label in tabbar"
       },
       "app-navigation-title-xl-size":{
         "value": "{typography.global.fontSize.09.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🔵 Token specifico di componente: Font size da associare ai titoli XL nell'app navigation"
       },
       "app-navigation-title-md-size":{
         "value": "{typography.global.fontSize.06.value}",
         "type": "fontSizes",
+         "category": "size",
         "description": "🔵 Token specifico di componente: Font size da associare ai titoli MD nell'app navigation"
       },
       "app-navigation-title-xl-line-height":{
         "value": "{typography.global.lineHeights.09.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🔵 Token specifico di componente: Line Height da associare ai titoli XL nell'app navigation"
       },
       "app-navigation-title-md-line-height":{
         "value": "{typography.global.lineHeights.06.value}",
         "type": "lineHeights",
+         "category": "size",
         "description": "🔵 Token specifico di componente: Line Height da associare ai titoli MD nell'app navigation"
       },
       "app-navigation-title-font-weight-600":{
         "value": "{typography.global.fontWeights.600.value}",
         "type": "fontWeights",
+        "category": "typography",
         "description": "🔵 Token specifico di componente: Font Weight da associare ai titoli nell'app navigation"
       }
     }
