@@ -289,27 +289,27 @@
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
       },
       "text-color-primary-light-40": {
-        "value": "{color.global.light-primary-40}",
+        "value": "{color.global.light-primary-40.value}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
       },
       "text-color-primary-light-50": {
-        "value": "{color.global.light-primary-50}",
+        "value": "{color.global.light-primary-50.value}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
       },
       "text-color-secondary-dark-100": {
-        "value": "{color.global.secondary-100}",
+        "value": "{color.global.secondary-100.value}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },
       "text-color-secondary-dark-130": {
-        "value": "{color.global.dark-secondary-130}",
+        "value": "{color.global.dark-secondary-130.value}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },
       "text-color-primary-dark-110": {
-        "value": "{color.global.dark-primary-110}",
+        "value": "{color.global.dark-primary-110.value}",
         "type": "color",
         "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
       },

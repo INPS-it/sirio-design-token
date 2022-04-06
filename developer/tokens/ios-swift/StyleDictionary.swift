@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 05 Apr 2022 15:39:31 GMT
+// Generated on Wed, 06 Apr 2022 13:51:34 GMT
 
 
 import UIKit
@@ -42,12 +42,12 @@ public class StyleDictionary {
     public static let colorAliasOverlay90DarkPrimary120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
     public static let colorAliasTextColorDisabled = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
     public static let colorAliasTextColorPrimary100 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
-    public static let colorAliasTextColorPrimaryDark110 = [object Object]
+    public static let colorAliasTextColorPrimaryDark110 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let colorAliasTextColorPrimaryLight0 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let colorAliasTextColorPrimaryLight40 = [object Object]
-    public static let colorAliasTextColorPrimaryLight50 = [object Object]
-    public static let colorAliasTextColorSecondaryDark100 = [object Object]
-    public static let colorAliasTextColorSecondaryDark130 = [object Object]
+    public static let colorAliasTextColorPrimaryLight40 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
+    public static let colorAliasTextColorPrimaryLight50 = UIColor(red: 0.761, green: 0.886, blue: 0.941, alpha: 1)
+    public static let colorAliasTextColorSecondaryDark100 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let colorAliasTextColorSecondaryDark130 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorGlobalAccent100 = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let colorGlobalAccent110 = UIColor(red: 0.075, green: 0.647, blue: 0.725, alpha: 1)
     public static let colorGlobalAccent120 = UIColor(red: 0.059, green: 0.490, blue: 0.541, alpha: 1)

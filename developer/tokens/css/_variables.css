@@ -56,11 +56,11 @@
   --color-alias-text-color-disabled: #8e98a4;
   --color-alias-text-color-primary-100: #007db3;
   --color-alias-text-color-primary-light-0: #ffffff;
-  --color-alias-text-color-primary-light-40: [object Object];
-  --color-alias-text-color-primary-light-50: [object Object];
-  --color-alias-text-color-secondary-dark-100: [object Object];
-  --color-alias-text-color-secondary-dark-130: [object Object];
-  --color-alias-text-color-primary-dark-110: [object Object];
+  --color-alias-text-color-primary-light-40: #edf4f7;
+  --color-alias-text-color-primary-light-50: #c2e2f0;
+  --color-alias-text-color-secondary-dark-100: #454d56;
+  --color-alias-text-color-secondary-dark-130: #000000;
+  --color-alias-text-color-primary-dark-110: #005980;
   --color-alias-background-color-disabled: #c6ccd2;
   --color-alias-background-color-primary-light-1: #edf4f7;
   --color-alias-background-color-primary-light-0: #ffffff;

@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Tue, 05 Apr 2022 15:39:31 GMT
+// Generated on Wed, 06 Apr 2022 13:51:34 GMT
 
 
 
@@ -44,12 +44,12 @@ object StyleDictionaryColor {
   val colorAliasOverlay90DarkPrimary120 = Color(0xff00354c)
   val colorAliasTextColorDisabled = Color(0xff8e98a4)
   val colorAliasTextColorPrimary100 = Color(0xff007db3)
-  val colorAliasTextColorPrimaryDark110 = [object Object]
+  val colorAliasTextColorPrimaryDark110 = Color(0xff005980)
   val colorAliasTextColorPrimaryLight0 = Color(0xffffffff)
-  val colorAliasTextColorPrimaryLight40 = [object Object]
-  val colorAliasTextColorPrimaryLight50 = [object Object]
-  val colorAliasTextColorSecondaryDark100 = [object Object]
-  val colorAliasTextColorSecondaryDark130 = [object Object]
+  val colorAliasTextColorPrimaryLight40 = Color(0xffedf4f7)
+  val colorAliasTextColorPrimaryLight50 = Color(0xffc2e2f0)
+  val colorAliasTextColorSecondaryDark100 = Color(0xff454d56)
+  val colorAliasTextColorSecondaryDark130 = Color(0xff000000)
   val colorGlobalAccent100 = Color(0xff18cee7)
   val colorGlobalAccent110 = Color(0xff13a5b9)
   val colorGlobalAccent120 = Color(0xff0f7d8a)

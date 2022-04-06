@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 05 Apr 2022 15:39:31 GMT
+  Generated on Wed, 06 Apr 2022 13:51:34 GMT
 -->
 <resources>
   <color name="color_global_primary_100">#ff007db3</color>
@@ -62,11 +62,11 @@
   <color name="color_alias_text_color_disabled">#ff8e98a4</color>
   <color name="color_alias_text_color_primary_100">#ff007db3</color>
   <color name="color_alias_text_color_primary_light_0">#ffffffff</color>
-  <color name="color_alias_text_color_primary_light_40">[object Object]</color>
-  <color name="color_alias_text_color_primary_light_50">[object Object]</color>
-  <color name="color_alias_text_color_secondary_dark_100">[object Object]</color>
-  <color name="color_alias_text_color_secondary_dark_130">[object Object]</color>
-  <color name="color_alias_text_color_primary_dark_110">[object Object]</color>
+  <color name="color_alias_text_color_primary_light_40">#ffedf4f7</color>
+  <color name="color_alias_text_color_primary_light_50">#ffc2e2f0</color>
+  <color name="color_alias_text_color_secondary_dark_100">#ff454d56</color>
+  <color name="color_alias_text_color_secondary_dark_130">#ff000000</color>
+  <color name="color_alias_text_color_primary_dark_110">#ff005980</color>
   <color name="color_alias_background_color_disabled">#ffc6ccd2</color>
   <color name="color_alias_background_color_primary_light_1">#ffedf4f7</color>
   <color name="color_alias_background_color_primary_light_0">#ffffffff</color>
