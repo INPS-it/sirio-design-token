@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 06 Apr 2022 13:51:34 GMT
+// Generated on Wed, 20 Apr 2022 12:47:38 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -83,7 +83,7 @@ float const TypographyAliasLinkH4MdLineHeight07 = 36;
 float const TypographyAliasLinkPLgLineHeight05 = 27;
 float const TypographyAliasLinkPMdLineHeight04 = 24;
 float const TypographySpecificIosTabbarLabelXsSize = 11;
-float const TypographySpecificAppNavigationTitleXlSize = 32;
-float const TypographySpecificAppNavigationTitleMdSize = 20;
-float const TypographySpecificAppNavigationTitleXlLineHeight = 48;
-float const TypographySpecificAppNavigationTitleMdLineHeight = 30;
+float const TypographySpecificAppNavigationTitleXlSize = 24;
+float const TypographySpecificAppNavigationTitleMdSize = 16;
+float const TypographySpecificAppNavigationTitleXlLineHeight = 36;
+float const TypographySpecificAppNavigationTitleMdLineHeight = 24;

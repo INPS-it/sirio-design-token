@@ -197,9 +197,9 @@
   --typography-alias-disclaimer-font-weight-400: Regular;
   --typography-alias-link-font-weight-700: Bold;
   --typography-specific-ios-tabbar-label-xs-size: 11;
-  --typography-specific-app-navigation-title-xl-size: 32;
-  --typography-specific-app-navigation-title-md-size: 20;
-  --typography-specific-app-navigation-title-xl-line-height: 48;
-  --typography-specific-app-navigation-title-md-line-height: 30;
+  --typography-specific-app-navigation-title-xl-size: 24;
+  --typography-specific-app-navigation-title-md-size: 16;
+  --typography-specific-app-navigation-title-xl-line-height: 36;
+  --typography-specific-app-navigation-title-md-line-height: 24;
   --typography-specific-app-navigation-title-font-weight-600: SemiBold;
 }

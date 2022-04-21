@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 06 Apr 2022 13:51:34 GMT
+  Generated on Wed, 20 Apr 2022 12:47:38 GMT
 -->
 <resources>
   <string name="typography_global_line_heights_10">54</string>
@@ -78,9 +78,9 @@
   <string name="typography_alias_link_p_lg_line_height_05">27</string>
   <string name="typography_alias_link_p_md_line_height_04">24</string>
   <string name="typography_specific_ios_tabbar_label_xs_size">11</string>
-  <string name="typography_specific_app_navigation_title_xl_size">32</string>
-  <string name="typography_specific_app_navigation_title_md_size">20</string>
-  <string name="typography_specific_app_navigation_title_xl_line_height">48</string>
-  <string name="typography_specific_app_navigation_title_md_line_height">30</string>
+  <string name="typography_specific_app_navigation_title_xl_size">24</string>
+  <string name="typography_specific_app_navigation_title_md_size">16</string>
+  <string name="typography_specific_app_navigation_title_xl_line_height">36</string>
+  <string name="typography_specific_app_navigation_title_md_line_height">24</string>
   
 </resources>

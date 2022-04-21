@@ -197,9 +197,9 @@
   "TypographyAliasDisclaimerFontWeight400": "Regular",
   "TypographyAliasLinkFontWeight700": "Bold",
   "TypographySpecificIosTabbarLabelXsSize": "11",
-  "TypographySpecificAppNavigationTitleXlSize": "32",
-  "TypographySpecificAppNavigationTitleMdSize": "20",
-  "TypographySpecificAppNavigationTitleXlLineHeight": "48",
-  "TypographySpecificAppNavigationTitleMdLineHeight": "30",
+  "TypographySpecificAppNavigationTitleXlSize": "24",
+  "TypographySpecificAppNavigationTitleMdSize": "16",
+  "TypographySpecificAppNavigationTitleXlLineHeight": "36",
+  "TypographySpecificAppNavigationTitleMdLineHeight": "24",
   "TypographySpecificAppNavigationTitleFontWeight600": "SemiBold"
 }

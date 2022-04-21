@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 06 Apr 2022 13:51:34 GMT
+// Generated on Wed, 20 Apr 2022 12:47:38 GMT
 
 
 import UIKit
@@ -208,9 +208,9 @@ public class StyleDictionary {
     public static let typographyGlobalLineHeights14 = 78
     public static let typographyGlobalLineHeights15 = 84
     public static let typographySpecificAppNavigationTitleFontWeight600 = SemiBold
-    public static let typographySpecificAppNavigationTitleMdLineHeight = 30
-    public static let typographySpecificAppNavigationTitleMdSize = 20
-    public static let typographySpecificAppNavigationTitleXlLineHeight = 48
-    public static let typographySpecificAppNavigationTitleXlSize = 32
+    public static let typographySpecificAppNavigationTitleMdLineHeight = 24
+    public static let typographySpecificAppNavigationTitleMdSize = 16
+    public static let typographySpecificAppNavigationTitleXlLineHeight = 36
+    public static let typographySpecificAppNavigationTitleXlSize = 24
     public static let typographySpecificIosTabbarLabelXsSize = 11
 }

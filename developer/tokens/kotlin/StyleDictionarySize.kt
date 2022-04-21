@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Wed, 06 Apr 2022 13:51:34 GMT
+// Generated on Wed, 20 Apr 2022 12:47:39 GMT
 
 
 
@@ -84,9 +84,9 @@ object StyleDictionarySize {
   val typographyGlobalLineHeights13 = 72
   val typographyGlobalLineHeights14 = 78
   val typographyGlobalLineHeights15 = 84
-  val typographySpecificAppNavigationTitleMdLineHeight = 30
-  val typographySpecificAppNavigationTitleMdSize = 20
-  val typographySpecificAppNavigationTitleXlLineHeight = 48
-  val typographySpecificAppNavigationTitleXlSize = 32
+  val typographySpecificAppNavigationTitleMdLineHeight = 24
+  val typographySpecificAppNavigationTitleMdSize = 16
+  val typographySpecificAppNavigationTitleXlLineHeight = 36
+  val typographySpecificAppNavigationTitleXlSize = 24
   val typographySpecificIosTabbarLabelXsSize = 11
 }

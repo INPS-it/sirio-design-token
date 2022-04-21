@@ -1110,25 +1110,25 @@
         "description": "🔵 Token specifico di componente: Font size da associare alle label in tabbar"
       },
       "app-navigation-title-xl-size":{
-        "value": "{typography.global.fontSize.09.value}",
+        "value": "{typography.global.fontSize.07.value}",
         "type": "fontSizes",
          "category": "size",
         "description": "🔵 Token specifico di componente: Font size da associare ai titoli XL nell'app navigation"
       },
       "app-navigation-title-md-size":{
-        "value": "{typography.global.fontSize.06.value}",
+        "value": "{typography.global.fontSize.04.value}",
         "type": "fontSizes",
          "category": "size",
         "description": "🔵 Token specifico di componente: Font size da associare ai titoli MD nell'app navigation"
       },
       "app-navigation-title-xl-line-height":{
-        "value": "{typography.global.lineHeights.09.value}",
+        "value": "{typography.global.lineHeights.07.value}",
         "type": "lineHeights",
          "category": "size",
         "description": "🔵 Token specifico di componente: Line Height da associare ai titoli XL nell'app navigation"
       },
       "app-navigation-title-md-line-height":{
-        "value": "{typography.global.lineHeights.06.value}",
+        "value": "{typography.global.lineHeights.04.value}",
         "type": "lineHeights",
          "category": "size",
         "description": "🔵 Token specifico di componente: Line Height da associare ai titoli MD nell'app navigation"

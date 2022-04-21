@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 06 Apr 2022 13:51:34 GMT
+// Generated on Wed, 20 Apr 2022 12:47:38 GMT
 
 
 import UIKit
@@ -82,9 +82,9 @@ public enum StyleDictionarySize {
     public static let globalLineHeights13 = 72
     public static let globalLineHeights14 = 78
     public static let globalLineHeights15 = 84
-    public static let specificAppNavigationTitleMdLineHeight = 30
-    public static let specificAppNavigationTitleMdSize = 20
-    public static let specificAppNavigationTitleXlLineHeight = 48
-    public static let specificAppNavigationTitleXlSize = 32
+    public static let specificAppNavigationTitleMdLineHeight = 24
+    public static let specificAppNavigationTitleMdSize = 16
+    public static let specificAppNavigationTitleXlLineHeight = 36
+    public static let specificAppNavigationTitleXlSize = 24
     public static let specificIosTabbarLabelXsSize = 11
 }
