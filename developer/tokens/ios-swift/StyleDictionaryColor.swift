@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 20 Apr 2022 12:47:38 GMT
+// Generated on Mon, 06 Jun 2022 09:06:16 GMT
 
 
 import UIKit
@@ -37,9 +37,9 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveSecondaryFocus = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let aliasInteractiveSecondaryHover = UIColor(red: 0.176, green: 0.200, blue: 0.224, alpha: 1)
     public static let aliasInteractiveSecondaryPressed = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
-    public static let aliasOverlay15Secondary100 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
-    public static let aliasOverlay25Primary000 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
-    public static let aliasOverlay90DarkPrimary120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
+    public static let aliasOverlay15Secondary100 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 0.15)
+    public static let aliasOverlay25Primary000 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 0.15)
+    public static let aliasOverlay90DarkPrimary120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 0.9)
     public static let aliasTextColorDisabled = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
     public static let aliasTextColorPrimary100 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let aliasTextColorPrimaryDark110 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)

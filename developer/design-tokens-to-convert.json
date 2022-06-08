@@ -349,17 +349,17 @@
         "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
       },
       "overlay-90-dark-primary-120": {
-        "value": "rgba(0, 53, 76, 90%)",
+        "value": "rgba(0, 53, 76, 0.9)",
         "type": "color",
         "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 90% nei componenti di colore dark-primary-120"
       },
       "overlay-15-secondary-100": {
-        "value": "rgba(69, 77, 86, 15%)",
+        "value": "rgba(69, 77, 86, 0.15)",
         "type": "color",
         "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
       },
       "overlay-25-primary-000": {
-        "value": "rgba(0, 125, 179, 15%)",
+        "value": "rgba(0, 125, 179, 0.15)",
         "type": "color",
         "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
       },

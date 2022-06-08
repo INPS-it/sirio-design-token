@@ -68,9 +68,9 @@
   --color-alias-interactive-border-focus: #0092d1;
   --color-alias-gradient-accent-primary-dark: #000000;
   --color-alias-gradient-accent-primary: #000000;
-  --color-alias-overlay-90-dark-primary-120: #00354c;
-  --color-alias-overlay-15-secondary-100: #454d56;
-  --color-alias-overlay-25-primary-000: #007db3;
+  --color-alias-overlay-90-dark-primary-120: rgba(0, 53, 76, 0.9);
+  --color-alias-overlay-15-secondary-100: rgba(69, 77, 86, 0.15);
+  --color-alias-overlay-25-primary-000: rgba(0, 125, 179, 0.15);
   --color-alias-app-interactive-secondary-default: #5b6772;
   --color-alias-app-interactive-primary-active: #007db3;
   --color-alias-app-interactive-primary-000-default: #ffffff;

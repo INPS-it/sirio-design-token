@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 20 Apr 2022 12:47:38 GMT
+  Generated on Mon, 06 Jun 2022 09:06:16 GMT
 -->
 <resources>
   <color name="color_global_primary_100">#ff007db3</color>
@@ -74,9 +74,9 @@
   <color name="color_alias_interactive_border_focus">#ff0092d1</color>
   <color name="color_alias_gradient_accent_primary_dark">#ff000000</color>
   <color name="color_alias_gradient_accent_primary">#ff000000</color>
-  <color name="color_alias_overlay_90_dark_primary_120">#ff00354c</color>
-  <color name="color_alias_overlay_15_secondary_100">#ff454d56</color>
-  <color name="color_alias_overlay_25_primary_000">#ff007db3</color>
+  <color name="color_alias_overlay_90_dark_primary_120">#e600354c</color>
+  <color name="color_alias_overlay_15_secondary_100">#26454d56</color>
+  <color name="color_alias_overlay_25_primary_000">#26007db3</color>
   <color name="color_alias_app_interactive_secondary_default">#ff5b6772</color>
   <color name="color_alias_app_interactive_primary_active">#ff007db3</color>
   <color name="color_alias_app_interactive_primary_000_default">#ffffffff</color>
