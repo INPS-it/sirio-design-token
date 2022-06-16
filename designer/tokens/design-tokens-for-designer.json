@@ -1048,10 +1048,10 @@
             "fontWeight": "{typography.alias.h6-font-weight-600}",
             "lineHeight": "{typography.alias.h6-md-line-height-05}",
             "fontSize": "{typography.alias.h6-md-size-05}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H6 Medium (MD)"
@@ -1062,10 +1062,10 @@
             "fontWeight": "{typography.alias.h5-font-weight-600}",
             "lineHeight": "{typography.alias.h5-md-line-height-06}",
             "fontSize": "{typography.alias.h5-md-size-06}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H5 Medium (MD)"
@@ -1076,10 +1076,10 @@
             "fontWeight": "{typography.alias.h4-font-weight-700}",
             "lineHeight": "{typography.alias.h4-md-line-height-07}",
             "fontSize": "{typography.alias.h4-md-size-07}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H4 Medium (MD)"
@@ -1090,10 +1090,10 @@
             "fontWeight": "{typography.alias.h4-font-weight-700}",
             "lineHeight": "{typography.alias.h4-lg-line-height-08}",
             "fontSize": "{typography.alias.h4-lg-size-08}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H4 Large (LG)"
@@ -1104,10 +1104,10 @@
             "fontWeight": "{typography.alias.h3-font-weight-700}",
             "lineHeight": "{typography.alias.h3-md-line-height-09}",
             "fontSize": "{typography.alias.h3-md-size-09}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H3 Medium (MD)"
@@ -1118,10 +1118,10 @@
             "fontWeight": "{typography.alias.h3-font-weight-700}",
             "lineHeight": "{typography.alias.h3-lg-line-height-10}",
             "fontSize": "{typography.alias.h3-lg-size-10}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H3 Large (LG)"
@@ -1132,10 +1132,10 @@
             "fontWeight": "{typography.alias.h2-font-weight-700}",
             "lineHeight": "{typography.alias.h2-md-line-height-11}",
             "fontSize": "{typography.alias.h2-md-size-11}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H2 Medium (MD)"
@@ -1146,10 +1146,10 @@
             "fontWeight": "{typography.alias.h2-font-weight-700}",
             "lineHeight": "{typography.alias.h2-lg-line-height-12}",
             "fontSize": "{typography.alias.h2-lg-size-12}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H2 Large (LG)"
@@ -1160,10 +1160,10 @@
             "fontWeight": "{typography.alias.h1-font-weight-700}",
             "lineHeight": "{typography.alias.h1-md-line-height-13}",
             "fontSize": "{typography.alias.h1-md-size-13}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Medium (MD)"
@@ -1174,10 +1174,10 @@
             "fontWeight": "{typography.alias.h1-font-weight-700}",
             "lineHeight": "{typography.alias.h1-lg-line-height-14}",
             "fontSize": "{typography.alias.h1-lg-size-14}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Large (LG)"
@@ -1188,10 +1188,10 @@
             "fontWeight": "{typography.alias.h1-font-weight-700}",
             "lineHeight": "{typography.alias.h1-xl-line-height-15}",
             "fontSize": "{typography.alias.h1-xl-size-15}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Extra-lg (XL)"
@@ -1202,9 +1202,9 @@
             "fontWeight": "{typography.alias.link-font-weight-700}",
             "lineHeight": "{typography.alias.h3-md-line-height-09}",
             "fontSize": "{typography.alias.link-h3-md-size-09}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
             "textDecoration": "underline"
           },
           "type": "typography",
@@ -1216,9 +1216,9 @@
             "fontWeight": "{typography.alias.link-font-weight-700}",
             "lineHeight": "{typography.alias.link-h4-md-line-height-07}",
             "fontSize": "{typography.alias.link-h4-md-size-07}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
             "textDecoration": "underline"
           },
           "type": "typography",
@@ -1230,9 +1230,9 @@
             "fontWeight": "{typography.alias.link-font-weight-700}",
             "lineHeight": "{typography.alias.link-p-md-line-height-04}",
             "fontSize": "{typography.alias.link-p-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
             "textDecoration": "underline"
           },
           "type": "typography",
@@ -1244,9 +1244,9 @@
             "fontWeight": "{typography.alias.link-font-weight-700}",
             "lineHeight": "{typography.alias.link-p-md-line-height-04}",
             "fontSize": "{typography.alias.link-p-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
             "textDecoration": "underline"
           },
           "type": "typography",
@@ -1258,9 +1258,9 @@
             "fontWeight": "{typography.alias.link-font-weight-700}",
             "lineHeight": "{typography.alias.link-p-lg-line-height-05}",
             "fontSize": "{typography.alias.link-p-lg-size-05}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
             "textDecoration": "underline"
           },
           "type": "typography",
@@ -1272,9 +1272,9 @@
             "fontWeight": "{typography.alias.link-font-weight-700}",
             "lineHeight": "{typography.alias.link-p-lg-line-height-05}",
             "fontSize": "{typography.alias.link-p-lg-size-05}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
             "textDecoration": "underline"
           },
           "type": "typography",
@@ -1286,10 +1286,10 @@
             "fontWeight": "{typography.alias.label-font-weight-700}",
             "lineHeight": "{typography.alias.label-xl-line-height-03}",
             "fontSize": "{typography.alias.label-xl-size-06}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
@@ -1300,10 +1300,10 @@
             "fontWeight": "{typography.alias.label-font-weight-700}",
             "lineHeight": "{typography.alias.label-xl-line-height-03}",
             "fontSize": "{typography.alias.label-xl-size-06}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
@@ -1314,10 +1314,10 @@
             "fontWeight": "{typography.alias.label-font-weight-400}",
             "lineHeight": "{typography.alias.label-xl-line-height-03}",
             "fontSize": "{typography.alias.label-xl-size-06}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
@@ -1328,10 +1328,10 @@
             "fontWeight": "{typography.alias.label-font-weight-700}",
             "lineHeight": "{typography.alias.label-line-height-01}",
             "fontSize": "{typography.alias.label-lg-size-05}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
@@ -1342,10 +1342,10 @@
             "fontWeight": "{typography.alias.label-font-weight-700}",
             "lineHeight": "{typography.alias.label-line-height-01}",
             "fontSize": "{typography.alias.label-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
@@ -1356,10 +1356,10 @@
             "fontWeight": "{typography.alias.label-font-weight-600}",
             "lineHeight": "{typography.alias.label-line-height-01}",
             "fontSize": "{typography.alias.label-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
@@ -1370,10 +1370,10 @@
             "fontWeight": "{typography.alias.label-font-weight-400}",
             "lineHeight": "{typography.alias.label-line-height-01}",
             "fontSize": "{typography.alias.label-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
@@ -1384,10 +1384,10 @@
             "fontWeight": "{typography.alias.label-font-weight-400}",
             "lineHeight": "{typography.alias.label-line-height-01}",
             "fontSize": "{typography.alias.label-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
@@ -1398,10 +1398,10 @@
             "fontWeight": "{typography.global.fontWeights.400}",
             "lineHeight": "{typography.global.lineHeights.01}",
             "fontSize": "{typography.global.fontSize.04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai Placeholder"
@@ -1412,10 +1412,10 @@
             "fontWeight": "{typography.global.fontWeights.400}",
             "lineHeight": "12px",
             "fontSize": "{typography.global.fontSize.02}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai Placeholder"
@@ -1426,10 +1426,10 @@
             "fontWeight": "{typography.alias.disclaimer-font-weight-400}",
             "lineHeight": "{typography.alias.disclaimer-md-line-height-04}",
             "fontSize": "{typography.alias.disclaimer-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai Disclaimer"
@@ -1440,10 +1440,10 @@
             "fontWeight": "{typography.global.fontWeights.700-i}",
             "lineHeight": "{typography.alias.p-lg-line-height-05}",
             "fontSize": "{typography.alias.p-lg-size-05}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
@@ -1454,10 +1454,10 @@
             "fontWeight": "{typography.global.fontWeights.700-i}",
             "lineHeight": "{typography.alias.p-md-line-height-04}",
             "fontSize": "{typography.alias.p-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
@@ -1468,10 +1468,10 @@
             "fontWeight": "{typography.alias.p-font-weight-400}",
             "lineHeight": "{typography.alias.p-md-line-height-04}",
             "fontSize": "{typography.alias.p-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Titillium Web"
@@ -1482,10 +1482,10 @@
             "fontWeight": "{typography.alias.p-font-weight-400}",
             "lineHeight": "{typography.alias.p-md-line-height-04}",
             "fontSize": "{typography.alias.p-md-size-04}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Lora"
@@ -1496,10 +1496,10 @@
             "fontWeight": "{typography.alias.p-font-weight-400}",
             "lineHeight": "{typography.alias.p-lg-line-height-05}",
             "fontSize": "{typography.alias.p-lg-size-05}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Lora"
@@ -1510,10 +1510,10 @@
             "fontWeight": "{typography.alias.p-font-weight-400}",
             "lineHeight": "{typography.alias.p-lg-line-height-05}",
             "fontSize": "{typography.alias.p-lg-size-05}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Titillium Web"
@@ -1524,10 +1524,10 @@
             "fontWeight": "{typography.alias.label-font-weight-400}",
             "lineHeight": "{typography.specific.ios-tabbar-label-xs-size}",
             "fontSize": "{typography.specific.ios-tabbar-label-xs-size}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
@@ -1538,10 +1538,10 @@
             "fontWeight": "{typography.alias.label-font-weight-400}",
             "lineHeight": "{typography.alias.label-line-height-01}",
             "fontSize": "{typography.alias.label-xs-size-02}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
@@ -1552,10 +1552,10 @@
             "fontWeight": "{typography.alias.label-font-weight-400}",
             "lineHeight": "{typography.alias.label-line-height-01}",
             "fontSize": "{typography.alias.label-xs-size-02}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
@@ -1566,10 +1566,10 @@
             "fontWeight": "{typography.specific.app-navigation-title-font-weight-600}",
             "lineHeight": "{typography.specific.app-navigation-title-xl-line-height}",
             "fontSize": "{typography.specific.app-navigation-title-xl-size}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai titoli XL presenti all'interno del componente tab bar"
@@ -1580,10 +1580,10 @@
             "fontWeight": "{typography.specific.app-navigation-title-font-weight-600}",
             "lineHeight": "{typography.specific.app-navigation-title-md-line-height}",
             "fontSize": "{typography.specific.app-navigation-title-md-size}",
-            "letterSpacing": "$letterSpacing.0",
-            "paragraphSpacing": "$paragraphSpacing.0",
-            "textCase": "$textCase.none",
-            "textDecoration": "$textDecoration.none"
+            "letterSpacing": "letterSpacing.0",
+            "paragraphSpacing": "paragraphSpacing.0",
+            "textCase": "textCase.none",
+            "textDecoration": "textDecoration.none"
           },
           "type": "typography",
           "description": "🔸 Stile tipografico: Stile di testo da applicare ai titoli MD presenti all'interno del componente tab bar"
