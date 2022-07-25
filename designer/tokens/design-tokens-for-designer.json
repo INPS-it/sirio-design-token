@@ -311,22 +311,32 @@
       "background-color-disabled": {
         "value": "{color.global.light-secondary-50}",
         "type": "color",
-        "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
       },
-      "background-color-primary-light-1": {
+      "background-color-primary-light-40": {
         "value": "{color.global.light-primary-40}",
         "type": "color",
-        "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
       },
       "background-color-primary-light-0": {
         "value": "{color.global.primary-000}",
         "type": "color",
-        "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
       },
-      "background-color-primary-dark-0": {
+      "background-color-primary-dark-110": {
+        "value": "{color.global.dark-primary-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-dark-115": {
+        "value": "{color.global.dark-primary-115}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-dark-120": {
         "value": "{color.global.dark-primary-120}",
         "type": "color",
-        "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
       },
       "interactive-border-focus": {
         "value": "#0092D1",
@@ -354,7 +364,7 @@
         "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
       },
       "overlay-25-primary-000": {
-        "value": "rgba(0, 125, 179, 0.15)",
+        "value": "rgba(0, 125, 179, 0.25)",
         "type": "color",
         "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
       },
@@ -1006,604 +1016,654 @@
       }
     },
     "specific": {
-      "ios-tabbar-label-xs-size":{
+      "ios-tabbar-label-xs-size": {
         "value": "11",
         "type": "fontSizes",
         "description": "🔵 Token specifico di componente: Font size da associare alle label in tabbar"
       },
-      "app-navigation-title-xl-size":{
+      "app-navigation-title-xl-size": {
         "value": "{typography.global.fontSize.07}",
         "type": "fontSizes",
-         "category": "size",
+        "category": "size",
         "description": "🔵 Token specifico di componente: Font size da associare ai titoli XL nell'app navigation"
       },
-      "app-navigation-title-md-size":{
+      "app-navigation-title-md-size": {
         "value": "{typography.global.fontSize.04}",
         "type": "fontSizes",
-         "category": "size",
+        "category": "size",
         "description": "🔵 Token specifico di componente: Font size da associare ai titoli MD nell'app navigation"
       },
-      "app-navigation-title-xl-line-height":{
+      "app-navigation-title-xl-line-height": {
         "value": "{typography.global.lineHeights.07}",
         "type": "lineHeights",
-         "category": "size",
+        "category": "size",
         "description": "🔵 Token specifico di componente: Line Height da associare ai titoli XL nell'app navigation"
       },
-      "app-navigation-title-md-line-height":{
+      "app-navigation-title-md-line-height": {
         "value": "{typography.global.lineHeights.04}",
         "type": "lineHeights",
-         "category": "size",
+        "category": "size",
         "description": "🔵 Token specifico di componente: Line Height da associare ai titoli MD nell'app navigation"
       },
-      "app-navigation-title-font-weight-600":{
+      "app-navigation-title-font-weight-600": {
         "value": "{typography.global.fontWeights.600}",
         "type": "fontWeights",
         "description": "🔵 Token specifico di componente: Font Weight da associare ai titoli nell'app navigation"
       }
     },
-      "style": {
-        "h6-md": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h6-font-weight-600}",
-            "lineHeight": "{typography.alias.h6-md-line-height-05}",
-            "fontSize": "{typography.alias.h6-md-size-05}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H6 Medium (MD)"
+    "style": {
+      "h6-md": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h6-font-weight-600}",
+          "lineHeight": "{typography.alias.h6-md-line-height-05}",
+          "fontSize": "{typography.alias.h6-md-size-05}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h5-md": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h5-font-weight-600}",
-            "lineHeight": "{typography.alias.h5-md-line-height-06}",
-            "fontSize": "{typography.alias.h5-md-size-06}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H5 Medium (MD)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H6 Medium (MD)"
+      },
+      "h5-md": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h5-font-weight-600}",
+          "lineHeight": "{typography.alias.h5-md-line-height-06}",
+          "fontSize": "{typography.alias.h5-md-size-06}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h4-md": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h4-font-weight-700}",
-            "lineHeight": "{typography.alias.h4-md-line-height-07}",
-            "fontSize": "{typography.alias.h4-md-size-07}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H4 Medium (MD)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H5 Medium (MD)"
+      },
+      "h4-md": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h4-font-weight-700}",
+          "lineHeight": "{typography.alias.h4-md-line-height-07}",
+          "fontSize": "{typography.alias.h4-md-size-07}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h4-lg": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h4-font-weight-700}",
-            "lineHeight": "{typography.alias.h4-lg-line-height-08}",
-            "fontSize": "{typography.alias.h4-lg-size-08}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H4 Large (LG)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H4 Medium (MD)"
+      },
+      "h4-lg": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h4-font-weight-700}",
+          "lineHeight": "{typography.alias.h4-lg-line-height-08}",
+          "fontSize": "{typography.alias.h4-lg-size-08}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h3-md": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h3-font-weight-700}",
-            "lineHeight": "{typography.alias.h3-md-line-height-09}",
-            "fontSize": "{typography.alias.h3-md-size-09}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H3 Medium (MD)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H4 Large (LG)"
+      },
+      "h3-md": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h3-font-weight-700}",
+          "lineHeight": "{typography.alias.h3-md-line-height-09}",
+          "fontSize": "{typography.alias.h3-md-size-09}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h3-lg": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h3-font-weight-700}",
-            "lineHeight": "{typography.alias.h3-lg-line-height-10}",
-            "fontSize": "{typography.alias.h3-lg-size-10}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H3 Large (LG)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H3 Medium (MD)"
+      },
+      "h3-lg": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h3-font-weight-700}",
+          "lineHeight": "{typography.alias.h3-lg-line-height-10}",
+          "fontSize": "{typography.alias.h3-lg-size-10}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h2-md": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h2-font-weight-700}",
-            "lineHeight": "{typography.alias.h2-md-line-height-11}",
-            "fontSize": "{typography.alias.h2-md-size-11}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H2 Medium (MD)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H3 Large (LG)"
+      },
+      "h2-md": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h2-font-weight-700}",
+          "lineHeight": "{typography.alias.h2-md-line-height-11}",
+          "fontSize": "{typography.alias.h2-md-size-11}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h2-lg": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h2-font-weight-700}",
-            "lineHeight": "{typography.alias.h2-lg-line-height-12}",
-            "fontSize": "{typography.alias.h2-lg-size-12}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H2 Large (LG)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H2 Medium (MD)"
+      },
+      "h2-lg": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h2-font-weight-700}",
+          "lineHeight": "{typography.alias.h2-lg-line-height-12}",
+          "fontSize": "{typography.alias.h2-lg-size-12}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h1-md": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h1-font-weight-700}",
-            "lineHeight": "{typography.alias.h1-md-line-height-13}",
-            "fontSize": "{typography.alias.h1-md-size-13}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Medium (MD)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H2 Large (LG)"
+      },
+      "h1-md": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h1-font-weight-700}",
+          "lineHeight": "{typography.alias.h1-md-line-height-13}",
+          "fontSize": "{typography.alias.h1-md-size-13}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h1-lg": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h1-font-weight-700}",
-            "lineHeight": "{typography.alias.h1-lg-line-height-14}",
-            "fontSize": "{typography.alias.h1-lg-size-14}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Large (LG)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Medium (MD)"
+      },
+      "h1-lg": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h1-font-weight-700}",
+          "lineHeight": "{typography.alias.h1-lg-line-height-14}",
+          "fontSize": "{typography.alias.h1-lg-size-14}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "h1-xl": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.h1-font-weight-700}",
-            "lineHeight": "{typography.alias.h1-xl-line-height-15}",
-            "fontSize": "{typography.alias.h1-xl-size-15}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Extra-lg (XL)"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Large (LG)"
+      },
+      "h1-xl": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.h1-font-weight-700}",
+          "lineHeight": "{typography.alias.h1-xl-line-height-15}",
+          "fontSize": "{typography.alias.h1-xl-size-15}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "link-h3-md-01": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.link-font-weight-700}",
-            "lineHeight": "{typography.alias.h3-md-line-height-09}",
-            "fontSize": "{typography.alias.link-h3-md-size-09}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "underline"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link utilizzati nelle titolazioni H3 Medium (MD) con Font Size Titillium Web"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare agli H1 Extra-lg (XL)"
+      },
+      "link-h3-md-01": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.h3-md-line-height-09}",
+          "fontSize": "{typography.alias.link-h3-md-size-09}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "underline"
         },
-        "link-h4-md-01": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-heading-01}",
-            "fontWeight": "{typography.alias.link-font-weight-700}",
-            "lineHeight": "{typography.alias.link-h4-md-line-height-07}",
-            "fontSize": "{typography.alias.link-h4-md-size-07}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "underline"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link utilizzati nelle titolazioni H4 Medium (MD) con Font Size Titillium Web"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link utilizzati nelle titolazioni H3 Medium (MD) con Font Size Titillium Web"
+      },
+      "link-h4-md-01": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-heading-01}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-h4-md-line-height-07}",
+          "fontSize": "{typography.alias.link-h4-md-size-07}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "underline"
         },
-        "link-p-md-02": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-02}",
-            "fontWeight": "{typography.alias.link-font-weight-700}",
-            "lineHeight": "{typography.alias.link-p-md-line-height-04}",
-            "fontSize": "{typography.alias.link-p-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "underline"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Lora"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link utilizzati nelle titolazioni H4 Medium (MD) con Font Size Titillium Web"
+      },
+      "link-p-md-02": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-p-md-line-height-04}",
+          "fontSize": "{typography.alias.link-p-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "underline"
         },
-        "link-p-md-01": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.link-font-weight-700}",
-            "lineHeight": "{typography.alias.link-p-md-line-height-04}",
-            "fontSize": "{typography.alias.link-p-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "underline"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Titillium Web"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Lora"
+      },
+      "link-p-md-01": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-p-md-line-height-04}",
+          "fontSize": "{typography.alias.link-p-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "underline"
         },
-        "link-p-lg-02": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-02}",
-            "fontWeight": "{typography.alias.link-font-weight-700}",
-            "lineHeight": "{typography.alias.link-p-lg-line-height-05}",
-            "fontSize": "{typography.alias.link-p-lg-size-05}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "underline"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Lora"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Medium (MD) inseriti in un paragrafo con Font Size Titillium Web"
+      },
+      "link-p-lg-02": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-p-lg-line-height-05}",
+          "fontSize": "{typography.alias.link-p-lg-size-05}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "underline"
         },
-        "link-p-lg-01": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.link-font-weight-700}",
-            "lineHeight": "{typography.alias.link-p-lg-line-height-05}",
-            "fontSize": "{typography.alias.link-p-lg-size-05}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "underline"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Titillium Web"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Lora"
+      },
+      "link-p-lg-01": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.link-font-weight-700}",
+          "lineHeight": "{typography.alias.link-p-lg-line-height-05}",
+          "fontSize": "{typography.alias.link-p-lg-size-05}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "underline"
         },
-        "label-xl-700": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-700}",
-            "lineHeight": "{typography.alias.label-xl-line-height-03}",
-            "fontSize": "{typography.alias.label-xl-size-06}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Link Large (LG) inseriti in un paragrafo con Font Size Titillium Web"
+      },
+      "label-xl-700": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-700}",
+          "lineHeight": "{typography.alias.label-xl-line-height-03}",
+          "fontSize": "{typography.alias.label-xl-size-06}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "label-xl-600": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-700}",
-            "lineHeight": "{typography.alias.label-xl-line-height-03}",
-            "fontSize": "{typography.alias.label-xl-size-06}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+      },
+      "label-xl-600": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-700}",
+          "lineHeight": "{typography.alias.label-xl-line-height-03}",
+          "fontSize": "{typography.alias.label-xl-size-06}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "label-xl-400": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-400}",
-            "lineHeight": "{typography.alias.label-xl-line-height-03}",
-            "fontSize": "{typography.alias.label-xl-size-06}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+      },
+      "label-xl-400": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.alias.label-xl-line-height-03}",
+          "fontSize": "{typography.alias.label-xl-size-06}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "label-lg-700": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-700}",
-            "lineHeight": "{typography.alias.label-line-height-01}",
-            "fontSize": "{typography.alias.label-lg-size-05}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+      },
+      "label-lg-700": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-700}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-lg-size-05}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "label-md-700": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-700}",
-            "lineHeight": "{typography.alias.label-line-height-01}",
-            "fontSize": "{typography.alias.label-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+      },
+      "label-md-700": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-700}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "label-md-600": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-600}",
-            "lineHeight": "{typography.alias.label-line-height-01}",
-            "fontSize": "{typography.alias.label-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+      },
+      "label-md-600": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-600}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "label-md-400": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-400}",
-            "lineHeight": "{typography.alias.label-line-height-01}",
-            "fontSize": "{typography.alias.label-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+      },
+      "label-md-400": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "label-md-number-400": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-number-03}",
-            "fontWeight": "{typography.alias.label-font-weight-400}",
-            "lineHeight": "{typography.alias.label-line-height-01}",
-            "fontSize": "{typography.alias.label-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+      },
+      "label-md-number-400": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-number-03}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "placeholder-md-400": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.global.fontWeights.400}",
-            "lineHeight": "{typography.global.lineHeights.01}",
-            "fontSize": "{typography.global.fontSize.04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Placeholder"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle Label"
+      },
+      "placeholder-md-400": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.global.fontWeights.400}",
+          "lineHeight": "{typography.global.lineHeights.01}",
+          "fontSize": "{typography.global.fontSize.04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "helper-text-xs-400": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.global.fontWeights.400}",
-            "lineHeight": "12px",
-            "fontSize": "{typography.global.fontSize.02}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Placeholder"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Placeholder"
+      },
+      "helper-text-xs-400": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.global.fontWeights.400}",
+          "lineHeight": "12px",
+          "fontSize": "{typography.global.fontSize.02}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "disclaimer-md-400": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.disclaimer-font-weight-400}",
-            "lineHeight": "{typography.alias.disclaimer-md-line-height-04}",
-            "fontSize": "{typography.alias.disclaimer-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Disclaimer"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Placeholder"
+      },
+      "disclaimer-md-400": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.disclaimer-font-weight-400}",
+          "lineHeight": "{typography.alias.disclaimer-md-line-height-04}",
+          "fontSize": "{typography.alias.disclaimer-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "signature-p-lg-02": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-02}",
-            "fontWeight": "{typography.global.fontWeights.700-i}",
-            "lineHeight": "{typography.alias.p-lg-line-height-05}",
-            "fontSize": "{typography.alias.p-lg-size-05}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Disclaimer"
+      },
+      "signature-p-lg-02": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.global.fontWeights.700-i}",
+          "lineHeight": "{typography.alias.p-lg-line-height-05}",
+          "fontSize": "{typography.alias.p-lg-size-05}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "signature-p-md-02": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-02}",
-            "fontWeight": "{typography.global.fontWeights.700-i}",
-            "lineHeight": "{typography.alias.p-md-line-height-04}",
-            "fontSize": "{typography.alias.p-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
+      },
+      "signature-p-md-02": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.global.fontWeights.700-i}",
+          "lineHeight": "{typography.alias.p-md-line-height-04}",
+          "fontSize": "{typography.alias.p-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "p-md-01": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.p-font-weight-400}",
-            "lineHeight": "{typography.alias.p-md-line-height-04}",
-            "fontSize": "{typography.alias.p-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Titillium Web"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare al testo firma all'intenro di un paragrafo large"
+      },
+      "p-md-01": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.p-font-weight-400}",
+          "lineHeight": "{typography.alias.p-md-line-height-04}",
+          "fontSize": "{typography.alias.p-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "p-md-02": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-02}",
-            "fontWeight": "{typography.alias.p-font-weight-400}",
-            "lineHeight": "{typography.alias.p-md-line-height-04}",
-            "fontSize": "{typography.alias.p-md-size-04}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Lora"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Titillium Web"
+      },
+      "p-md-02": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.alias.p-font-weight-400}",
+          "lineHeight": "{typography.alias.p-md-line-height-04}",
+          "fontSize": "{typography.alias.p-md-size-04}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "p-lg-02": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-02}",
-            "fontWeight": "{typography.alias.p-font-weight-400}",
-            "lineHeight": "{typography.alias.p-lg-line-height-05}",
-            "fontSize": "{typography.alias.p-lg-size-05}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Lora"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Medium (MD) con Font Size Lora"
+      },
+      "p-lg-02": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-02}",
+          "fontWeight": "{typography.alias.p-font-weight-400}",
+          "lineHeight": "{typography.alias.p-lg-line-height-05}",
+          "fontSize": "{typography.alias.p-lg-size-05}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "p-lg-01": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.p-font-weight-400}",
-            "lineHeight": "{typography.alias.p-lg-line-height-05}",
-            "fontSize": "{typography.alias.p-lg-size-05}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Titillium Web"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Lora"
+      },
+      "p-lg-01": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.p-font-weight-400}",
+          "lineHeight": "{typography.alias.p-lg-line-height-05}",
+          "fontSize": "{typography.alias.p-lg-size-05}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "ios-tabbar-label-xs": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-400}",
-            "lineHeight": "{typography.specific.ios-tabbar-label-xs-size}",
-            "fontSize": "{typography.specific.ios-tabbar-label-xs-size}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai Paragrafi Large (LG) con Font Size Titillium Web"
+      },
+      "ios-tabbar-label-xs": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.specific.ios-tabbar-label-xs-size}",
+          "fontSize": "{typography.specific.ios-tabbar-label-xs-size}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "android-tabbar-label-xs": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-400}",
-            "lineHeight": "{typography.alias.label-line-height-01}",
-            "fontSize": "{typography.alias.label-xs-size-02}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
+      },
+      "android-tabbar-label-xs": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-xs-size-02}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "ibrid-tabbar-label-xs": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.alias.label-font-weight-400}",
-            "lineHeight": "{typography.alias.label-line-height-01}",
-            "fontSize": "{typography.alias.label-xs-size-02}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
+      },
+      "ibrid-tabbar-label-xs": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.alias.label-font-weight-400}",
+          "lineHeight": "{typography.alias.label-line-height-01}",
+          "fontSize": "{typography.alias.label-xs-size-02}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "app-navigation-title-xl": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.specific.app-navigation-title-font-weight-600}",
-            "lineHeight": "{typography.specific.app-navigation-title-xl-line-height}",
-            "fontSize": "{typography.specific.app-navigation-title-xl-size}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai titoli XL presenti all'interno del componente tab bar"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare alle label presenti all'interno del componente tab bar"
+      },
+      "app-navigation-title-xl": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.specific.app-navigation-title-font-weight-600}",
+          "lineHeight": "{typography.specific.app-navigation-title-xl-line-height}",
+          "fontSize": "{typography.specific.app-navigation-title-xl-size}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "app-navigation-title-md": {
-          "value": {
-            "fontFamily": "{typography.alias.font-family-text-01}",
-            "fontWeight": "{typography.specific.app-navigation-title-font-weight-600}",
-            "lineHeight": "{typography.specific.app-navigation-title-md-line-height}",
-            "fontSize": "{typography.specific.app-navigation-title-md-size}",
-            "letterSpacing": "letterSpacing.0",
-            "paragraphSpacing": "paragraphSpacing.0",
-            "textCase": "textCase.none",
-            "textDecoration": "textDecoration.none"
-          },
-          "type": "typography",
-          "description": "🔸 Stile tipografico: Stile di testo da applicare ai titoli MD presenti all'interno del componente tab bar"
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai titoli XL presenti all'interno del componente tab bar"
+      },
+      "app-navigation-title-md": {
+        "value": {
+          "fontFamily": "{typography.alias.font-family-text-01}",
+          "fontWeight": "{typography.specific.app-navigation-title-font-weight-600}",
+          "lineHeight": "{typography.specific.app-navigation-title-md-line-height}",
+          "fontSize": "{typography.specific.app-navigation-title-md-size}",
+          "letterSpacing": "letterSpacing.0",
+          "paragraphSpacing": "paragraphSpacing.0",
+          "textCase": "textCase.none",
+          "textDecoration": "textDecoration.none"
         },
-        "textCase": {
-          "none": {
-            "value": "none",
-            "type": "textCase"
-          }
+        "type": "typography",
+        "description": "🔸 Stile tipografico: Stile di testo da applicare ai titoli MD presenti all'interno del componente tab bar"
+      },
+      "textCase": {
+        "none": {
+          "value": "none",
+          "type": "textCase"
+        }
+      },
+      "textDecoration": {
+        "none": {
+          "value": "none",
+          "type": "textDecoration"
         },
-        "textDecoration": {
-          "none": {
-            "value": "none",
-            "type": "textDecoration"
-          },
-          "underline": {
-            "value": "underline",
-            "type": "textDecoration"
-          }
+        "underline": {
+          "value": "underline",
+          "type": "textDecoration"
         }
       }
     }
+  },
+  "elevation": {
+    "elevation-01": {
+      "value": {
+        "color": "#e3e5e8b3",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 16,
+        "spread": 0
+      },
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 1 - shadow da applicare ai layer dello strato 01"
+    },
+    "elevation-02": {
+      "value": {
+        "color": "#e3e5e8b3",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 24,
+        "spread": 0
+      },
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 2 - shadow da applicare ai layer dello strato 02"
+    },
+    "elevation-03": {
+      "value": {
+        "color": "#e3e5e8b3",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 32,
+        "spread": 0
+      },
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 3 - shadow da applicare ai layer dello strato 03"
+    },
+    "elevation-04": {
+      "value": {
+        "color": "#e3e5e8b3",
+        "type": "dropShadow",
+        "x": 0,
+        "y": 0,
+        "blur": 40,
+        "spread": 0
+      },
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 4 - shadow da applicare ai layer dello strato 04"
+    }
   }
+}

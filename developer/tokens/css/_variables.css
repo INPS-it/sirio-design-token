@@ -62,15 +62,17 @@
   --color-alias-text-color-secondary-dark-130: #000000;
   --color-alias-text-color-primary-dark-110: #005980;
   --color-alias-background-color-disabled: #c6ccd2;
-  --color-alias-background-color-primary-light-1: #edf4f7;
+  --color-alias-background-color-primary-light-40: #edf4f7;
   --color-alias-background-color-primary-light-0: #ffffff;
-  --color-alias-background-color-primary-dark-0: #00354c;
+  --color-alias-background-color-primary-dark-110: #005980;
+  --color-alias-background-color-primary-dark-115: #004766;
+  --color-alias-background-color-primary-dark-120: #00354c;
   --color-alias-interactive-border-focus: #0092d1;
   --color-alias-gradient-accent-primary-dark: #000000;
   --color-alias-gradient-accent-primary: #000000;
   --color-alias-overlay-90-dark-primary-120: rgba(0, 53, 76, 0.9);
   --color-alias-overlay-15-secondary-100: rgba(69, 77, 86, 0.15);
-  --color-alias-overlay-25-primary-000: rgba(0, 125, 179, 0.15);
+  --color-alias-overlay-25-primary-000: rgba(0, 125, 179, 0.25);
   --color-alias-app-interactive-secondary-default: #5b6772;
   --color-alias-app-interactive-primary-active: #007db3;
   --color-alias-app-interactive-primary-000-default: #ffffff;
@@ -202,4 +204,8 @@
   --typography-specific-app-navigation-title-xl-line-height: 36;
   --typography-specific-app-navigation-title-md-line-height: 24;
   --typography-specific-app-navigation-title-font-weight-600: SemiBold;
+  --elevation-elevation-01: 0, 0, 16px, 0, rgba(227, 229, 232, 0.7);
+  --elevation-elevation-02: 0, 0, 24px, 0, rgba(227, 229, 232, 0.7);
+  --elevation-elevation-03: 0, 0, 32px, 0, rgba(227, 229, 232, 0.7);
+  --elevation-elevation-04: 0, 0, 40px, 0, rgba(227, 229, 232, 0.7);
 }

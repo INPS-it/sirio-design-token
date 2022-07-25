@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Jun 2022 09:06:16 GMT
+// Generated on Wed, 13 Jul 2022 12:11:24 GMT
 
 
 import UIKit
@@ -14,9 +14,11 @@ public enum StyleDictionaryColor {
     public static let aliasAppInteractivePrimaryActive = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)
     public static let aliasAppInteractiveSecondaryDefault = UIColor(red: 0.357, green: 0.404, blue: 0.447, alpha: 1)
     public static let aliasBackgroundColorDisabled = UIColor(red: 0.776, green: 0.800, blue: 0.824, alpha: 1)
-    public static let aliasBackgroundColorPrimaryDark0 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
+    public static let aliasBackgroundColorPrimaryDark110 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
+    public static let aliasBackgroundColorPrimaryDark115 = UIColor(red: 0.000, green: 0.278, blue: 0.400, alpha: 1)
+    public static let aliasBackgroundColorPrimaryDark120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
     public static let aliasBackgroundColorPrimaryLight0 = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let aliasBackgroundColorPrimaryLight1 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
+    public static let aliasBackgroundColorPrimaryLight40 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
     public static let aliasGradientAccentPrimary = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let aliasGradientAccentPrimaryDark = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let aliasInteractiveAccentDefault = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
@@ -38,7 +40,7 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveSecondaryHover = UIColor(red: 0.176, green: 0.200, blue: 0.224, alpha: 1)
     public static let aliasInteractiveSecondaryPressed = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let aliasOverlay15Secondary100 = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 0.15)
-    public static let aliasOverlay25Primary000 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 0.15)
+    public static let aliasOverlay25Primary000 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 0.25)
     public static let aliasOverlay90DarkPrimary120 = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 0.9)
     public static let aliasTextColorDisabled = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
     public static let aliasTextColorPrimary100 = UIColor(red: 0.000, green: 0.490, blue: 0.702, alpha: 1)

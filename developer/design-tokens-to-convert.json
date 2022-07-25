@@ -316,22 +316,32 @@
       "background-color-disabled": {
         "value": "{color.global.light-secondary-50.value}",
         "type": "color",
-        "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
       },
-      "background-color-primary-light-1": {
+      "background-color-primary-light-40": {
         "value": "{color.global.light-primary-40.value}",
         "type": "color",
-        "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
       },
       "background-color-primary-light-0": {
         "value": "{color.global.primary-000.value}",
         "type": "color",
-        "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
       },
-      "background-color-primary-dark-0": {
+      "background-color-primary-dark-110": {
+        "value": "{color.global.dark-primary-110.value}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-dark-115": {
+        "value": "{color.global.dark-primary-115.value}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-dark-120": {
         "value": "{color.global.dark-primary-120.value}",
         "type": "color",
-        "description": "🟣 Token alias: Colore da applicare al backgrund di componenti o pagine web"
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
       },
       "interactive-border-focus": {
         "value": "#0092D1",
@@ -359,7 +369,7 @@
         "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
       },
       "overlay-25-primary-000": {
-        "value": "rgba(0, 125, 179, 0.15)",
+        "value": "rgba(0, 125, 179, 0.25)",
         "type": "color",
         "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
       },
@@ -1139,6 +1149,28 @@
         "category": "typography",
         "description": "🔵 Token specifico di componente: Font Weight da associare ai titoli nell'app navigation"
       }
+    }
+  },
+  "elevation": {
+    "elevation-01": {
+      "value": "0, 0, 16px, 0, rgba(227, 229, 232, 0.7)",
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 1 - shadow da applicare ai layer dello strato 01"
+    },
+    "elevation-02": {
+      "value": "0, 0, 24px, 0, rgba(227, 229, 232, 0.7)",
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 02 - shadow da applicare ai layer dello strato 02"
+    },
+    "elevation-03": {
+      "value": "0, 0, 32px, 0, rgba(227, 229, 232, 0.7)",
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 03 - shadow da applicare ai layer dello strato 03"
+    },
+    "elevation-04": {
+      "value": "0, 0, 40px, 0, rgba(227, 229, 232, 0.7)",
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 04 - shadow da applicare ai layer dello strato 04"
     }
   }
 }

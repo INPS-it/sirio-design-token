@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Mon, 06 Jun 2022 09:06:16 GMT
+  Generated on Wed, 13 Jul 2022 12:11:24 GMT
 -->
 <resources>
   <color name="color_global_primary_100">#ff007db3</color>
@@ -68,15 +68,17 @@
   <color name="color_alias_text_color_secondary_dark_130">#ff000000</color>
   <color name="color_alias_text_color_primary_dark_110">#ff005980</color>
   <color name="color_alias_background_color_disabled">#ffc6ccd2</color>
-  <color name="color_alias_background_color_primary_light_1">#ffedf4f7</color>
+  <color name="color_alias_background_color_primary_light_40">#ffedf4f7</color>
   <color name="color_alias_background_color_primary_light_0">#ffffffff</color>
-  <color name="color_alias_background_color_primary_dark_0">#ff00354c</color>
+  <color name="color_alias_background_color_primary_dark_110">#ff005980</color>
+  <color name="color_alias_background_color_primary_dark_115">#ff004766</color>
+  <color name="color_alias_background_color_primary_dark_120">#ff00354c</color>
   <color name="color_alias_interactive_border_focus">#ff0092d1</color>
   <color name="color_alias_gradient_accent_primary_dark">#ff000000</color>
   <color name="color_alias_gradient_accent_primary">#ff000000</color>
   <color name="color_alias_overlay_90_dark_primary_120">#e600354c</color>
   <color name="color_alias_overlay_15_secondary_100">#26454d56</color>
-  <color name="color_alias_overlay_25_primary_000">#26007db3</color>
+  <color name="color_alias_overlay_25_primary_000">#40007db3</color>
   <color name="color_alias_app_interactive_secondary_default">#ff5b6772</color>
   <color name="color_alias_app_interactive_primary_active">#ff007db3</color>
   <color name="color_alias_app_interactive_primary_000_default">#ffffffff</color>

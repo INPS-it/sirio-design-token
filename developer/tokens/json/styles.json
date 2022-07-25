@@ -62,9 +62,11 @@
   "ColorAliasTextColorSecondaryDark130": "#000000",
   "ColorAliasTextColorPrimaryDark110": "#005980",
   "ColorAliasBackgroundColorDisabled": "#c6ccd2",
-  "ColorAliasBackgroundColorPrimaryLight1": "#edf4f7",
+  "ColorAliasBackgroundColorPrimaryLight40": "#edf4f7",
   "ColorAliasBackgroundColorPrimaryLight0": "#ffffff",
-  "ColorAliasBackgroundColorPrimaryDark0": "#00354c",
+  "ColorAliasBackgroundColorPrimaryDark110": "#005980",
+  "ColorAliasBackgroundColorPrimaryDark115": "#004766",
+  "ColorAliasBackgroundColorPrimaryDark120": "#00354c",
   "ColorAliasInteractiveBorderFocus": "#0092d1",
   "ColorAliasGradientAccentPrimaryDark": "#000000",
   "ColorAliasGradientAccentPrimary": "#000000",
@@ -201,5 +203,9 @@
   "TypographySpecificAppNavigationTitleMdSize": "16",
   "TypographySpecificAppNavigationTitleXlLineHeight": "36",
   "TypographySpecificAppNavigationTitleMdLineHeight": "24",
-  "TypographySpecificAppNavigationTitleFontWeight600": "SemiBold"
+  "TypographySpecificAppNavigationTitleFontWeight600": "SemiBold",
+  "ElevationElevation01": "0, 0, 16px, 0, rgba(227, 229, 232, 0.7)",
+  "ElevationElevation02": "0, 0, 24px, 0, rgba(227, 229, 232, 0.7)",
+  "ElevationElevation03": "0, 0, 32px, 0, rgba(227, 229, 232, 0.7)",
+  "ElevationElevation04": "0, 0, 40px, 0, rgba(227, 229, 232, 0.7)"
 }
