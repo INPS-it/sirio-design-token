@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Dec 2021 16:35:44 GMT
+// Generated on Fri, 28 Oct 2022 14:10:11 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -51,6 +51,7 @@ ColorAliasInteractiveAccentDefault,
 ColorAliasInteractiveAccentHover,
 ColorAliasInteractiveAccentFocus,
 ColorAliasInteractiveAccentPressed,
+ColorAliasInteractivePrimary000Default,
 ColorAliasInteractivePrimaryDefault,
 ColorAliasInteractivePrimaryHover,
 ColorAliasInteractivePrimaryFocus,
@@ -64,18 +65,37 @@ ColorAliasInteractiveRedHover,
 ColorAliasInteractiveRedFocus,
 ColorAliasInteractiveRedPressed,
 ColorAliasTextColorDisabled,
+ColorAliasTextColorPrimary100,
 ColorAliasTextColorPrimaryLight0,
-ColorAliasTextColorPrimaryLight1,
-ColorAliasTextColorSecondaryDark1,
-ColorAliasTextColorSecondaryDark0,
-ColorAliasTextColorPrimaryDark0,
+ColorAliasTextColorPrimaryLight40,
+ColorAliasTextColorPrimaryLight50,
+ColorAliasTextColorSecondaryDark100,
+ColorAliasTextColorSecondaryDark130,
+ColorAliasTextColorPrimaryDark110,
 ColorAliasBackgroundColorDisabled,
-ColorAliasBackgroundColorPrimaryLight1,
+ColorAliasBackgroundColorPrimaryLight40,
+ColorAliasBackgroundColorPrimaryLight50,
+ColorAliasBackgroundColorPrimaryLight60,
 ColorAliasBackgroundColorPrimaryLight0,
-ColorAliasBackgroundColorPrimaryDark0,
+ColorAliasBackgroundColorPrimaryDark110,
+ColorAliasBackgroundColorPrimaryDark115,
+ColorAliasBackgroundColorPrimaryDark120,
+ColorAliasBackgroundColorSecondaryLight40,
+ColorAliasBackgroundColorSecondaryLight50,
+ColorAliasBackgroundColorSecondaryMid90,
+ColorAliasBackgroundColorSecondaryDark110,
+ColorAliasBackgroundColorSecondaryDark120,
+ColorAliasBackgroundColorSecondaryDark125,
+ColorAliasBackgroundColorSecondaryDark130,
 ColorAliasInteractiveBorderFocus,
 ColorAliasGradientAccentPrimaryDark,
 ColorAliasGradientAccentPrimary,
+ColorAliasOverlay90DarkPrimary120,
+ColorAliasOverlay15Secondary100,
+ColorAliasOverlay25Primary000,
+ColorAliasAppInteractiveSecondaryDefault,
+ColorAliasAppInteractivePrimaryActive,
+ColorAliasAppInteractivePrimary000Default,
 ColorSpecificDataEntryLabelColorDefault,
 ColorSpecificDataEntryLabelColorHover,
 ColorSpecificDataEntryLabelColorFocus,
@@ -95,7 +115,8 @@ ColorSpecificOptionBackgroundColorHover,
 ColorSpecificOptionBackgroundColorFocus,
 ColorSpecificOptionBackgroundColorPressed,
 ColorSpecificOptionBackgroundColorValued,
-ColorSpecificProgressbarBackgroundColor
+ColorSpecificProgressbarBackgroundColor,
+ColorSpecificCardOverlayGradientImg
 };
 
 @interface StyleDictionaryColor : NSObject

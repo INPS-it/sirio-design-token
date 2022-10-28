@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Fri, 28 Oct 2022 14:10:11 GMT
+-->
+<resources>
+  <string name="typography_global_line_heights_10">54</string>
+  <string name="typography_global_line_heights_11">60</string>
+  <string name="typography_global_line_heights_12">66</string>
+  <string name="typography_global_line_heights_13">72</string>
+  <string name="typography_global_line_heights_14">78</string>
+  <string name="typography_global_line_heights_15">84</string>
+  <string name="typography_global_line_heights_01">16</string>
+  <string name="typography_global_line_heights_02">18</string>
+  <string name="typography_global_line_heights_03">21</string>
+  <string name="typography_global_line_heights_04">24</string>
+  <string name="typography_global_line_heights_05">27</string>
+  <string name="typography_global_line_heights_06">30</string>
+  <string name="typography_global_line_heights_07">36</string>
+  <string name="typography_global_line_heights_08">42</string>
+  <string name="typography_global_line_heights_09">48</string>
+  <string name="typography_global_font_size_10">36</string>
+  <string name="typography_global_font_size_11">40</string>
+  <string name="typography_global_font_size_12">44</string>
+  <string name="typography_global_font_size_13">48</string>
+  <string name="typography_global_font_size_14">52</string>
+  <string name="typography_global_font_size_15">56</string>
+  <string name="typography_global_font_size_01">10</string>
+  <string name="typography_global_font_size_02">12</string>
+  <string name="typography_global_font_size_03">14</string>
+  <string name="typography_global_font_size_04">16</string>
+  <string name="typography_global_font_size_05">18</string>
+  <string name="typography_global_font_size_06">20</string>
+  <string name="typography_global_font_size_07">24</string>
+  <string name="typography_global_font_size_08">28</string>
+  <string name="typography_global_font_size_09">32</string>
+  <string name="typography_alias_h1_xl_size_15">56</string>
+  <string name="typography_alias_h1_lg_size_14">52</string>
+  <string name="typography_alias_h1_md_size_13">48</string>
+  <string name="typography_alias_h2_lg_size_12">44</string>
+  <string name="typography_alias_h2_md_size_11">40</string>
+  <string name="typography_alias_h3_lg_size_10">36</string>
+  <string name="typography_alias_h3_md_size_09">32</string>
+  <string name="typography_alias_h4_lg_size_08">28</string>
+  <string name="typography_alias_h4_md_size_07">24</string>
+  <string name="typography_alias_h5_md_size_06">20</string>
+  <string name="typography_alias_h6_md_size_05">18</string>
+  <string name="typography_alias_p_lg_size_05">18</string>
+  <string name="typography_alias_p_md_size_04">16</string>
+  <string name="typography_alias_label_xl_size_06">20</string>
+  <string name="typography_alias_label_lg_size_05">18</string>
+  <string name="typography_alias_label_md_size_04">16</string>
+  <string name="typography_alias_label_xs_size_02">12</string>
+  <string name="typography_alias_disclaimer_md_size_04">16</string>
+  <string name="typography_alias_link_h3_md_size_09">32</string>
+  <string name="typography_alias_link_h4_md_size_07">24</string>
+  <string name="typography_alias_link_p_lg_size_05">18</string>
+  <string name="typography_alias_link_p_md_size_04">16</string>
+  <string name="typography_alias_h1_xl_line_height_15">84</string>
+  <string name="typography_alias_h1_lg_line_height_14">78</string>
+  <string name="typography_alias_h1_md_line_height_13">72</string>
+  <string name="typography_alias_h2_lg_line_height_12">66</string>
+  <string name="typography_alias_h2_md_line_height_11">60</string>
+  <string name="typography_alias_h3_lg_line_height_10">54</string>
+  <string name="typography_alias_h3_md_line_height_09">48</string>
+  <string name="typography_alias_h4_lg_line_height_08">42</string>
+  <string name="typography_alias_h4_md_line_height_07">36</string>
+  <string name="typography_alias_h5_md_line_height_06">30</string>
+  <string name="typography_alias_h6_md_line_height_05">27</string>
+  <string name="typography_alias_p_lg_line_height_05">27</string>
+  <string name="typography_alias_p_md_line_height_04">24</string>
+  <string name="typography_alias_label_xl_line_height_03">21</string>
+  <string name="typography_alias_label_line_height_01">16</string>
+  <string name="typography_alias_disclaimer_md_line_height_04">24</string>
+  <string name="typography_alias_link_h3_md_line_height_09">48</string>
+  <string name="typography_alias_link_h4_md_line_height_07">36</string>
+  <string name="typography_alias_link_p_lg_line_height_05">27</string>
+  <string name="typography_alias_link_p_md_line_height_04">24</string>
+  <string name="typography_specific_ios_tabbar_label_xs_size">11</string>
+  <string name="typography_specific_app_navigation_title_xl_size">24</string>
+  <string name="typography_specific_app_navigation_title_md_size">16</string>
+  <string name="typography_specific_app_navigation_title_xl_line_height">36</string>
+  <string name="typography_specific_app_navigation_title_md_line_height">24</string>
+  
+</resources>
