@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Fri, 28 Oct 2022 14:10:11 GMT
+// Generated on Wed, 02 Nov 2022 09:49:06 GMT
 
 
 
@@ -50,9 +50,9 @@ object StyleDictionaryColor {
   val colorAliasInteractiveSecondaryFocus = Color(0xff454d56)
   val colorAliasInteractiveSecondaryHover = Color(0xff2d3339)
   val colorAliasInteractiveSecondaryPressed = Color(0xff0b0d0e)
-  val colorAliasOverlay15Secondary100 = (Color(0x26454D56)
-  val colorAliasOverlay25Primary000 = (Color(0x400076A8)
-  val colorAliasOverlay90DarkPrimary120 = (Color(0x4000354C)
+  val colorAliasOverlay15Secondary100 = Color(0x26454D56)
+  val colorAliasOverlay25Primary000 = Color(0x400076A8)
+  val colorAliasOverlay90DarkPrimary120 = Color(0x4000354C)
   val colorAliasTextColorDisabled = Color(0xff5b6571)
   val colorAliasTextColorPrimary100 = Color(0xff0076a8)
   val colorAliasTextColorPrimaryDark110 = Color(0xff005980)
