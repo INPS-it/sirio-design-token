@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 28 Oct 2022 14:10:11 GMT
+// Generated on Wed, 21 Dec 2022 14:34:30 GMT
 
 
 import UIKit
@@ -28,8 +28,8 @@ public enum StyleDictionaryColor {
     public static let aliasBackgroundColorSecondaryLight40 = UIColor(red: 0.890, green: 0.898, blue: 0.910, alpha: 1)
     public static let aliasBackgroundColorSecondaryLight50 = UIColor(red: 0.776, green: 0.800, blue: 0.824, alpha: 1)
     public static let aliasBackgroundColorSecondaryMid90 = UIColor(red: 0.357, green: 0.396, blue: 0.443, alpha: 1)
-    public static let aliasGradientAccentPrimary = [UIColor(red:0.00, green:0.49, blue:0.70, alpha:0.00),UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
-    public static let aliasGradientAccentPrimaryDark = [UIColor(red:0.00, green:0.21, blue:0.30, alpha:0.00),UIColor(red:0.00, green:0.49, blue:0.70, alpha:0.51), UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
+    public static let aliasGradientAccentPrimary = [UIColor(red:0.00, green:0.49, blue:0.70, alpha:1.00),UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
+    public static let aliasGradientAccentPrimaryDark = [UIColor(red:0.00, green:0.21, blue:0.30, alpha:1.00),UIColor(red:0.00, green:0.49, blue:0.70, alpha:1.00), UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
     public static let aliasInteractiveAccentDefault = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let aliasInteractiveAccentFocus = UIColor(red: 0.094, green: 0.808, blue: 0.906, alpha: 1)
     public static let aliasInteractiveAccentHover = UIColor(red: 0.549, green: 0.906, blue: 0.953, alpha: 1)
@@ -50,7 +50,7 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveSecondaryPressed = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let aliasOverlay15Secondary100 = UIColor(red:0.27, green:0.30, blue:0.34, alpha:0.15)
     public static let aliasOverlay25Primary000 = UIColor(red:0.00, green:0.46, blue:0.66, alpha:0.25)
-    public static let aliasOverlay90DarkPrimary120 = UIColor(red:0.00, green:0.21, blue:0.30, alpha:0.25)
+    public static let aliasOverlay90DarkPrimary120 = UIColor(red:0.00, green:0.21, blue:0.30, alpha:0.90)
     public static let aliasTextColorDisabled = UIColor(red: 0.357, green: 0.396, blue: 0.443, alpha: 1)
     public static let aliasTextColorPrimary100 = UIColor(red: 0.000, green: 0.463, blue: 0.659, alpha: 1)
     public static let aliasTextColorPrimaryDark110 = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
@@ -71,8 +71,8 @@ public enum StyleDictionaryColor {
     public static let globalDarkSecondary120 = UIColor(red: 0.090, green: 0.098, blue: 0.110, alpha: 1)
     public static let globalDarkSecondary125 = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let globalDarkSecondary130 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
-    public static let globalGradient01 = [UIColor(red:0.00, green:0.49, blue:0.70, alpha:0.00),UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
-    public static let globalGradient02 = [UIColor(red:0.00, green:0.21, blue:0.30, alpha:0.00),UIColor(red:0.00, green:0.49, blue:0.70, alpha:0.51), UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
+    public static let globalGradient01 = [UIColor(red:0.00, green:0.49, blue:0.70, alpha:1.00),UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
+    public static let globalGradient02 = [UIColor(red:0.00, green:0.21, blue:0.30, alpha:1.00),UIColor(red:0.00, green:0.49, blue:0.70, alpha:1.00), UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
     public static let globalLightPrimary40 = UIColor(red: 0.929, green: 0.957, blue: 0.969, alpha: 1)
     public static let globalLightPrimary50 = UIColor(red: 0.761, green: 0.886, blue: 0.941, alpha: 1)
     public static let globalLightPrimary60 = UIColor(red: 0.549, green: 0.831, blue: 0.949, alpha: 1)
@@ -116,5 +116,5 @@ public enum StyleDictionaryColor {
     public static let specificOptionBackgroundColorHover = UIColor(red: 0.000, green: 0.349, blue: 0.502, alpha: 1)
     public static let specificOptionBackgroundColorPressed = UIColor(red: 0.000, green: 0.208, blue: 0.298, alpha: 1)
     public static let specificOptionBackgroundColorValued = UIColor(red: 0.000, green: 0.463, blue: 0.659, alpha: 1)
-    public static let specificProgressbarBackgroundColor = [UIColor(red:0.00, green:0.21, blue:0.30, alpha:0.00),UIColor(red:0.00, green:0.49, blue:0.70, alpha:0.51), UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
+    public static let specificProgressbarBackgroundColor = [UIColor(red:0.00, green:0.21, blue:0.30, alpha:1.00),UIColor(red:0.00, green:0.49, blue:0.70, alpha:1.00), UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
 }

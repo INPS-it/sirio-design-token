@@ -1,0 +1,1299 @@
+{
+    "color": {
+        "global": {
+            "primary-100": {
+                "value": "#0076A8",
+                "type": "color",
+                "description": "🟡 Token globale: Colore primario rappresenta, a livello cromatico, l’identità dell’istituto"
+            },
+            "primary-000": {
+                "value": "#ffffff",
+                "type": "color",
+                "description": "🟡 Token globale: Colore primario bianco"
+            },
+            "secondary-100": {
+                "value": "#454d56",
+                "type": "color",
+                "description": "🟡 Token globale: Colore secondario grigio principale"
+            },
+            "secondary-90": {
+                "value": "#5b6772",
+                "type": "color",
+                "description": "🟡 Token globale: Colore secondario grigio declinato dal principale"
+            },
+            "accent-100": {
+                "value": "#18cee7",
+                "type": "color",
+                "description": "🟡 Token globale: Colore di accento"
+            },
+            "accent-70": {
+                "value": "#8ce7f3",
+                "type": "color",
+                "description": "🟡 Token globale: Colore di accento declinato dal principale"
+            },
+            "accent-110": {
+                "value": "#13a5b9",
+                "type": "color",
+                "description": "🟡 Token globale: Colore di accento declinato dal principale"
+            },
+            "accent-120": {
+                "value": "#0f7d8a",
+                "type": "color",
+                "description": "🟡 Token globale: Colore di accento declinato dal principale"
+            },
+            "dark-primary-110": {
+                "value": "#005980",
+                "type": "color",
+                "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
+            },
+            "dark-primary-115": {
+                "value": "#004766",
+                "type": "color",
+                "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
+            },
+            "dark-primary-120": {
+                "value": "#00354c",
+                "type": "color",
+                "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
+            },
+            "dark-primary-130": {
+                "value": "#00121a",
+                "type": "color",
+                "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
+            },
+            "mid-primary-70": {
+                "value": "#82b4c9",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
+            },
+            "mid-primary-80": {
+                "value": "#47a8d1",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
+            },
+            "mid-primary-90": {
+                "value": "#1798cf",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
+            },
+            "light-primary-40": {
+                "value": "#edf4f7",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
+            },
+            "light-primary-50": {
+                "value": "#c2e2f0",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
+            },
+            "light-primary-60": {
+                "value": "#8cd4f2",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
+            },
+            "dark-secondary-130": {
+                "value": "#000000",
+                "type": "color",
+                "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
+            },
+            "dark-secondary-125": {
+                "value": "#0b0d0e",
+                "type": "color",
+                "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
+            },
+            "dark-secondary-120": {
+                "value": "#17191c",
+                "type": "color",
+                "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
+            },
+            "dark-secondary-110": {
+                "value": "#2d3339",
+                "type": "color",
+                "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
+            },
+            "mid-secondary-90": {
+                "value": "#5b6571",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
+            },
+            "mid-secondary-80": {
+                "value": "#727f8d",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
+            },
+            "mid-secondary-70": {
+                "value": "#8e98a4",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
+            },
+            "light-secondary-60": {
+                "value": "#aab2bb",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
+            },
+            "light-secondary-50": {
+                "value": "#c6ccd2",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
+            },
+            "light-secondary-40": {
+                "value": "#e3e5e8",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
+            },
+            "semantic-successo-100": {
+                "value": "#049894",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
+            },
+            "semantic-alert-100": {
+                "value": "#aa224f",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica uno stato di allerta/errore"
+            },
+            "semantic-warning-100": {
+                "value": "#e26334",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
+            },
+            "semantic-info-100": {
+                "value": "#0077a3",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
+            },
+            "semantic-alert-110": {
+                "value": "#7f1a3b",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
+            },
+            "semantic-alert-120": {
+                "value": "#551128",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
+            },
+            "semantic-alert-130": {
+                "value": "#3f0d1b",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
+            },
+            "gradient-01": {
+                "value": {
+                    "angle": "90deg",
+                    "c1": "#007db3",
+                    "a1": "100%",
+                    "c2": "#18cee7",
+                    "a2": "100%",
+                    "type": "linear-gradient"
+                },
+                "type": "color",
+                "typeException": "color-gradient",
+                "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario"
+            },
+            "gradient-02": {
+                "value": {
+                    "angle": "90deg",
+                    "c1": "#00354c",
+                    "a1": "100%",
+                    "c2": "#007db3",
+                    "a2": "100%",
+                    "c3": "#18cee7",
+                    "a3": "100%",
+                    "type": "linear-gradient"
+                },
+                "type": "color",
+                "typeException": "color-gradient",
+                "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario + colore dark palette"
+            }
+        },
+        "alias": {
+            "interactive-accent-default": {
+                "value": "{color.global.accent-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente può interagire"
+            },
+            "interactive-accent-hover": {
+                "value": "{color.global.accent-70.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore di accento che identifica il passaggio del mouse su un elemento "
+            },
+            "interactive-accent-focus": {
+                "value": "{color.global.accent-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore di accento che identifica la selezione di un elemento usando una tastiera o una voce"
+            },
+            "interactive-accent-pressed": {
+                "value": "{color.global.accent-120.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente ha interagito"
+            },
+            "interactive-primary-000-default": {
+                "value": "{color.global.primary-000.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore primario che identifica un elemento con cui l’utente può interagire"
+            },
+            "interactive-primary-default": {
+                "value": "{color.global.primary-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore primario che identifica un elemento con cui l’utente può interagire"
+            },
+            "interactive-primary-hover": {
+                "value": "{color.global.dark-primary-110.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal primario che identifica il passaggio del mouse su un elemento"
+            },
+            "interactive-primary-focus": {
+                "value": "{color.global.primary-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal primario che identifica la selezione di un elemento usando una tastiera o una voce"
+            },
+            "interactive-primary-pressed": {
+                "value": "{color.global.dark-primary-120.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal primario che identifica un elemento con cui l’utente ha interagito"
+            },
+            "interactive-secondary-default": {
+                "value": "{color.global.secondary-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente può interagire"
+            },
+            "interactive-secondary-hover": {
+                "value": "{color.global.dark-secondary-110.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente può interagire"
+            },
+            "interactive-secondary-focus": {
+                "value": "{color.global.secondary-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal secondario che identifica la selezione di un elemento usando una tastiera o una voce"
+            },
+            "interactive-secondary-pressed": {
+                "value": "{color.global.dark-secondary-125.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente ha interagito"
+            },
+            "interactive-red-default": {
+                "value": "{color.global.semantic-alert-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
+            },
+            "interactive-red-hover": {
+                "value": "{color.global.semantic-alert-110.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
+            },
+            "interactive-red-focus": {
+                "value": "{color.global.semantic-alert-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
+            },
+            "interactive-red-pressed": {
+                "value": "{color.global.semantic-alert-130.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
+            },
+            "text-color-disabled": {
+                "value": "{color.global.mid-secondary-90.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da utilizzare per i testi che sono all’interno di componenti in stato disabilitato"
+            },
+            "text-color-primary-100": {
+                "value": "{color.global.primary-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
+            },
+            "text-color-primary-light-0": {
+                "value": "{color.global.primary-000.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
+            },
+            "text-color-primary-light-40": {
+                "value": "{color.global.light-primary-40.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
+            },
+            "text-color-primary-light-50": {
+                "value": "{color.global.light-primary-50.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
+            },
+            "text-color-secondary-dark-100": {
+                "value": "{color.global.secondary-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
+            },
+            "text-color-secondary-dark-130": {
+                "value": "{color.global.dark-secondary-130.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
+            },
+            "text-color-primary-dark-110": {
+                "value": "{color.global.dark-primary-110.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
+            },
+            "background-color-disabled": {
+                "value": "{color.global.light-secondary-40.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-primary-light-40": {
+                "value": "{color.global.light-primary-40.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-primary-light-50": {
+                "value": "{color.global.light-primary-50.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-primary-light-60": {
+                "value": "{color.global.light-primary-60.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-primary-light-0": {
+                "value": "{color.global.primary-000.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-primary-dark-110": {
+                "value": "{color.global.dark-primary-110.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-primary-dark-115": {
+                "value": "{color.global.dark-primary-115.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-primary-dark-120": {
+                "value": "{color.global.dark-primary-120.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-secondary-light-40": {
+                "value": "{color.global.light-secondary-40.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-secondary-light-50": {
+                "value": "{color.global.light-secondary-50.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-secondary-mid-90": {
+                "value": "{color.global.mid-secondary-90.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-secondary-dark-110": {
+                "value": "{color.global.dark-secondary-110.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-secondary-dark-120": {
+                "value": "{color.global.dark-secondary-120.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-secondary-dark-125": {
+                "value": "{color.global.dark-secondary-125.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-secondary-dark-130": {
+                "value": "{color.global.dark-secondary-130.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "interactive-border-focus": {
+                "value": "#0092D1",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al bordo che evidenzia i componenti in stato focus"
+            },
+            "gradient-accent-primary-dark": {
+                "value": "{color.global.gradient-02.value}",
+                "type": "color",
+                "typeException": "color-gradient",
+                "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario + colore dark palette"
+            },
+            "gradient-accent-primary": {
+                "value": "{color.global.gradient-01.value}",
+                "type": "color",
+                "typeException": "color-gradient",
+                "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
+            },
+            "overlay-90-dark-primary-120": {
+                "value": {
+                    "color": "#00354c",
+                    "alpha": 0.90
+                },
+                "type": "color",
+                "typeException": "color-overlay",
+                "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 90% nei componenti di colore dark-primary-120"
+            },
+            "overlay-15-secondary-100": {
+                "value": {
+                    "color": "#454D56",
+                    "alpha": 0.15
+                },
+                "type": "color",
+                "typeException": "color-overlay",
+                "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
+            },
+            "overlay-25-primary-000": {
+                "value": {
+                    "color": "#0076A8",
+                    "alpha": 0.25
+                },
+                "type": "color",
+                "typeException": "color-overlay",
+                "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
+            },
+            "app-interactive-secondary-default": {
+                "value": "{color.global.secondary-90.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato default del componente app navigation"
+            },
+            "app-interactive-primary-active": {
+                "value": "{color.alias.interactive-primary-default.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
+            },
+            "app-interactive-primary-000-default": {
+                "value": "{color.global.primary-000.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
+            }
+        },
+        "specific": {
+            "data-entry-label-color-default": {
+                "value": "{color.alias.interactive-secondary-default.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato default"
+            },
+            "data-entry-label-color-hover": {
+                "value": "{color.alias.interactive-primary-hover.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato hover"
+            },
+            "data-entry-label-color-focus": {
+                "value": "{color.alias.interactive-primary-focus.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato focus"
+            },
+            "data-entry-label-color-valued": {
+                "value": "{color.alias.interactive-secondary-default.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato valued"
+            },
+            "data-entry-placeholder-color-default": {
+                "value": "{color.alias.interactive-secondary-default.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
+            },
+            "data-entry-placeholder-color-hover": {
+                "value": "{color.alias.interactive-primary-hover.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
+            },
+            "data-entry-placeholder-color-focus": {
+                "value": "{color.alias.interactive-primary-focus.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
+            },
+            "data-entry-placeholder-color-valued": {
+                "value": "{color.alias.interactive-secondary-default.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
+            },
+            "data-entry-border-color-default": {
+                "value": "{color.alias.interactive-secondary-default.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato default"
+            },
+            "data-entry-border-color-hover": {
+                "value": "{color.alias.interactive-primary-hover.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato hover"
+            },
+            "data-entry-border-color-focus": {
+                "value": "{color.alias.interactive-primary-focus.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato focus"
+            },
+            "data-entry-border-color-valued": {
+                "value": "{color.alias.interactive-secondary-default.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato valorizzato"
+            },
+            "data-entry-border-color-error": {
+                "value": "{color.global.semantic-alert-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di errore"
+            },
+            "data-entry-border-color-warning": {
+                "value": "{color.global.semantic-warning-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di warning"
+            },
+            "data-entry-border-color-success": {
+                "value": "{color.global.semantic-successo-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di success"
+            },
+            "option-background-color-hover": {
+                "value": "{color.alias.interactive-primary-hover.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato di hover"
+            },
+            "option-background-color-focus": {
+                "value": "{color.alias.interactive-primary-focus.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato di focus"
+            },
+            "option-background-color-pressed": {
+                "value": "{color.alias.interactive-primary-pressed.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato selezionato"
+            },
+            "option-background-color-valued": {
+                "value": "{color.alias.interactive-primary-default.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato valorizzato"
+            },
+            "progressbar-background-color": {
+                "value": "{color.global.gradient-02.value}",
+                "type": "color",
+                "typeException": "color-gradient",
+                "description": "🔵 Token specifico di componente: Colore da applicare al background della progressbar per evidenziare l’avanzamento dello stato"
+            },
+            "card-overlay-gradient-img": {
+                "value": {
+                    "angle": "90deg",
+                    "c1": "#000000",
+                    "a1": "0%",
+                    "c2": "#000000",
+                    "a2": "100%",
+                    "type": "linear-gradient"
+                },
+                "type": "color",
+                "typeException": "color-gradient",
+                "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
+            }
+        }
+    },
+    "typography": {
+        "global": {
+            "fontFamily": {
+                "01": {
+                    "value": "Titillium Web",
+                    "type": "fontFamilies",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font istituzionale INPS, usato per quasi la totalità dei testi"
+                },
+                "02": {
+                    "value": "Lora",
+                    "type": "fontFamilies",
+                    "description": "🟡 Token globale: Font da abbinare al Titillium Web, usato per lettura immersiva (testi lunghi)"
+                },
+                "03": {
+                    "value": "Roboto Mono",
+                    "type": "fontFamilies",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font usato per valori numerici"
+                }
+            },
+            "lineHeights": {
+                "01": {
+                    "value": "16",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-01 corrispondente) "
+                },
+                "02": {
+                    "value": "18",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-02 corrispondente) "
+                },
+                "03": {
+                    "value": "21",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-03 corrispondente) "
+                },
+                "04": {
+                    "value": "24",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-04 corrispondente) "
+                },
+                "05": {
+                    "value": "27",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-05 corrispondente) "
+                },
+                "06": {
+                    "value": "30",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-06 corrispondente) "
+                },
+                "07": {
+                    "value": "36",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-07 corrispondente) "
+                },
+                "08": {
+                    "value": "42",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-08 corrispondente) "
+                },
+                "09": {
+                    "value": "48",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-09 corrispondente) "
+                },
+                "10": {
+                    "value": "54",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-10 corrispondente) "
+                },
+                "11": {
+                    "value": "60",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-11 corrispondente) "
+                },
+                "12": {
+                    "value": "66",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-12 corrispondente) "
+                },
+                "13": {
+                    "value": "72",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-13 corrispondente) "
+                },
+                "14": {
+                    "value": "78",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-14 corrispondente) "
+                },
+                "15": {
+                    "value": "84",
+                    "type": "lineHeights",
+                    "category": "size",
+                    "description": " Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-15 corrispondente) "
+                }
+            },
+            "fontWeights": {
+                "700-i": {
+                    "value": "Bold Italic",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font bold italic, usato per enfatizzare contenuti specifici (esempio: citazioni)"
+                },
+                "700": {
+                    "value": "Bold",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font bold, usato per enfatizzare contenuti specifici (esempio: titoli pagina)"
+                },
+                "600-i": {
+                    "value": "SemiBold Italic",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font semibold italic, usato per enfatizzare contenuti specifici (esempio: firma articolo)"
+                },
+                "600": {
+                    "value": "SemiBold",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font semibold, usato per enfatizzare contenuti specifici (esempio: label form)"
+                },
+                "500-i": {
+                    "value": "Medium Italic",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font medium italic, usato per enfatizzare contenuti specifici in testi lunghi"
+                },
+                "500": {
+                    "value": "Medium",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font medium, usato per enfatizzare contenuti specifici in testi lunghi"
+                },
+                "400-i": {
+                    "value": "Italic",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font regular italic, usato per enfatizzare testi informativi"
+                },
+                "400": {
+                    "value": "Regular",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font regular, usato tutti i testi come paragrafi e placeholder all’interno dei text-field"
+                },
+                "300-i": {
+                    "value": "Light Italic",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font light italic, usato per testi con font size maggiore ai 16px"
+                },
+                "300": {
+                    "value": "Light",
+                    "type": "fontWeights",
+                    "category": "typography",
+                    "description": "🟡 Token globale: Font light, usato per testi con font size maggiore ai 16px"
+                }
+            },
+            "fontSize": {
+                "01": {
+                    "value": "10",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "02": {
+                    "value": "12",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "03": {
+                    "value": "14",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "04": {
+                    "value": "16",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "05": {
+                    "value": "18",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "06": {
+                    "value": "20",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "07": {
+                    "value": "24",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "08": {
+                    "value": "28",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "09": {
+                    "value": "32",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "10": {
+                    "value": "36",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "11": {
+                    "value": "40",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "12": {
+                    "value": "44",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "13": {
+                    "value": "48",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "14": {
+                    "value": "52",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                },
+                "15": {
+                    "value": "56",
+                    "type": "fontSizes",
+                    "category": "size",
+                    "description": "🟡 Token globale: Token di tipografia costante per la dimensione del carattere"
+                }
+            }
+        },
+        "alias": {
+            "font-family-heading-01": {
+                "value": "{typography.global.fontFamily.01.value}",
+                "type": "fontFamilies",
+                "description": "🟣 Token alias: Font family Titillium Web da utilizzare per i titoli"
+            },
+            "font-family-text-01": {
+                "value": "{typography.global.fontFamily.01.value}",
+                "type": "fontFamilies",
+                "description": "🟣 Token alias: Font family Titillium Web da utilizzare per i testi"
+            },
+            "font-family-text-02": {
+                "value": "{typography.global.fontFamily.02.value}",
+                "type": "fontFamilies",
+                "description": "🟣 Token alias: Font family Lora da utilizzare per testi lunghi in cui prevediamo una lettura immersiva"
+            },
+            "font-family-number-03": {
+                "value": "{typography.global.fontFamily.03.value}",
+                "type": "fontFamilies",
+                "category": "typography",
+                "description": "🟣 Token alias: Font family Roboto Mono da utilizzare per testi numerici"
+            },
+            "h1-xl-size-15": {
+                "value": "{typography.global.fontSize.15.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H1 Extra Large (XL) presenti in pagina"
+            },
+            "h1-lg-size-14": {
+                "value": "{typography.global.fontSize.14.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H1 Large (LG) presenti in pagina"
+            },
+            "h1-md-size-13": {
+                "value": "{typography.global.fontSize.13.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H1 Medium (MD) presenti in pagina"
+            },
+            "h2-lg-size-12": {
+                "value": "{typography.global.fontSize.12.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H2 Large (LG) presenti in pagina"
+            },
+            "h2-md-size-11": {
+                "value": "{typography.global.fontSize.11.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H2 Medium (MD) presenti in pagina"
+            },
+            "h3-lg-size-10": {
+                "value": "{typography.global.fontSize.10.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H3 Large (LG) presenti in pagina"
+            },
+            "h3-md-size-09": {
+                "value": "{typography.global.fontSize.09.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H3 Medium (MD) presenti in pagina"
+            },
+            "h4-lg-size-08": {
+                "value": "{typography.global.fontSize.08.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H4 Large (LG) presenti in pagina"
+            },
+            "h4-md-size-07": {
+                "value": "{typography.global.fontSize.07.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H4 Medium (MD) presenti in pagina"
+            },
+            "h5-md-size-06": {
+                "value": "{typography.global.fontSize.06.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H5 Medium (MD) presenti in pagina"
+            },
+            "h6-md-size-05": {
+                "value": "{typography.global.fontSize.05.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli H6 Medium (MD) presenti in pagina"
+            },
+            "p-lg-size-05": {
+                "value": "{typography.global.fontSize.05.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli Paragrafi Large (LG) presenti in pagina"
+            },
+            "p-md-size-04": {
+                "value": "{typography.global.fontSize.04.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli Paragrafi Medium (MD) presenti in pagina"
+            },
+            "label-xl-size-06": {
+                "value": "{typography.global.fontSize.06.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli Label Extra Large (XL) presenti in pagina"
+            },
+            "label-lg-size-05": {
+                "value": "{typography.global.fontSize.05.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli Label Large (LG) presenti in pagina"
+            },
+            "label-md-size-04": {
+                "value": "{typography.global.fontSize.04.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli Label Medium (MD) presenti in pagina"
+            },
+            "label-xs-size-02": {
+                "value": "{typography.global.fontSize.02.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare alle Label Extra Small (XS) presenti nei dispositivi mobile"
+            },
+            "disclaimer-md-size-04": {
+                "value": "{typography.global.fontSize.04.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
+            },
+            "link-h3-md-size-09": {
+                "value": "{typography.global.fontSize.09.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un H3 Medium (MD)"
+            },
+            "link-h4-md-size-07": {
+                "value": "{typography.global.fontSize.07.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un H4 Medium (MD)"
+            },
+            "link-p-lg-size-05": {
+                "value": "{typography.global.fontSize.05.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare ai Link Large (LG) presenti in un paragrafo Large (LG)"
+            },
+            "link-p-md-size-04": {
+                "value": "{typography.global.fontSize.04.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🟣 Token alias: Font size da associare ai Link Medium (MD) presenti in un paragrafo Medium (MD)"
+            },
+            "h1-xl-line-height-15": {
+                "value": "{typography.global.lineHeights.15.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H1 Extra Large (XL)"
+            },
+            "h1-lg-line-height-14": {
+                "value": "{typography.global.lineHeights.14.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H1 Large (LG)"
+            },
+            "h1-md-line-height-13": {
+                "value": "{typography.global.lineHeights.13.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H1 Medium (MD)"
+            },
+            "h2-lg-line-height-12": {
+                "value": "{typography.global.lineHeights.12.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H2 Large (LG)"
+            },
+            "h2-md-line-height-11": {
+                "value": "{typography.global.lineHeights.11.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H2 Medium (MD)"
+            },
+            "h3-lg-line-height-10": {
+                "value": "{typography.global.lineHeights.10.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H3 Large (LG)"
+            },
+            "h3-md-line-height-09": {
+                "value": "{typography.global.lineHeights.09.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H3 Medium (MD)"
+            },
+            "h4-lg-line-height-08": {
+                "value": "{typography.global.lineHeights.08.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H4 Large (LG)"
+            },
+            "h4-md-line-height-07": {
+                "value": "{typography.global.lineHeights.07.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H4 Medium (MD)"
+            },
+            "h5-md-line-height-06": {
+                "value": "{typography.global.lineHeights.06.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H5 Medium (MD)"
+            },
+            "h6-md-line-height-05": {
+                "value": "{typography.global.lineHeights.05.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli H6 Medium (MD)"
+            },
+            "p-lg-line-height-05": {
+                "value": "{typography.global.lineHeights.05.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Paragrafo Large (LG)"
+            },
+            "p-md-line-height-04": {
+                "value": "{typography.global.lineHeights.04.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Paragrafo Medium (MD)"
+            },
+            "label-xl-line-height-03": {
+                "value": "{typography.global.lineHeights.03.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Label Extra Large (XL)"
+            },
+            "label-line-height-01": {
+                "value": "{typography.global.lineHeights.01.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Label Medium (MD)"
+            },
+            "label-line-height-02": {
+                "value": "{typography.global.lineHeights.02}",
+                "type": "lineHeights",
+                "description": "🟣 Token alias: Line Height da associare agli Label Medium (MD)"
+            },
+            "disclaimer-md-line-height-04": {
+                "value": "{typography.global.lineHeights.04.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
+            },
+            "link-h3-md-line-height-09": {
+                "value": "{typography.global.lineHeights.09.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un H3 Medium (MD)"
+            },
+            "link-h4-md-line-height-07": {
+                "value": "{typography.global.lineHeights.07.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un H4 Medium (MD)"
+            },
+            "link-p-lg-line-height-05": {
+                "value": "{typography.global.lineHeights.05.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Link Large (LG) all'interno di un Paragrafo Large (LG)"
+            },
+            "link-p-md-line-height-04": {
+                "value": "{typography.global.lineHeights.04.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Link Medium (MD) all'interno di un Paragrafo Medium (MD)"
+            },
+            "h1-font-weight-700": {
+                "value": "{typography.global.fontWeights.700.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti gli H1"
+            },
+            "h2-font-weight-700": {
+                "value": "{typography.global.fontWeights.700.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti gli H2"
+            },
+            "h3-font-weight-700": {
+                "value": "{typography.global.fontWeights.700.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti gli H3"
+            },
+            "h4-font-weight-700": {
+                "value": "{typography.global.fontWeights.700.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti gli H4"
+            },
+            "h5-font-weight-600": {
+                "value": "{typography.global.fontWeights.600.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti gli H5"
+            },
+            "h6-font-weight-600": {
+                "value": "{typography.global.fontWeights.600.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti gli H6"
+            },
+            "p-font-weight-400": {
+                "value": "{typography.global.fontWeights.400.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti i Paragrafi"
+            },
+            "label-font-weight-700": {
+                "value": "{typography.global.fontWeights.700.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti le Label"
+            },
+            "label-font-weight-600": {
+                "value": "{typography.global.fontWeights.600.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Semibold-600) previsto per tutti le Label"
+            },
+            "label-font-weight-400": {
+                "value": "{typography.global.fontWeights.400.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti le Label"
+            },
+            "disclaimer-font-weight-400": {
+                "value": "{typography.global.fontWeights.400.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Regular-400) previsto per tutti i Disclaimer"
+            },
+            "link-font-weight-700": {
+                "value": "{typography.global.fontWeights.700.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🟣 Token alias: Font Weight (Bold-700) previsto per tutti i Link"
+            }
+        },
+        "specific": {
+            "ios-tabbar-label-xs-size": {
+                "value": "11",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🔵 Token specifico di componente: Font size da associare alle label in tabbar"
+            },
+            "app-navigation-title-xl-size": {
+                "value": "{typography.global.fontSize.07.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🔵 Token specifico di componente: Font size da associare ai titoli XL nell'app navigation"
+            },
+            "app-navigation-title-md-size": {
+                "value": "{typography.global.fontSize.04.value}",
+                "type": "fontSizes",
+                "category": "size",
+                "description": "🔵 Token specifico di componente: Font size da associare ai titoli MD nell'app navigation"
+            },
+            "app-navigation-title-xl-line-height": {
+                "value": "{typography.global.lineHeights.07.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🔵 Token specifico di componente: Line Height da associare ai titoli XL nell'app navigation"
+            },
+            "app-navigation-title-md-line-height": {
+                "value": "{typography.global.lineHeights.04.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🔵 Token specifico di componente: Line Height da associare ai titoli MD nell'app navigation"
+            },
+            "app-navigation-title-font-weight-600": {
+                "value": "{typography.global.fontWeights.600.value}",
+                "type": "fontWeights",
+                "category": "typography",
+                "description": "🔵 Token specifico di componente: Font Weight da associare ai titoli nell'app navigation"
+            }
+        }
+    },
+    "elevation": {
+        "elevation-01": {
+            "value": {
+                "x": 0,
+                "y": 0,
+                "blur": 16,
+                "spread": 0,
+                "color": "#E3E5E8",
+                "alpha": 0.7,
+                "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "🟡 Token globale: Superficie 1 - shadow da applicare ai layer dello strato 01"
+        },
+        "elevation-02": {
+            "value": {
+                "x": 0,
+                "y": 0,
+                "blur": 24,
+                "spread": 0,
+                "color": "#E3E5E8",
+                "alpha": 0.7,
+                "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "🟡 Token globale: Superficie 2 - shadow da applicare ai layer dello strato 02"
+        },
+        "elevation-03": {
+            "value": {
+                "x": 0,
+                "y": 0,
+                "blur": 32,
+                "spread": 0,
+                "color": "#E3E5E8",
+                "alpha": 0.7,
+                "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "🟡 Token globale: Superficie 3 - shadow da applicare ai layer dello strato 03"
+        },
+        "elevation-04": {
+            "value": {
+                "x": 0,
+                "y": 0,
+                "blur": 40,
+                "spread": 0,
+                "color": "#E3E5E8",
+                "alpha": 0.7,
+                "type": "dropShadow"
+            },
+            "type": "boxShadow",
+            "description": "🟡 Token globale: Superficie 4 - shadow da applicare ai layer dello strato 04"
+        }
+    }
+}
