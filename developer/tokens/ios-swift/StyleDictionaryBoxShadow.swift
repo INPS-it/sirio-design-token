@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 13 Jul 2022 12:11:24 GMT
+// Generated on Wed, 21 Dec 2022 14:34:30 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryBoxShadow {
-    public static let elevation01 = 0, 0, 16px, 0, rgba(227, 229, 232, 0.7)
-    public static let elevation02 = 0, 0, 24px, 0, rgba(227, 229, 232, 0.7)
-    public static let elevation03 = 0, 0, 32px, 0, rgba(227, 229, 232, 0.7)
-    public static let elevation04 = 0, 0, 40px, 0, rgba(227, 229, 232, 0.7)
+    public static let elevation01 = (UIColor(red:0.89, green:0.90, blue:0.91, alpha:0.70), 0, 0, 16)
+    public static let elevation02 = (UIColor(red:0.89, green:0.90, blue:0.91, alpha:0.70), 0, 0, 24)
+    public static let elevation03 = (UIColor(red:0.89, green:0.90, blue:0.91, alpha:0.70), 0, 0, 32)
+    public static let elevation04 = (UIColor(red:0.89, green:0.90, blue:0.91, alpha:0.70), 0, 0, 40)
 }

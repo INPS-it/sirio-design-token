@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Wed, 13 Jul 2022 12:11:25 GMT
+// Generated on Wed, 21 Dec 2022 14:34:30 GMT
 
 
 
@@ -12,8 +12,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.*
 
 object StyleDictionaryBoxShadow {
-  val elevationElevation01 = 0, 0, 16px, 0, rgba(227, 229, 232, 0.7)
-  val elevationElevation02 = 0, 0, 24px, 0, rgba(227, 229, 232, 0.7)
-  val elevationElevation03 = 0, 0, 32px, 0, rgba(227, 229, 232, 0.7)
-  val elevationElevation04 = 0, 0, 40px, 0, rgba(227, 229, 232, 0.7)
+  val elevationElevation01 = (Color(0xB3E3E5E8), Offset(0f, 0f), 16f)
+  val elevationElevation02 = (Color(0xB3E3E5E8), Offset(0f, 0f), 24f)
+  val elevationElevation03 = (Color(0xB3E3E5E8), Offset(0f, 0f), 32f)
+  val elevationElevation04 = (Color(0xB3E3E5E8), Offset(0f, 0f), 40f)
 }

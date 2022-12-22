@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 13 Jul 2022 12:11:24 GMT
+// Generated on Wed, 21 Dec 2022 14:34:30 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -74,10 +74,19 @@ ColorAliasTextColorSecondaryDark130,
 ColorAliasTextColorPrimaryDark110,
 ColorAliasBackgroundColorDisabled,
 ColorAliasBackgroundColorPrimaryLight40,
+ColorAliasBackgroundColorPrimaryLight50,
+ColorAliasBackgroundColorPrimaryLight60,
 ColorAliasBackgroundColorPrimaryLight0,
 ColorAliasBackgroundColorPrimaryDark110,
 ColorAliasBackgroundColorPrimaryDark115,
 ColorAliasBackgroundColorPrimaryDark120,
+ColorAliasBackgroundColorSecondaryLight40,
+ColorAliasBackgroundColorSecondaryLight50,
+ColorAliasBackgroundColorSecondaryMid90,
+ColorAliasBackgroundColorSecondaryDark110,
+ColorAliasBackgroundColorSecondaryDark120,
+ColorAliasBackgroundColorSecondaryDark125,
+ColorAliasBackgroundColorSecondaryDark130,
 ColorAliasInteractiveBorderFocus,
 ColorAliasGradientAccentPrimaryDark,
 ColorAliasGradientAccentPrimary,

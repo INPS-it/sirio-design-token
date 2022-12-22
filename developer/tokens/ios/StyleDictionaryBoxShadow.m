@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 13 Jul 2022 12:11:24 GMT
+// Generated on Wed, 21 Dec 2022 14:34:30 GMT
 
 
 #import "StyleDictionaryBoxShadow.h"
 
 
-StyleDictionaryBoxShadowName const ElevationElevation01 = 0, 0, 16px, 0, rgba(227, 229, 232, 0.7);
-StyleDictionaryBoxShadowName const ElevationElevation02 = 0, 0, 24px, 0, rgba(227, 229, 232, 0.7);
-StyleDictionaryBoxShadowName const ElevationElevation03 = 0, 0, 32px, 0, rgba(227, 229, 232, 0.7);
-StyleDictionaryBoxShadowName const ElevationElevation04 = 0, 0, 40px, 0, rgba(227, 229, 232, 0.7);
+StyleDictionaryBoxShadowName const ElevationElevation01 = (UIColor(red:0.89, green:0.90, blue:0.91, alpha:0.70), 0, 0, 16, 0);
+StyleDictionaryBoxShadowName const ElevationElevation02 = (UIColor(red:0.89, green:0.90, blue:0.91, alpha:0.70), 0, 0, 24, 0);
+StyleDictionaryBoxShadowName const ElevationElevation03 = (UIColor(red:0.89, green:0.90, blue:0.91, alpha:0.70), 0, 0, 32, 0);
+StyleDictionaryBoxShadowName const ElevationElevation04 = (UIColor(red:0.89, green:0.90, blue:0.91, alpha:0.70), 0, 0, 40, 0);

@@ -2,12 +2,12 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 13 Jul 2022 12:11:24 GMT
+  Generated on Wed, 21 Dec 2022 14:34:30 GMT
 -->
 <resources>
-  <string name="elevation_elevation_01">0, 0, 16px, 0, rgba(227, 229, 232, 0.7)</string>
-  <string name="elevation_elevation_02">0, 0, 24px, 0, rgba(227, 229, 232, 0.7)</string>
-  <string name="elevation_elevation_03">0, 0, 32px, 0, rgba(227, 229, 232, 0.7)</string>
-  <string name="elevation_elevation_04">0, 0, 40px, 0, rgba(227, 229, 232, 0.7)</string>
+  <string name="elevation_elevation_01">(Color(0xB3E3E5E8), Offset(0f, 0f), 16f)</string>
+  <string name="elevation_elevation_02">(Color(0xB3E3E5E8), Offset(0f, 0f), 24f)</string>
+  <string name="elevation_elevation_03">(Color(0xB3E3E5E8), Offset(0f, 0f), 32f)</string>
+  <string name="elevation_elevation_04">(Color(0xB3E3E5E8), Offset(0f, 0f), 40f)</string>
   
 </resources>

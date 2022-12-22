@@ -2,10 +2,10 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 13 Jul 2022 12:11:24 GMT
+  Generated on Wed, 21 Dec 2022 14:34:30 GMT
 -->
 <resources>
-  <color name="color_global_primary_100">#ff007db3</color>
+  <color name="color_global_primary_100">#ff0076a8</color>
   <color name="color_global_primary_000">#ffffffff</color>
   <color name="color_global_secondary_100">#ff454d56</color>
   <color name="color_global_secondary_90">#ff5b6772</color>
@@ -40,16 +40,16 @@
   <color name="color_global_semantic_alert_110">#ff7f1a3b</color>
   <color name="color_global_semantic_alert_120">#ff551128</color>
   <color name="color_global_semantic_alert_130">#ff3f0d1b</color>
-  <color name="color_global_gradient_01">#ff000000</color>
-  <color name="color_global_gradient_02">#ff000000</color>
+  <color name="color_global_gradient_01"></color>
+  <color name="color_global_gradient_02"></color>
   <color name="color_alias_interactive_accent_default">#ff18cee7</color>
   <color name="color_alias_interactive_accent_hover">#ff8ce7f3</color>
   <color name="color_alias_interactive_accent_focus">#ff18cee7</color>
   <color name="color_alias_interactive_accent_pressed">#ff0f7d8a</color>
   <color name="color_alias_interactive_primary_000_default">#ffffffff</color>
-  <color name="color_alias_interactive_primary_default">#ff007db3</color>
+  <color name="color_alias_interactive_primary_default">#ff0076a8</color>
   <color name="color_alias_interactive_primary_hover">#ff005980</color>
-  <color name="color_alias_interactive_primary_focus">#ff007db3</color>
+  <color name="color_alias_interactive_primary_focus">#ff0076a8</color>
   <color name="color_alias_interactive_primary_pressed">#ff00354c</color>
   <color name="color_alias_interactive_secondary_default">#ff454d56</color>
   <color name="color_alias_interactive_secondary_hover">#ff2d3339</color>
@@ -59,49 +59,58 @@
   <color name="color_alias_interactive_red_hover">#ff7f1a3b</color>
   <color name="color_alias_interactive_red_focus">#ffaa224f</color>
   <color name="color_alias_interactive_red_pressed">#ff3f0d1b</color>
-  <color name="color_alias_text_color_disabled">#ff8e98a4</color>
-  <color name="color_alias_text_color_primary_100">#ff007db3</color>
+  <color name="color_alias_text_color_disabled">#ff5b6571</color>
+  <color name="color_alias_text_color_primary_100">#ff0076a8</color>
   <color name="color_alias_text_color_primary_light_0">#ffffffff</color>
   <color name="color_alias_text_color_primary_light_40">#ffedf4f7</color>
   <color name="color_alias_text_color_primary_light_50">#ffc2e2f0</color>
   <color name="color_alias_text_color_secondary_dark_100">#ff454d56</color>
   <color name="color_alias_text_color_secondary_dark_130">#ff000000</color>
   <color name="color_alias_text_color_primary_dark_110">#ff005980</color>
-  <color name="color_alias_background_color_disabled">#ffc6ccd2</color>
+  <color name="color_alias_background_color_disabled">#ffe3e5e8</color>
   <color name="color_alias_background_color_primary_light_40">#ffedf4f7</color>
+  <color name="color_alias_background_color_primary_light_50">#ffc2e2f0</color>
+  <color name="color_alias_background_color_primary_light_60">#ff8cd4f2</color>
   <color name="color_alias_background_color_primary_light_0">#ffffffff</color>
   <color name="color_alias_background_color_primary_dark_110">#ff005980</color>
   <color name="color_alias_background_color_primary_dark_115">#ff004766</color>
   <color name="color_alias_background_color_primary_dark_120">#ff00354c</color>
+  <color name="color_alias_background_color_secondary_light_40">#ffe3e5e8</color>
+  <color name="color_alias_background_color_secondary_light_50">#ffc6ccd2</color>
+  <color name="color_alias_background_color_secondary_mid_90">#ff5b6571</color>
+  <color name="color_alias_background_color_secondary_dark_110">#ff2d3339</color>
+  <color name="color_alias_background_color_secondary_dark_120">#ff17191c</color>
+  <color name="color_alias_background_color_secondary_dark_125">#ff0b0d0e</color>
+  <color name="color_alias_background_color_secondary_dark_130">#ff000000</color>
   <color name="color_alias_interactive_border_focus">#ff0092d1</color>
-  <color name="color_alias_gradient_accent_primary_dark">#ff000000</color>
-  <color name="color_alias_gradient_accent_primary">#ff000000</color>
-  <color name="color_alias_overlay_90_dark_primary_120">#e600354c</color>
-  <color name="color_alias_overlay_15_secondary_100">#26454d56</color>
-  <color name="color_alias_overlay_25_primary_000">#40007db3</color>
+  <color name="color_alias_gradient_accent_primary_dark"></color>
+  <color name="color_alias_gradient_accent_primary"></color>
+  <color name="color_alias_overlay_90_dark_primary_120"></color>
+  <color name="color_alias_overlay_15_secondary_100"></color>
+  <color name="color_alias_overlay_25_primary_000"></color>
   <color name="color_alias_app_interactive_secondary_default">#ff5b6772</color>
-  <color name="color_alias_app_interactive_primary_active">#ff007db3</color>
+  <color name="color_alias_app_interactive_primary_active">#ff0076a8</color>
   <color name="color_alias_app_interactive_primary_000_default">#ffffffff</color>
   <color name="color_specific_data_entry_label_color_default">#ff454d56</color>
   <color name="color_specific_data_entry_label_color_hover">#ff005980</color>
-  <color name="color_specific_data_entry_label_color_focus">#ff007db3</color>
+  <color name="color_specific_data_entry_label_color_focus">#ff0076a8</color>
   <color name="color_specific_data_entry_label_color_valued">#ff454d56</color>
   <color name="color_specific_data_entry_placeholder_color_default">#ff454d56</color>
   <color name="color_specific_data_entry_placeholder_color_hover">#ff005980</color>
-  <color name="color_specific_data_entry_placeholder_color_focus">#ff007db3</color>
+  <color name="color_specific_data_entry_placeholder_color_focus">#ff0076a8</color>
   <color name="color_specific_data_entry_placeholder_color_valued">#ff454d56</color>
   <color name="color_specific_data_entry_border_color_default">#ff454d56</color>
   <color name="color_specific_data_entry_border_color_hover">#ff005980</color>
-  <color name="color_specific_data_entry_border_color_focus">#ff007db3</color>
+  <color name="color_specific_data_entry_border_color_focus">#ff0076a8</color>
   <color name="color_specific_data_entry_border_color_valued">#ff454d56</color>
   <color name="color_specific_data_entry_border_color_error">#ffaa224f</color>
   <color name="color_specific_data_entry_border_color_warning">#ffe26334</color>
   <color name="color_specific_data_entry_border_color_success">#ff049894</color>
   <color name="color_specific_option_background_color_hover">#ff005980</color>
-  <color name="color_specific_option_background_color_focus">#ff007db3</color>
+  <color name="color_specific_option_background_color_focus">#ff0076a8</color>
   <color name="color_specific_option_background_color_pressed">#ff00354c</color>
-  <color name="color_specific_option_background_color_valued">#ff007db3</color>
-  <color name="color_specific_progressbar_background_color">#ff000000</color>
-  <color name="color_specific_card_overlay_gradient_img">#ff000000</color>
+  <color name="color_specific_option_background_color_valued">#ff0076a8</color>
+  <color name="color_specific_progressbar_background_color"></color>
+  <color name="color_specific_card_overlay_gradient_img"></color>
   
 </resources>
