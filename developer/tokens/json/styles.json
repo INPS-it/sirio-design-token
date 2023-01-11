@@ -190,7 +190,7 @@
   "TypographyAliasPMdLineHeight04": "24",
   "TypographyAliasLabelXlLineHeight03": "21",
   "TypographyAliasLabelLineHeight01": "16",
-  "TypographyAliasLabelLineHeight02": {"value":"18","type":"lineHeights","category":"size","description":"🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-02 corrispondente) ","filePath":"tokens/design-tokens-to-convert.json","isSource":true,"original":{"value":"18","type":"lineHeights","category":"size","description":"🟡 Token globale: Token di tipografia costante per l’interlinea del carattere (da associare al font-size-02 corrispondente) "},"name":"TypographyGlobalLineHeights02","attributes":{"category":"typography","type":"global","item":"lineHeights","subitem":"02"},"path":["typography","global","lineHeights","02"]},
+  "TypographyAliasLabelLineHeight02": "18",
   "TypographyAliasDisclaimerMdLineHeight04": "24",
   "TypographyAliasLinkH3MdLineHeight09": "48",
   "TypographyAliasLinkH4MdLineHeight07": "36",

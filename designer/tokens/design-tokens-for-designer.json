@@ -177,12 +177,12 @@
                 "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
             },
             "gradient-01": {
-                "value": "linear-gradient(90deg, #007db3 100%, #18cee7 100%)",
+                "value": "linear-gradient(90deg, #007db3 0%, #18cee7 100%)",
                 "type": "color",
                 "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario"
             },
             "gradient-02": {
-                "value": "linear-gradient(90deg, #00354c 100%, #007db3 100%, #18cee7 100%)",
+                "value": "linear-gradient(90deg, #00354c 0%, #007db3 50%, #18cee7 100%)",
                 "type": "color",
                 "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario + colore dark palette"
             }
@@ -536,7 +536,7 @@
                 "description": "🔵 Token specifico di componente: Colore da applicare al background della progressbar per evidenziare l’avanzamento dello stato"
             },
             "card-overlay-gradient-img": {
-                "value": "linear-gradient(90deg, #000000 0%, #00000000 100%)",
+                "value": "linear-gradient(0deg, #000000 0%, #00000000 100%)",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
             }

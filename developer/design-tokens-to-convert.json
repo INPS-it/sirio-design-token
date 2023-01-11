@@ -180,10 +180,11 @@
                 "value": {
                     "angle": "90deg",
                     "c1": "#007db3",
-                    "a1": "100%",
+                    "a1": "0%",
                     "c2": "#18cee7",
                     "a2": "100%",
-                    "type": "linear-gradient"
+                    "type": "linear-gradient",
+                    "setAlpha": false
                 },
                 "type": "color",
                 "typeException": "color-gradient",
@@ -193,12 +194,13 @@
                 "value": {
                     "angle": "90deg",
                     "c1": "#00354c",
-                    "a1": "100%",
+                    "a1": "0%",
                     "c2": "#007db3",
-                    "a2": "100%",
+                    "a2": "50%",
                     "c3": "#18cee7",
                     "a3": "100%",
-                    "type": "linear-gradient"
+                    "type": "linear-gradient",
+                    "setAlpha": false
                 },
                 "type": "color",
                 "typeException": "color-gradient",
@@ -570,12 +572,13 @@
             },
             "card-overlay-gradient-img": {
                 "value": {
-                    "angle": "90deg",
+                    "angle": "0deg",
                     "c1": "#000000",
                     "a1": "0%",
                     "c2": "#000000",
                     "a2": "100%",
-                    "type": "linear-gradient"
+                    "type": "linear-gradient",
+                    "setAlpha": true
                 },
                 "type": "color",
                 "typeException": "color-gradient",
@@ -1096,7 +1099,7 @@
                 "description": "🟣 Token alias: Line Height da associare agli Label Medium (MD)"
             },
             "label-line-height-02": {
-                "value": "{typography.global.lineHeights.02}",
+                "value": "{typography.global.lineHeights.02.value}",
                 "type": "lineHeights",
                 "description": "🟣 Token alias: Line Height da associare agli Label Medium (MD)"
             },

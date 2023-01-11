@@ -18,7 +18,7 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 08. RICERCA DELLE EVIDENZE OGGETTIVE
 
 ##### Guarda il nostro Manifesto
-🔗 https://zeroheight.com/0ad3508ea/p/464f43-manifesto
+🔗 https://www.inps.design/0ad3508ea/p/464f43-manifesto
 
 ********************************************************************************************************************************************************************************
 
@@ -32,7 +32,7 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 - 👨‍👨‍👦‍👦 Rafforzare la collaborazione interna e la standardizzazione dei flussi operativi
 
 #### Segui le mie linee guida e progetta in modo sicuro
-🔗 https://zeroheight.com/0ad3508ea/p/63364c--ciao-italia
+🔗 https://www.inps.design/0ad3508ea/p/464f43-manifesto
 
 ................................................................................................................................................................................
 
@@ -40,7 +40,7 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 I Design Token sono tutti i valori utili a costruire un sistema di progettazione. Definiti come gettoni poichè rispecchiano in maniera atomica tutti gli attributi estetici che costituiscono i componenti del Design system. Sono espressi in valori e fanno riferimento a: colori, tipografia, spaziature, animazioni e qualsiasi altro attributo di stile definito in fase di design. 
 
 #### Segui le mie linee guida e progetta in modo sicuro
-🔗 https://zeroheight.com/0ad3508ea/p/324df9--design-token
+🔗 https://www.inps.design/0ad3508ea/p/324df9--design-token
 
 #### 🟡 Design Token Globali
 I token globali costituiscono tutti quei valori che sono “assoluti”, non dipendenti da nessun altro valore e da cui possono essere definiti token figli. Sono i valori primitivi e da questi vengono declinati i token alias.
