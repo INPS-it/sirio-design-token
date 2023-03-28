@@ -18,7 +18,11 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 08. RICERCA DELLE EVIDENZE OGGETTIVE
 
 ##### Guarda il nostro Manifesto
+<<<<<<< HEAD
 🔗 https://www.inps.design/0ad3508ea/p/464f43-manifesto
+=======
+🔗 https://www.inps.design/0ad3508ea/p/57b156-uxinps
+>>>>>>> main
 
 ********************************************************************************************************************************************************************************
 
@@ -32,7 +36,11 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 - 👨‍👨‍👦‍👦 Rafforzare la collaborazione interna e la standardizzazione dei flussi operativi
 
 #### Segui le mie linee guida e progetta in modo sicuro
+<<<<<<< HEAD
 🔗 https://www.inps.design/0ad3508ea/p/464f43-manifesto
+=======
+🔗 https://www.inps.design/0ad3508ea/p/63364c--ciao-italia
+>>>>>>> main
 
 ................................................................................................................................................................................
 
@@ -81,7 +89,7 @@ I token specifici del componente costituiscono i token che rappresentano proprie
 
 ## 🛠 Strumenti per Developer
 ### 1. Scaricare o clonare il repo sul proprio computer
-Puoi [scaricare questo pacchetto](🔗 https://github.com/martinapaper/martinapaper) o clonarlo tramite il terminale.
+Puoi [scaricare questo pacchetto](🔗 https://github.com/INPS-it/sirio-design-token.git) o clonarlo tramite il terminale.
 Abbiamo trasformato i nostri token tramite la libreria [Amazon style dictionary](🔗 https://amzn.github.io/style-dictionary/#/).
 
 
@@ -93,19 +101,3 @@ Puoi [scaricare il tool da qui](🔗 https://www.figma.com/downloads/).
 Puoi [scaricare il plugin da qui](🔗 https://www.figma.com/community/plugin/843461159747178978)
 
 ********************************************************************************************************************************************************************************
-
-
-## FAQ
-#### 🚨 Noto un errore nella name-convention di un token
-1. Contatta il team UX@INPS e segnala l'anomalia
-2. Confrontati con i Designer per effettuare una verifica dei token che sono hanno loro nella libreria
- 
-#### 🙆‍♀️ Credo sia utile creare un token per un scenario specifico
-1. Contatta il team UX@INPS e segnala l'anomalia
-2. Non procedere in autonomia, fai una richiesta al team e insieme valuteremo l'integrazione del token 
-
-#### 😔 Non riesco ad utilizzare il plugin Figma Token
-1. Puoi cercare risposte nella guida del plugin https://docs.tokens.studio/getting-started, o in alternativa siamo a tua disposizione. Contattaci!
-
-## 🚧 Bug, problemi e richieste di funzionalità
-Contatta il team UX@INPS e segnala l'anomalia

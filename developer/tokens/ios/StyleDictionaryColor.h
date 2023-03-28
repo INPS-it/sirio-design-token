@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 12 Jan 2023 08:29:34 GMT
+// Generated on Tue, 21 Mar 2023 14:55:26 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -47,6 +47,7 @@ ColorGlobalSemanticAlert120,
 ColorGlobalSemanticAlert130,
 ColorGlobalGradient01,
 ColorGlobalGradient02,
+ColorGlobalGradient03,
 ColorAliasInteractiveAccentDefault,
 ColorAliasInteractiveAccentHover,
 ColorAliasInteractiveAccentFocus,
