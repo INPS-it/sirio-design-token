@@ -2,7 +2,7 @@
     "color": {
         "global": {
             "primary-100": {
-                "value": "#2F6DD5",
+                "value": "#0076A8",
                 "type": "color",
                 "description": "🟡 Token globale: Colore primario rappresenta, a livello cromatico, l’identità dell’istituto"
             },
@@ -42,52 +42,52 @@
                 "description": "🟡 Token globale: Colore di accento declinato dal principale"
             },
             "dark-primary-110": {
-                "value": "#00368F",
+                "value": "#005980",
                 "type": "color",
                 "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
             },
             "dark-primary-115": {
-                "value": "#002460",
+                "value": "#004766",
                 "type": "color",
                 "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
             },
             "dark-primary-120": {
-                "value": "#00173D",
+                "value": "#00354c",
                 "type": "color",
                 "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
             },
             "dark-primary-130": {
-                "value": "#000814",
+                "value": "#00121a",
                 "type": "color",
                 "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
             },
             "mid-primary-70": {
-                "value": "#84A9E6",
+                "value": "#82b4c9",
                 "type": "color",
                 "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
             },
             "mid-primary-80": {
-                "value": "#598BDE",
+                "value": "#47a8d1",
                 "type": "color",
                 "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
             },
             "mid-primary-90": {
-                "value": "#2357AE",
+                "value": "#1798cf",
                 "type": "color",
                 "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
             },
             "light-primary-40": {
-                "value": "#F2F6FC",
+                "value": "#edf4f7",
                 "type": "color",
                 "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
             },
             "light-primary-50": {
-                "value": "#D9E4F7",
+                "value": "#c2e2f0",
                 "type": "color",
                 "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
             },
             "light-primary-60": {
-                "value": "#AEC6EF",
+                "value": "#8cd4f2",
                 "type": "color",
                 "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
             },
@@ -141,7 +141,7 @@
                 "type": "color",
                 "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
             },
-            "semantic-success-100": {
+            "semantic-successo-100": {
                 "value": "#049894",
                 "type": "color",
                 "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
@@ -157,7 +157,7 @@
                 "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
             },
             "semantic-info-100": {
-                "value": "#2F6DD5",
+                "value": "#0077a3",
                 "type": "color",
                 "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
             },
@@ -177,17 +177,12 @@
                 "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
             },
             "gradient-01": {
-                "value": "linear-gradient(90deg, #2F6DD5 0%, #18cee7 100%)",
+                "value": "linear-gradient(90deg, #007db3 0%, #18cee7 100%)",
                 "type": "color",
                 "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario"
             },
             "gradient-02": {
-                "value": "linear-gradient(-90deg, #002460 0%, #2F6DD5 50.52%, #18cee7 100%)",
-                "type": "color",
-                "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario + colore dark palette"
-            },
-            "gradient-03": {
-                "value": "linear-gradient(180deg, #2F6DD5 0%, #002460 100%)",
+                "value": "linear-gradient(90deg, #00354c 0%, #007db3 50%, #18cee7 100%)",
                 "type": "color",
                 "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario + colore dark palette"
             }
@@ -394,7 +389,7 @@
                 "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
             },
             "interactive-border-focus": {
-                "value": "#0065D1",
+                "value": "#0092D1",
                 "type": "color",
                 "description": "🟣 Token alias: Colore da applicare al bordo che evidenzia i componenti in stato focus"
             },
@@ -409,7 +404,7 @@
                 "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
             },
             "overlay-90-dark-primary-120": {
-                "value": "rgba(0, 23, 61, 90%)",
+                "value": "rgba(0, 53, 76, 90%)",
                 "type": "color",
                 "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 90% nei componenti di colore dark-primary-120"
             },
@@ -419,7 +414,7 @@
                 "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
             },
             "overlay-25-primary-000": {
-                "value": "rgba(255, 255, 255, 0.25)",
+                "value": "rgba(0, 125, 179, 0.25)",
                 "type": "color",
                 "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
             },
@@ -511,7 +506,7 @@
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di warning"
             },
             "data-entry-border-color-success": {
-                "value": "{color.global.semantic-success-100}",
+                "value": "{color.global.semantic-successo-100}",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di success"
             },
@@ -536,12 +531,12 @@
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato valorizzato"
             },
             "progressbar-background-color": {
-                "value": "linear-gradient(180deg, #002460 0%, #2F6DD5 50.52%, #18cee7 100%)",
+                "value": "{color.global.gradient-02}",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al background della progressbar per evidenziare l’avanzamento dello stato"
             },
             "card-overlay-gradient-img": {
-                "value": "linear-gradient(90deg, #000000 0%, #00000000 100%)",
+                "value": "linear-gradient(0deg, #000000 0%, #00000000 100%)",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
             }
