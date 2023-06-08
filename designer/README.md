@@ -6,10 +6,10 @@ Trovi di seguito una breve guida per il loro utilizzo:
 
 ### 👩‍🎨 Strumenti essenziali
 #### 1. Scaricare e installare il tool Figma (tool per la progettazione)
-Puoi [scaricare il tool da qui](🔗 https://www.figma.com/downloads/).
+Puoi [🔗 scaricare Figma da questo link](https://www.figma.com/downloads/).
 
 ### 2. Scaricare e installare il plugin Figma Token  (plugin utile per la gestione dei Design Token)
-Puoi [scaricare il plugin da qui](🔗 https://www.figma.com/community/plugin/843461159747178978)
+Puoi [🔗 scaricare il plugin da questo link](https://www.figma.com/community/plugin/843461159747178978).
 
 ## Cosa troverai qui dentro:
 All'interno di questa cartella è presente un file JSON che puoi utilizzare come input al'interno del plugin Figma Token.

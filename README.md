@@ -19,8 +19,9 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 07. MIGLIORAMENTO CONTINUO
 08. RICERCA DELLE EVIDENZE OGGETTIVE
 
-##### Guarda il nostro Manifesto
-🔗 https://www.inps.design/0ad3508ea/p/57b156-uxinps
+##### Esplora il nostro Manifesto
+[🔗 inps.design/manifesto](https://www.inps.design/3e7e2b0f5/p/428c41-manifesto)
+
 
 ********************************************************************************************************************************************************************************
 
@@ -34,7 +35,7 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 - 👨‍👨‍👦‍👦 Rafforzare la collaborazione interna e la standardizzazione dei flussi operativi
 
 #### Segui le mie linee guida e progetta in modo sicuro
-🔗 https://www.inps.design/0ad3508ea/p/63364c--ciao-italia
+[🔗 inps.design/sirio-design-system](https://www.inps.design/3e7e2b0f5/p/37c451-ciao-italia)
 
 ................................................................................................................................................................................
 
@@ -42,7 +43,7 @@ Fornire al cittadino tutte e solo le informazioni e i servizi di cui ha bisogno 
 I Design Token sono tutti i valori utili a costruire un sistema di progettazione. Definiti come gettoni poichè rispecchiano in maniera atomica tutti gli attributi estetici che costituiscono i componenti del Design system. Sono espressi in valori e fanno riferimento a: colori, tipografia, spaziature, animazioni e qualsiasi altro attributo di stile definito in fase di design. 
 
 #### Segui le mie linee guida e progetta in modo sicuro
-🔗 https://www.inps.design/0ad3508ea/p/324df9--design-token
+[🔗 inps.design/sirio-design-token](https://www.inps.design/3e7e2b0f5/p/778ba1-design-token/b/351021)
 
 #### 🟡 Design Token Globali
 I token globali costituiscono tutti quei valori che sono “assoluti”, non dipendenti da nessun altro valore e da cui possono essere definiti token figli. Sono i valori primitivi e da questi vengono declinati i token alias.
@@ -83,15 +84,15 @@ I token specifici del componente costituiscono i token che rappresentano proprie
 
 ## 🛠 Strumenti per Developer
 ### 1. Scaricare o clonare il repo sul proprio computer
-Puoi [scaricare questo pacchetto](🔗 https://github.com/INPS-it/sirio-design-token.git) o clonarlo tramite il terminale.
-Abbiamo trasformato i nostri token tramite la libreria [Amazon style dictionary](🔗 https://amzn.github.io/style-dictionary/#/).
+Puoi [🔗 scaricare questo pacchetto](https://github.com/INPS-it/sirio-design-token.git) o clonarlo tramite il terminale.
+Abbiamo trasformato i nostri token tramite la libreria [🔗 Amazon style dictionary](https://amzn.github.io/style-dictionary/#/).
 
 
 ## 👩‍🎨 Strumenti per Designer
 ### 1. Scaricare e installare il tool Figma (tool per la progettazione)
-Puoi [scaricare il tool da qui](🔗 https://www.figma.com/downloads/).
+Puoi [🔗 scaricare Figma da questo link](https://www.figma.com/downloads/).
 
 ### 2. Scaricare e installare il plugin Figma Token  (plugin utile per la gestione dei Design Token)
-Puoi [scaricare il plugin da qui](🔗 https://www.figma.com/community/plugin/843461159747178978)
+Puoi [🔗 scaricare il plugin da questo link](https://www.figma.com/community/plugin/843461159747178978).
 
 ********************************************************************************************************************************************************************************
