@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Mar 2023 14:55:26 GMT
+// Generated on Thu, 07 Sep 2023 13:34:37 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -38,9 +38,15 @@ ColorGlobalMidSecondary70,
 ColorGlobalLightSecondary60,
 ColorGlobalLightSecondary50,
 ColorGlobalLightSecondary40,
-ColorGlobalSemanticSuccesso100,
+ColorGlobalSemanticSuccess100,
+ColorGlobalSemanticSuccess110,
+ColorGlobalSemanticSuccess120,
+ColorGlobalSemanticSuccess130,
 ColorGlobalSemanticAlert100,
+ColorGlobalSemanticWarning110,
 ColorGlobalSemanticWarning100,
+ColorGlobalSemanticWarning90,
+ColorGlobalSemanticWarning80,
 ColorGlobalSemanticInfo100,
 ColorGlobalSemanticAlert110,
 ColorGlobalSemanticAlert120,
@@ -61,10 +67,18 @@ ColorAliasInteractiveSecondaryDefault,
 ColorAliasInteractiveSecondaryHover,
 ColorAliasInteractiveSecondaryFocus,
 ColorAliasInteractiveSecondaryPressed,
-ColorAliasInteractiveRedDefault,
-ColorAliasInteractiveRedHover,
-ColorAliasInteractiveRedFocus,
-ColorAliasInteractiveRedPressed,
+ColorAliasInteractiveAlertDefault,
+ColorAliasInteractiveAlertHover,
+ColorAliasInteractiveAlertFocus,
+ColorAliasInteractiveAlertPressed,
+ColorAliasInteractiveWarningDefault,
+ColorAliasInteractiveWarningHover,
+ColorAliasInteractiveWarningFocus,
+ColorAliasInteractiveWarningPressed,
+ColorAliasInteractiveSuccessDefault,
+ColorAliasInteractiveSuccessHover,
+ColorAliasInteractiveSuccessFocus,
+ColorAliasInteractiveSuccessPressed,
 ColorAliasTextColorDisabled,
 ColorAliasTextColorPrimary100,
 ColorAliasTextColorPrimaryLight0,

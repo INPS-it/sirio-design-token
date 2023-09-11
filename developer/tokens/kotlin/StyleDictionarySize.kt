@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Tue, 21 Mar 2023 14:55:26 GMT
+// Generated on Thu, 07 Sep 2023 13:34:37 GMT
 
 
 
@@ -38,6 +38,10 @@ object StyleDictionarySize {
   val typographyAliasH6MdSize05 = 18
   val typographyAliasLabelLgSize05 = 18
   val typographyAliasLabelLineHeight01 = 16
+  val typographyAliasLabelLineHeight03 = 21
+  val typographyAliasLabelLineHeight04 = 24
+  val typographyAliasLabelLineHeight05 = 27
+  val typographyAliasLabelLineHeight06 = 30
   val typographyAliasLabelMdSize04 = 16
   val typographyAliasLabelXlLineHeight03 = 21
   val typographyAliasLabelXlSize06 = 20

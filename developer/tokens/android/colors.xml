@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 21 Mar 2023 14:55:26 GMT
+  Generated on Thu, 07 Sep 2023 13:34:37 GMT
 -->
 <resources>
   <color name="color_global_primary_100">#ff2f6dd5</color>
@@ -33,9 +33,15 @@
   <color name="color_global_light_secondary_60">#ffaab2bb</color>
   <color name="color_global_light_secondary_50">#ffc6ccd2</color>
   <color name="color_global_light_secondary_40">#ffe3e5e8</color>
-  <color name="color_global_semantic_successo_100">#ff049894</color>
+  <color name="color_global_semantic_success_100">#ff008069</color>
+  <color name="color_global_semantic_success_110">#ff005c4b</color>
+  <color name="color_global_semantic_success_120">#ff00382e</color>
+  <color name="color_global_semantic_success_130">#ff001a15</color>
   <color name="color_global_semantic_alert_100">#ffaa224f</color>
+  <color name="color_global_semantic_warning_110">#ff9c3a16</color>
   <color name="color_global_semantic_warning_100">#ffe26334</color>
+  <color name="color_global_semantic_warning_90">#fff97c1d</color>
+  <color name="color_global_semantic_warning_80">#ffffa217</color>
   <color name="color_global_semantic_info_100">#ff2f6dd5</color>
   <color name="color_global_semantic_alert_110">#ff7f1a3b</color>
   <color name="color_global_semantic_alert_120">#ff551128</color>
@@ -56,10 +62,18 @@
   <color name="color_alias_interactive_secondary_hover">#ff2d3339</color>
   <color name="color_alias_interactive_secondary_focus">#ff454d56</color>
   <color name="color_alias_interactive_secondary_pressed">#ff0b0d0e</color>
-  <color name="color_alias_interactive_red_default">#ffaa224f</color>
-  <color name="color_alias_interactive_red_hover">#ff7f1a3b</color>
-  <color name="color_alias_interactive_red_focus">#ffaa224f</color>
-  <color name="color_alias_interactive_red_pressed">#ff3f0d1b</color>
+  <color name="color_alias_interactive_alert_default">#ffaa224f</color>
+  <color name="color_alias_interactive_alert_hover">#ff7f1a3b</color>
+  <color name="color_alias_interactive_alert_focus">#ffaa224f</color>
+  <color name="color_alias_interactive_alert_pressed">#ff3f0d1b</color>
+  <color name="color_alias_interactive_warning_default">#ffe26334</color>
+  <color name="color_alias_interactive_warning_hover">#ffffa217</color>
+  <color name="color_alias_interactive_warning_focus">#ffe26334</color>
+  <color name="color_alias_interactive_warning_pressed">#ff9c3a16</color>
+  <color name="color_alias_interactive_success_default">#ff008069</color>
+  <color name="color_alias_interactive_success_hover">#ff005c4b</color>
+  <color name="color_alias_interactive_success_focus">#ff008069</color>
+  <color name="color_alias_interactive_success_pressed">#ff001a15</color>
   <color name="color_alias_text_color_disabled">#ff5b6571</color>
   <color name="color_alias_text_color_primary_100">#ff2f6dd5</color>
   <color name="color_alias_text_color_primary_light_0">#ffffffff</color>
@@ -106,7 +120,7 @@
   <color name="color_specific_data_entry_border_color_valued">#ff454d56</color>
   <color name="color_specific_data_entry_border_color_error">#ffaa224f</color>
   <color name="color_specific_data_entry_border_color_warning">#ffe26334</color>
-  <color name="color_specific_data_entry_border_color_success">#ff049894</color>
+  <color name="color_specific_data_entry_border_color_success">#ff008069</color>
   <color name="color_specific_option_background_color_hover">#ff00368f</color>
   <color name="color_specific_option_background_color_focus">#ff2f6dd5</color>
   <color name="color_specific_option_background_color_pressed">#ff00173d</color>

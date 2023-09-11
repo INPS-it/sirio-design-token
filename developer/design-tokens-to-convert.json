@@ -142,7 +142,22 @@
                 "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
             },
             "semantic-success-100": {
-                "value": "#049894",
+                "value": "#008069",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
+            },
+            "semantic-success-110": {
+                "value": "#005C4B",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
+            },
+            "semantic-success-120": {
+                "value": "#00382E",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
+            },
+            "semantic-success-130": {
+                "value": "#001A15",
                 "type": "color",
                 "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
             },
@@ -151,8 +166,23 @@
                 "type": "color",
                 "description": "🟡 Token globale: Colore semantico che identifica uno stato di allerta/errore"
             },
+            "semantic-warning-110": {
+                "value": "#9C3A16",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
+            },
             "semantic-warning-100": {
                 "value": "#e26334",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
+            },
+            "semantic-warning-90": {
+                "value": "#F97C1D",
+                "type": "color",
+                "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
+            },
+            "semantic-warning-80": {
+                "value": "#FFA217",
                 "type": "color",
                 "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
             },
@@ -287,23 +317,63 @@
                 "type": "color",
                 "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente ha interagito"
             },
-            "interactive-red-default": {
+            "interactive-alert-default": {
                 "value": "{color.global.semantic-alert-100.value}",
                 "type": "color",
                 "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
             },
-            "interactive-red-hover": {
+            "interactive-alert-hover": {
                 "value": "{color.global.semantic-alert-110.value}",
                 "type": "color",
                 "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
             },
-            "interactive-red-focus": {
+            "interactive-alert-focus": {
                 "value": "{color.global.semantic-alert-100.value}",
                 "type": "color",
                 "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
             },
-            "interactive-red-pressed": {
+            "interactive-alert-pressed": {
                 "value": "{color.global.semantic-alert-130.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
+            },
+            "interactive-warning-default": {
+                "value": "{color.global.semantic-warning-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
+            },
+            "interactive-warning-hover": {
+                "value": "{color.global.semantic-warning-80.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
+            },
+            "interactive-warning-focus": {
+                "value": "{color.global.semantic-warning-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
+            },
+            "interactive-warning-pressed": {
+                "value": "{color.global.semantic-warning-110.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
+            },
+            "interactive-success-default": {
+                "value": "{color.global.semantic-success-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
+            },
+            "interactive-success-hover": {
+                "value": "{color.global.semantic-success-110.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
+            },
+            "interactive-success-focus": {
+                "value": "{color.global.semantic-success-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
+            },
+            "interactive-success-pressed": {
+                "value": "{color.global.semantic-success-130.value}",
                 "type": "color",
                 "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
             },
@@ -544,17 +614,17 @@
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato valorizzato"
             },
             "data-entry-border-color-error": {
-                "value": "{color.global.semantic-alert-100.value}",
+                "value": "{color.alias.interactive-alert-default.value}",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di errore"
             },
             "data-entry-border-color-warning": {
-                "value": "{color.global.semantic-warning-100.value}",
+                "value": "{color.alias.interactive-warning-default.value}",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di warning"
             },
             "data-entry-border-color-success": {
-                "value": "{color.global.semantic-successo-100.value}",
+                "value": "{color.alias.interactive-success-default.value}",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di success"
             },
@@ -1116,6 +1186,30 @@
                 "value": "{typography.global.lineHeights.02.value}",
                 "type": "lineHeights",
                 "description": "🟣 Token alias: Line Height da associare agli Label Medium (MD)"
+            },
+            "label-line-height-03": {
+                "value": "{typography.global.lineHeights.03.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Label Extra Large (XL)"
+            },
+            "label-line-height-04": {
+                "value": "{typography.global.lineHeights.04.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Label Extra Large (XL)"
+            },
+            "label-line-height-05": {
+                "value": "{typography.global.lineHeights.05.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Label Extra Large (XL)"
+            },
+            "label-line-height-06": {
+                "value": "{typography.global.lineHeights.06.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Label Extra Large (XL)"
             },
             "disclaimer-md-line-height-04": {
                 "value": "{typography.global.lineHeights.04.value}",
