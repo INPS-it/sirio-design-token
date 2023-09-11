@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 21 Mar 2023 14:55:26 GMT
+  Generated on Thu, 07 Sep 2023 13:34:37 GMT
 -->
 <resources>
   <string name="typography_global_line_heights_10">54</string>
@@ -72,6 +72,10 @@
   <string name="typography_alias_p_md_line_height_04">24</string>
   <string name="typography_alias_label_xl_line_height_03">21</string>
   <string name="typography_alias_label_line_height_01">16</string>
+  <string name="typography_alias_label_line_height_03">21</string>
+  <string name="typography_alias_label_line_height_04">24</string>
+  <string name="typography_alias_label_line_height_05">27</string>
+  <string name="typography_alias_label_line_height_06">30</string>
   <string name="typography_alias_disclaimer_md_line_height_04">24</string>
   <string name="typography_alias_link_h3_md_line_height_09">48</string>
   <string name="typography_alias_link_h4_md_line_height_07">36</string>
