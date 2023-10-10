@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Mar 2023 14:55:26 GMT
+// Generated on Tue, 10 Oct 2023 09:12:09 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -77,6 +77,10 @@ float const TypographyAliasPLgLineHeight05 = 27;
 float const TypographyAliasPMdLineHeight04 = 24;
 float const TypographyAliasLabelXlLineHeight03 = 21;
 float const TypographyAliasLabelLineHeight01 = 16;
+float const TypographyAliasLabelLineHeight03 = 21;
+float const TypographyAliasLabelLineHeight04 = 24;
+float const TypographyAliasLabelLineHeight05 = 27;
+float const TypographyAliasLabelLineHeight06 = 30;
 float const TypographyAliasDisclaimerMdLineHeight04 = 24;
 float const TypographyAliasLinkH3MdLineHeight09 = 48;
 float const TypographyAliasLinkH4MdLineHeight07 = 36;

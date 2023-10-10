@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Mar 2023 14:55:26 GMT
+// Generated on Tue, 10 Oct 2023 09:12:09 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -76,6 +76,10 @@ extern float const TypographyAliasPLgLineHeight05;
 extern float const TypographyAliasPMdLineHeight04;
 extern float const TypographyAliasLabelXlLineHeight03;
 extern float const TypographyAliasLabelLineHeight01;
+extern float const TypographyAliasLabelLineHeight03;
+extern float const TypographyAliasLabelLineHeight04;
+extern float const TypographyAliasLabelLineHeight05;
+extern float const TypographyAliasLabelLineHeight06;
 extern float const TypographyAliasDisclaimerMdLineHeight04;
 extern float const TypographyAliasLinkH3MdLineHeight09;
 extern float const TypographyAliasLinkH4MdLineHeight07;

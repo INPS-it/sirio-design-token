@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Mar 2023 14:55:26 GMT
+// Generated on Tue, 10 Oct 2023 09:12:09 GMT
 
 
 import UIKit
@@ -36,6 +36,10 @@ public enum StyleDictionarySize {
     public static let aliasH6MdSize05 = 18
     public static let aliasLabelLgSize05 = 18
     public static let aliasLabelLineHeight01 = 16
+    public static let aliasLabelLineHeight03 = 21
+    public static let aliasLabelLineHeight04 = 24
+    public static let aliasLabelLineHeight05 = 27
+    public static let aliasLabelLineHeight06 = 30
     public static let aliasLabelMdSize04 = 16
     public static let aliasLabelXlLineHeight03 = 21
     public static let aliasLabelXlSize06 = 20
