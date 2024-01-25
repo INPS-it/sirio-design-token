@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 10 Oct 2023 09:12:09 GMT
+// Generated on Thu, 25 Jan 2024 12:09:14 GMT
 
 
 import UIKit
@@ -52,8 +52,8 @@ public enum StyleDictionaryColor {
     public static let aliasInteractiveSuccessFocus = UIColor(red: 0.000, green: 0.502, blue: 0.412, alpha: 1)
     public static let aliasInteractiveSuccessHover = UIColor(red: 0.000, green: 0.361, blue: 0.294, alpha: 1)
     public static let aliasInteractiveSuccessPressed = UIColor(red: 0.000, green: 0.102, blue: 0.082, alpha: 1)
-    public static let aliasInteractiveWarningDefault = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
-    public static let aliasInteractiveWarningFocus = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
+    public static let aliasInteractiveWarningDefault = UIColor(red: 0.796, green: 0.302, blue: 0.118, alpha: 1)
+    public static let aliasInteractiveWarningFocus = UIColor(red: 0.796, green: 0.302, blue: 0.118, alpha: 1)
     public static let aliasInteractiveWarningHover = UIColor(red: 1.000, green: 0.635, blue: 0.090, alpha: 1)
     public static let aliasInteractiveWarningPressed = UIColor(red: 0.612, green: 0.227, blue: 0.086, alpha: 1)
     public static let aliasOverlay15Secondary100 = UIColor(red:0.27, green:0.30, blue:0.34, alpha:0.15)
@@ -107,26 +107,32 @@ public enum StyleDictionaryColor {
     public static let globalSemanticSuccess110 = UIColor(red: 0.000, green: 0.361, blue: 0.294, alpha: 1)
     public static let globalSemanticSuccess120 = UIColor(red: 0.000, green: 0.220, blue: 0.180, alpha: 1)
     public static let globalSemanticSuccess130 = UIColor(red: 0.000, green: 0.102, blue: 0.082, alpha: 1)
-    public static let globalSemanticWarning100 = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
+    public static let globalSemanticWarning100 = UIColor(red: 0.796, green: 0.302, blue: 0.118, alpha: 1)
     public static let globalSemanticWarning110 = UIColor(red: 0.612, green: 0.227, blue: 0.086, alpha: 1)
     public static let globalSemanticWarning80 = UIColor(red: 1.000, green: 0.635, blue: 0.090, alpha: 1)
     public static let globalSemanticWarning90 = UIColor(red: 0.976, green: 0.486, blue: 0.114, alpha: 1)
     public static let specificCardOverlayGradientImg = [UIColor(red:0.00, green:0.00, blue:0.00, alpha:0.00),UIColor(red:0.00, green:0.00, blue:0.00, alpha:1.00)]
+    public static let specificDataEntryBorderColorAlert = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
     public static let specificDataEntryBorderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
-    public static let specificDataEntryBorderColorError = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
     public static let specificDataEntryBorderColorFocus = UIColor(red: 0.184, green: 0.427, blue: 0.835, alpha: 1)
     public static let specificDataEntryBorderColorHover = UIColor(red: 0.000, green: 0.212, blue: 0.561, alpha: 1)
     public static let specificDataEntryBorderColorSuccess = UIColor(red: 0.000, green: 0.502, blue: 0.412, alpha: 1)
     public static let specificDataEntryBorderColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
-    public static let specificDataEntryBorderColorWarning = UIColor(red: 0.886, green: 0.388, blue: 0.204, alpha: 1)
+    public static let specificDataEntryBorderColorWarning = UIColor(red: 0.796, green: 0.302, blue: 0.118, alpha: 1)
+    public static let specificDataEntryLabelColorAlert = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
     public static let specificDataEntryLabelColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let specificDataEntryLabelColorFocus = UIColor(red: 0.184, green: 0.427, blue: 0.835, alpha: 1)
     public static let specificDataEntryLabelColorHover = UIColor(red: 0.000, green: 0.212, blue: 0.561, alpha: 1)
+    public static let specificDataEntryLabelColorSuccess = UIColor(red: 0.000, green: 0.502, blue: 0.412, alpha: 1)
     public static let specificDataEntryLabelColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificDataEntryLabelColorWarning = UIColor(red: 0.796, green: 0.302, blue: 0.118, alpha: 1)
+    public static let specificDataEntryPlaceholderColorAlert = UIColor(red: 0.667, green: 0.133, blue: 0.310, alpha: 1)
     public static let specificDataEntryPlaceholderColorDefault = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
     public static let specificDataEntryPlaceholderColorFocus = UIColor(red: 0.184, green: 0.427, blue: 0.835, alpha: 1)
     public static let specificDataEntryPlaceholderColorHover = UIColor(red: 0.000, green: 0.212, blue: 0.561, alpha: 1)
+    public static let specificDataEntryPlaceholderColorSuccess = UIColor(red: 0.000, green: 0.502, blue: 0.412, alpha: 1)
     public static let specificDataEntryPlaceholderColorValued = UIColor(red: 0.271, green: 0.302, blue: 0.337, alpha: 1)
+    public static let specificDataEntryPlaceholderColorWarning = UIColor(red: 0.796, green: 0.302, blue: 0.118, alpha: 1)
     public static let specificOptionBackgroundColorFocus = UIColor(red: 0.184, green: 0.427, blue: 0.835, alpha: 1)
     public static let specificOptionBackgroundColorHover = UIColor(red: 0.000, green: 0.212, blue: 0.561, alpha: 1)
     public static let specificOptionBackgroundColorPressed = UIColor(red: 0.000, green: 0.090, blue: 0.239, alpha: 1)

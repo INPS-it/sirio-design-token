@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Tue, 10 Oct 2023 09:12:09 GMT
+// Generated on Thu, 25 Jan 2024 12:09:14 GMT
 
 
 
@@ -54,8 +54,8 @@ object StyleDictionaryColor {
   val colorAliasInteractiveSuccessFocus = Color(0xff008069)
   val colorAliasInteractiveSuccessHover = Color(0xff005c4b)
   val colorAliasInteractiveSuccessPressed = Color(0xff001a15)
-  val colorAliasInteractiveWarningDefault = Color(0xffe26334)
-  val colorAliasInteractiveWarningFocus = Color(0xffe26334)
+  val colorAliasInteractiveWarningDefault = Color(0xffcb4d1e)
+  val colorAliasInteractiveWarningFocus = Color(0xffcb4d1e)
   val colorAliasInteractiveWarningHover = Color(0xffffa217)
   val colorAliasInteractiveWarningPressed = Color(0xff9c3a16)
   val colorAliasOverlay15Secondary100 = Color(0x26454D56)
@@ -109,26 +109,32 @@ object StyleDictionaryColor {
   val colorGlobalSemanticSuccess110 = Color(0xff005c4b)
   val colorGlobalSemanticSuccess120 = Color(0xff00382e)
   val colorGlobalSemanticSuccess130 = Color(0xff001a15)
-  val colorGlobalSemanticWarning100 = Color(0xffe26334)
+  val colorGlobalSemanticWarning100 = Color(0xffcb4d1e)
   val colorGlobalSemanticWarning110 = Color(0xff9c3a16)
   val colorGlobalSemanticWarning80 = Color(0xffffa217)
   val colorGlobalSemanticWarning90 = Color(0xfff97c1d)
   val colorSpecificCardOverlayGradientImg = listOf(Color(0x00000000), Color(0xFF000000))
+  val colorSpecificDataEntryBorderColorAlert = Color(0xffaa224f)
   val colorSpecificDataEntryBorderColorDefault = Color(0xff454d56)
-  val colorSpecificDataEntryBorderColorError = Color(0xffaa224f)
   val colorSpecificDataEntryBorderColorFocus = Color(0xff2f6dd5)
   val colorSpecificDataEntryBorderColorHover = Color(0xff00368f)
   val colorSpecificDataEntryBorderColorSuccess = Color(0xff008069)
   val colorSpecificDataEntryBorderColorValued = Color(0xff454d56)
-  val colorSpecificDataEntryBorderColorWarning = Color(0xffe26334)
+  val colorSpecificDataEntryBorderColorWarning = Color(0xffcb4d1e)
+  val colorSpecificDataEntryLabelColorAlert = Color(0xffaa224f)
   val colorSpecificDataEntryLabelColorDefault = Color(0xff454d56)
   val colorSpecificDataEntryLabelColorFocus = Color(0xff2f6dd5)
   val colorSpecificDataEntryLabelColorHover = Color(0xff00368f)
+  val colorSpecificDataEntryLabelColorSuccess = Color(0xff008069)
   val colorSpecificDataEntryLabelColorValued = Color(0xff454d56)
+  val colorSpecificDataEntryLabelColorWarning = Color(0xffcb4d1e)
+  val colorSpecificDataEntryPlaceholderColorAlert = Color(0xffaa224f)
   val colorSpecificDataEntryPlaceholderColorDefault = Color(0xff454d56)
   val colorSpecificDataEntryPlaceholderColorFocus = Color(0xff2f6dd5)
   val colorSpecificDataEntryPlaceholderColorHover = Color(0xff00368f)
+  val colorSpecificDataEntryPlaceholderColorSuccess = Color(0xff008069)
   val colorSpecificDataEntryPlaceholderColorValued = Color(0xff454d56)
+  val colorSpecificDataEntryPlaceholderColorWarning = Color(0xffcb4d1e)
   val colorSpecificOptionBackgroundColorFocus = Color(0xff2f6dd5)
   val colorSpecificOptionBackgroundColorHover = Color(0xff00368f)
   val colorSpecificOptionBackgroundColorPressed = Color(0xff00173d)

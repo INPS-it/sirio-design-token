@@ -172,7 +172,7 @@
                 "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
             },
             "semantic-warning-100": {
-                "value": "#e26334",
+                "value": "#CB4D1E",
                 "type": "color",
                 "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
             },
@@ -573,6 +573,21 @@
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato valued"
             },
+            "data-entry-label-color-alert": {
+                "value": "{color.global.semantic-alert-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di errore"
+            },
+            "data-entry-label-color-warning": {
+                "value": "{color.global.semantic-warning-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di warning"
+            },
+            "data-entry-label-color-success": {
+                "value": "{color.global.semantic-success-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di successo"
+            },
             "data-entry-placeholder-color-default": {
                 "value": "{color.alias.interactive-secondary-default.value}",
                 "type": "color",
@@ -613,7 +628,7 @@
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato valorizzato"
             },
-            "data-entry-border-color-error": {
+            "data-entry-border-color-alert": {
                 "value": "{color.alias.interactive-alert-default.value}",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di errore"
@@ -627,6 +642,21 @@
                 "value": "{color.alias.interactive-success-default.value}",
                 "type": "color",
                 "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di success"
+            },
+            "data-entry-placeholder-color-warning": {
+                "value": "{color.global.semantic-warning-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di warning"
+            },
+            "data-entry-placeholder-color-alert": {
+                "value": "{color.global.semantic-alert-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di errore"
+            },
+            "data-entry-placeholder-color-success": {
+                "value": "{color.global.semantic-success-100.value}",
+                "type": "color",
+                "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di successo"
             },
             "option-background-color-hover": {
                 "value": "{color.alias.interactive-primary-hover.value}",
