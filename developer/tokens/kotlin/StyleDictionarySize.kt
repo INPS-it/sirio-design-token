@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Thu, 25 Jan 2024 12:09:14 GMT
+// Generated on Tue, 17 Sep 2024 13:42:01 GMT
 
 
 
@@ -13,7 +13,7 @@ import androidx.compose.ui.unit.*
 
 object StyleDictionarySize {
   val typographyAliasDisclaimerMdLineHeight04 = 24
-  val typographyAliasDisclaimerMdSize04 = 16
+  val typographyAliasDisclaimerMdSize04 = 14
   val typographyAliasH1LgLineHeight14 = 78
   val typographyAliasH1LgSize14 = 52
   val typographyAliasH1MdLineHeight13 = 72

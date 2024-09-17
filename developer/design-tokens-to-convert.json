@@ -1093,7 +1093,7 @@
                 "description": "🟣 Token alias: Font size da associare alle Label Extra Small (XS) presenti nei dispositivi mobile"
             },
             "disclaimer-md-size-04": {
-                "value": "{typography.global.fontSize.04.value}",
+                "value": "{typography.global.fontSize.03.value}",
                 "type": "fontSizes",
                 "category": "size",
                 "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
