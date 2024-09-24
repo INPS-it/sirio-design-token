@@ -4,14 +4,14 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 17 Sep 2024 13:42:01 GMT
+// Generated on Tue, 24 Sep 2024 08:27:13 GMT
 
 
 import UIKit
 
 public enum StyleDictionarySize {
+    public static let aliasDisclaimerMdLineHeight03 = 21
     public static let aliasDisclaimerMdLineHeight04 = 24
-    public static let aliasDisclaimerMdSize04 = 14
     public static let aliasH1LgLineHeight14 = 78
     public static let aliasH1LgSize14 = 52
     public static let aliasH1MdLineHeight13 = 72

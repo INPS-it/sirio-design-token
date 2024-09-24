@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 17 Sep 2024 13:42:01 GMT
+// Generated on Tue, 24 Sep 2024 08:27:13 GMT
 
 
 #import "StyleDictionarySize.h"
@@ -57,7 +57,6 @@ float const TypographyAliasLabelXlSize06 = 20;
 float const TypographyAliasLabelLgSize05 = 18;
 float const TypographyAliasLabelMdSize04 = 16;
 float const TypographyAliasLabelXsSize02 = 12;
-float const TypographyAliasDisclaimerMdSize04 = 14;
 float const TypographyAliasLinkH3MdSize09 = 32;
 float const TypographyAliasLinkH4MdSize07 = 24;
 float const TypographyAliasLinkPLgSize05 = 18;
@@ -82,6 +81,7 @@ float const TypographyAliasLabelLineHeight04 = 24;
 float const TypographyAliasLabelLineHeight05 = 27;
 float const TypographyAliasLabelLineHeight06 = 30;
 float const TypographyAliasDisclaimerMdLineHeight04 = 24;
+float const TypographyAliasDisclaimerMdLineHeight03 = 21;
 float const TypographyAliasLinkH3MdLineHeight09 = 48;
 float const TypographyAliasLinkH4MdLineHeight07 = 36;
 float const TypographyAliasLinkPLgLineHeight05 = 27;

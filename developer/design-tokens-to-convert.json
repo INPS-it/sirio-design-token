@@ -1092,10 +1092,14 @@
                 "category": "size",
                 "description": "🟣 Token alias: Font size da associare alle Label Extra Small (XS) presenti nei dispositivi mobile"
             },
-            "disclaimer-md-size-04": {
+            "disclaimer-md-size-03": {
                 "value": "{typography.global.fontSize.03.value}",
                 "type": "fontSizes",
-                "category": "size",
+                "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
+            },
+            "disclaimer-md-size-04": {
+                "value": "{typography.global.fontSize.04.value}",
+                "type": "fontSizes",
                 "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
             },
             "link-h3-md-size-09": {
@@ -1243,6 +1247,12 @@
             },
             "disclaimer-md-line-height-04": {
                 "value": "{typography.global.lineHeights.04.value}",
+                "type": "lineHeights",
+                "category": "size",
+                "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
+            },
+            "disclaimer-md-line-height-03": {
+                "value": "{typography.global.lineHeights.03.value}",
                 "type": "lineHeights",
                 "category": "size",
                 "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"

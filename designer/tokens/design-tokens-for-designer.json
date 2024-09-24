@@ -979,8 +979,13 @@
                 "type": "fontSizes",
                 "description": "🟣 Token alias: Font size da associare alle Label Extra Small (XS) presenti nei dispositivi mobile"
             },
-            "disclaimer-md-size-04": {
+            "disclaimer-md-size-03": {
                 "value": "{typography.global.fontSize.03}",
+                "type": "fontSizes",
+                "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
+            },
+            "disclaimer-md-size-04": {
+                "value": "{typography.global.fontSize.04}",
                 "type": "fontSizes",
                 "description": "🟣 Token alias: Font size da associare agli Disclaimer Medium (MD) presenti in pagina"
             },
@@ -1111,6 +1116,11 @@
             },
             "disclaimer-md-line-height-04": {
                 "value": "{typography.global.lineHeights.04}",
+                "type": "lineHeights",
+                "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
+            },
+            "disclaimer-md-line-height-03": {
+                "value": "{typography.global.lineHeights.03}",
                 "type": "lineHeights",
                 "description": "🟣 Token alias: Line Height da associare agli Disclaimer Medium (MD)"
             },
@@ -1614,8 +1624,8 @@
                 "value": {
                     "fontFamily": "{typography.alias.font-family-text-01}",
                     "fontWeight": "{typography.alias.disclaimer-font-weight-400}",
-                    "lineHeight": "{typography.alias.disclaimer-md-line-height-04}",
-                    "fontSize": "{typography.alias.disclaimer-md-size-04}",
+                    "lineHeight": "{typography.alias.disclaimer-md-line-height-03}",
+                    "fontSize": "{typography.alias.disclaimer-md-size-03}",
                     "letterSpacing": "letterSpacing.0",
                     "paragraphSpacing": "paragraphSpacing.0",
                     "textCase": "textCase.none",

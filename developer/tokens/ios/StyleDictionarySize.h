@@ -3,7 +3,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 17 Sep 2024 13:42:01 GMT
+// Generated on Tue, 24 Sep 2024 08:27:13 GMT
 
 
 #import <Foundation/Foundation.h>
@@ -56,7 +56,6 @@ extern float const TypographyAliasLabelXlSize06;
 extern float const TypographyAliasLabelLgSize05;
 extern float const TypographyAliasLabelMdSize04;
 extern float const TypographyAliasLabelXsSize02;
-extern float const TypographyAliasDisclaimerMdSize04;
 extern float const TypographyAliasLinkH3MdSize09;
 extern float const TypographyAliasLinkH4MdSize07;
 extern float const TypographyAliasLinkPLgSize05;
@@ -81,6 +80,7 @@ extern float const TypographyAliasLabelLineHeight04;
 extern float const TypographyAliasLabelLineHeight05;
 extern float const TypographyAliasLabelLineHeight06;
 extern float const TypographyAliasDisclaimerMdLineHeight04;
+extern float const TypographyAliasDisclaimerMdLineHeight03;
 extern float const TypographyAliasLinkH3MdLineHeight09;
 extern float const TypographyAliasLinkH4MdLineHeight07;
 extern float const TypographyAliasLinkPLgLineHeight05;

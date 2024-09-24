@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 17 Sep 2024 13:42:01 GMT
+  Generated on Tue, 24 Sep 2024 08:27:13 GMT
 -->
 <resources>
   <string name="typography_global_line_heights_10">54</string>
@@ -52,7 +52,6 @@
   <string name="typography_alias_label_lg_size_05">18</string>
   <string name="typography_alias_label_md_size_04">16</string>
   <string name="typography_alias_label_xs_size_02">12</string>
-  <string name="typography_alias_disclaimer_md_size_04">14</string>
   <string name="typography_alias_link_h3_md_size_09">32</string>
   <string name="typography_alias_link_h4_md_size_07">24</string>
   <string name="typography_alias_link_p_lg_size_05">18</string>
@@ -77,6 +76,7 @@
   <string name="typography_alias_label_line_height_05">27</string>
   <string name="typography_alias_label_line_height_06">30</string>
   <string name="typography_alias_disclaimer_md_line_height_04">24</string>
+  <string name="typography_alias_disclaimer_md_line_height_03">21</string>
   <string name="typography_alias_link_h3_md_line_height_09">48</string>
   <string name="typography_alias_link_h4_md_line_height_07">36</string>
   <string name="typography_alias_link_p_lg_line_height_05">27</string>
