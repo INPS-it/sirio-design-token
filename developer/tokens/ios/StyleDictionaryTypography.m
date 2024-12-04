@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 14 Nov 2024 15:03:20 GMT
+// Generated on Wed, 04 Dec 2024 14:52:39 GMT
 
 
 #import "StyleDictionaryTypography.h"
