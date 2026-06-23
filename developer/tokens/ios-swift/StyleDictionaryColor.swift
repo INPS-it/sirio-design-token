@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 24 Sep 2024 08:27:13 GMT
+// Generated on Tue, 23 Jun 2026 08:55:23 GMT
 
 
 import UIKit
@@ -25,8 +25,10 @@ public enum StyleDictionaryColor {
     public static let aliasBackgroundColorSecondaryDark120 = UIColor(red: 0.090, green: 0.098, blue: 0.110, alpha: 1)
     public static let aliasBackgroundColorSecondaryDark125 = UIColor(red: 0.043, green: 0.051, blue: 0.055, alpha: 1)
     public static let aliasBackgroundColorSecondaryDark130 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let aliasBackgroundColorSecondaryLight35 = UIColor(red: 0.945, green: 0.949, blue: 0.957, alpha: 1)
     public static let aliasBackgroundColorSecondaryLight40 = UIColor(red: 0.890, green: 0.898, blue: 0.910, alpha: 1)
     public static let aliasBackgroundColorSecondaryLight50 = UIColor(red: 0.776, green: 0.800, blue: 0.824, alpha: 1)
+    public static let aliasBackgroundColorSecondaryMid100 = UIColor(red: 0.267, green: 0.298, blue: 0.333, alpha: 1)
     public static let aliasBackgroundColorSecondaryMid90 = UIColor(red: 0.357, green: 0.396, blue: 0.443, alpha: 1)
     public static let aliasGradientAccentPrimary = [UIColor(red:0.18, green:0.43, blue:0.84, alpha:1.00),UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
     public static let aliasGradientAccentPrimaryDark = [UIColor(red:0.00, green:0.14, blue:0.38, alpha:1.00),UIColor(red:0.18, green:0.43, blue:0.84, alpha:1.00), UIColor(red:0.09, green:0.81, blue:0.91, alpha:1.00)]
@@ -85,12 +87,14 @@ public enum StyleDictionaryColor {
     public static let globalLightPrimary40 = UIColor(red: 0.949, green: 0.965, blue: 0.988, alpha: 1)
     public static let globalLightPrimary50 = UIColor(red: 0.851, green: 0.894, blue: 0.969, alpha: 1)
     public static let globalLightPrimary60 = UIColor(red: 0.682, green: 0.776, blue: 0.937, alpha: 1)
+    public static let globalLightSecondary35 = UIColor(red: 0.945, green: 0.949, blue: 0.957, alpha: 1)
     public static let globalLightSecondary40 = UIColor(red: 0.890, green: 0.898, blue: 0.910, alpha: 1)
     public static let globalLightSecondary50 = UIColor(red: 0.776, green: 0.800, blue: 0.824, alpha: 1)
     public static let globalLightSecondary60 = UIColor(red: 0.667, green: 0.698, blue: 0.733, alpha: 1)
     public static let globalMidPrimary70 = UIColor(red: 0.518, green: 0.663, blue: 0.902, alpha: 1)
     public static let globalMidPrimary80 = UIColor(red: 0.349, green: 0.545, blue: 0.871, alpha: 1)
     public static let globalMidPrimary90 = UIColor(red: 0.137, green: 0.341, blue: 0.682, alpha: 1)
+    public static let globalMidSecondary100 = UIColor(red: 0.267, green: 0.298, blue: 0.333, alpha: 1)
     public static let globalMidSecondary70 = UIColor(red: 0.557, green: 0.596, blue: 0.643, alpha: 1)
     public static let globalMidSecondary80 = UIColor(red: 0.447, green: 0.498, blue: 0.553, alpha: 1)
     public static let globalMidSecondary90 = UIColor(red: 0.357, green: 0.396, blue: 0.443, alpha: 1)
