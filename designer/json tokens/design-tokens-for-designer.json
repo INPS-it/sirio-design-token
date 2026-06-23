@@ -111,6 +111,11 @@
                 "type": "color",
                 "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
             },
+            "mid-secondary-100": {
+                "value": "#444C55",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
+            },
             "mid-secondary-90": {
                 "value": "#5b6571",
                 "type": "color",
@@ -138,6 +143,11 @@
             },
             "light-secondary-40": {
                 "value": "#e3e5e8",
+                "type": "color",
+                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
+            },
+            "light-secondary-35": {
+                "value": "#F1F2F4",
                 "type": "color",
                 "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
             },
@@ -428,6 +438,11 @@
                 "type": "color",
                 "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
             },
+            "background-color-secondary-light-35": {
+                "value": "{color.global.light-secondary-35}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
             "background-color-secondary-light-40": {
                 "value": "{color.global.light-secondary-40}",
                 "type": "color",
@@ -435,6 +450,11 @@
             },
             "background-color-secondary-light-50": {
                 "value": "{color.global.light-secondary-50}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+            },
+            "background-color-secondary-mid-100": {
+                "value": "{color.global.mid-secondary-100}",
                 "type": "color",
                 "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
             },

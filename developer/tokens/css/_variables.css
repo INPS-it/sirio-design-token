@@ -21,12 +21,14 @@
   --color-global-dark-secondary-125: #0b0d0e;
   --color-global-dark-secondary-120: #17191c;
   --color-global-dark-secondary-110: #2d3339;
+  --color-global-mid-secondary-100: #444c55;
   --color-global-mid-secondary-90: #5b6571;
   --color-global-mid-secondary-80: #727f8d;
   --color-global-mid-secondary-70: #8e98a4;
   --color-global-light-secondary-60: #aab2bb;
   --color-global-light-secondary-50: #c6ccd2;
   --color-global-light-secondary-40: #e3e5e8;
+  --color-global-light-secondary-35: #f1f2f4;
   --color-global-semantic-success-100: #008069;
   --color-global-semantic-success-110: #005c4b;
   --color-global-semantic-success-120: #00382e;
@@ -84,8 +86,10 @@
   --color-alias-background-color-primary-dark-110: #00368f;
   --color-alias-background-color-primary-dark-115: #002460;
   --color-alias-background-color-primary-dark-120: #00173d;
+  --color-alias-background-color-secondary-light-35: #f1f2f4;
   --color-alias-background-color-secondary-light-40: #e3e5e8;
   --color-alias-background-color-secondary-light-50: #c6ccd2;
+  --color-alias-background-color-secondary-mid-100: #444c55;
   --color-alias-background-color-secondary-mid-90: #5b6571;
   --color-alias-background-color-secondary-dark-110: #2d3339;
   --color-alias-background-color-secondary-dark-120: #17191c;

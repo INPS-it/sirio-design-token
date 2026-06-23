@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 04 Dec 2024 14:52:10 GMT
+// Generated on Tue, 23 Jun 2026 08:55:23 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -32,12 +32,14 @@ ColorGlobalDarkSecondary130,
 ColorGlobalDarkSecondary125,
 ColorGlobalDarkSecondary120,
 ColorGlobalDarkSecondary110,
+ColorGlobalMidSecondary100,
 ColorGlobalMidSecondary90,
 ColorGlobalMidSecondary80,
 ColorGlobalMidSecondary70,
 ColorGlobalLightSecondary60,
 ColorGlobalLightSecondary50,
 ColorGlobalLightSecondary40,
+ColorGlobalLightSecondary35,
 ColorGlobalSemanticSuccess100,
 ColorGlobalSemanticSuccess110,
 ColorGlobalSemanticSuccess120,
@@ -95,8 +97,10 @@ ColorAliasBackgroundColorPrimaryLight0,
 ColorAliasBackgroundColorPrimaryDark110,
 ColorAliasBackgroundColorPrimaryDark115,
 ColorAliasBackgroundColorPrimaryDark120,
+ColorAliasBackgroundColorSecondaryLight35,
 ColorAliasBackgroundColorSecondaryLight40,
 ColorAliasBackgroundColorSecondaryLight50,
+ColorAliasBackgroundColorSecondaryMid100,
 ColorAliasBackgroundColorSecondaryMid90,
 ColorAliasBackgroundColorSecondaryDark110,
 ColorAliasBackgroundColorSecondaryDark120,

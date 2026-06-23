@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Wed, 04 Dec 2024 14:52:10 GMT
+// Generated on Tue, 23 Jun 2026 08:55:23 GMT
 
 
 
@@ -27,8 +27,10 @@ object StyleDictionaryColor {
   val colorAliasBackgroundColorSecondaryDark120 = Color(0xff17191c)
   val colorAliasBackgroundColorSecondaryDark125 = Color(0xff0b0d0e)
   val colorAliasBackgroundColorSecondaryDark130 = Color(0xff000000)
+  val colorAliasBackgroundColorSecondaryLight35 = Color(0xfff1f2f4)
   val colorAliasBackgroundColorSecondaryLight40 = Color(0xffe3e5e8)
   val colorAliasBackgroundColorSecondaryLight50 = Color(0xffc6ccd2)
+  val colorAliasBackgroundColorSecondaryMid100 = Color(0xff444c55)
   val colorAliasBackgroundColorSecondaryMid90 = Color(0xff5b6571)
   val colorAliasGradientAccentPrimary = listOf(Color(0xFF2F6DD5), Color(0xFF18CEE7))
   val colorAliasGradientAccentPrimaryDark = listOf(Color(0xFF002460), Color(0xFF2F6DD5), Color(0xFF18CEE7))
@@ -87,12 +89,14 @@ object StyleDictionaryColor {
   val colorGlobalLightPrimary40 = Color(0xfff2f6fc)
   val colorGlobalLightPrimary50 = Color(0xffd9e4f7)
   val colorGlobalLightPrimary60 = Color(0xffaec6ef)
+  val colorGlobalLightSecondary35 = Color(0xfff1f2f4)
   val colorGlobalLightSecondary40 = Color(0xffe3e5e8)
   val colorGlobalLightSecondary50 = Color(0xffc6ccd2)
   val colorGlobalLightSecondary60 = Color(0xffaab2bb)
   val colorGlobalMidPrimary70 = Color(0xff84a9e6)
   val colorGlobalMidPrimary80 = Color(0xff598bde)
   val colorGlobalMidPrimary90 = Color(0xff2357ae)
+  val colorGlobalMidSecondary100 = Color(0xff444c55)
   val colorGlobalMidSecondary70 = Color(0xff8e98a4)
   val colorGlobalMidSecondary80 = Color(0xff727f8d)
   val colorGlobalMidSecondary90 = Color(0xff5b6571)
