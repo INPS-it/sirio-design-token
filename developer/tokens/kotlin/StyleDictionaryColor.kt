@@ -1,7 +1,7 @@
 
 
 // Do not edit directly
-// Generated on Tue, 23 Jun 2026 08:55:23 GMT
+// Generated on Tue, 23 Jun 2026 10:07:48 GMT
 
 
 
@@ -15,7 +15,9 @@ object StyleDictionaryColor {
   val colorAliasAppInteractivePrimary000Default = Color(0xffffffff)
   val colorAliasAppInteractivePrimaryActive = Color(0xff2f6dd5)
   val colorAliasAppInteractiveSecondaryDefault = Color(0xff5b6772)
+  val colorAliasBackgroundColorAlert = Color(0xffaa224f)
   val colorAliasBackgroundColorDisabled = Color(0xffe3e5e8)
+  val colorAliasBackgroundColorInfo = Color(0xff2f6dd5)
   val colorAliasBackgroundColorPrimaryDark110 = Color(0xff00368f)
   val colorAliasBackgroundColorPrimaryDark115 = Color(0xff002460)
   val colorAliasBackgroundColorPrimaryDark120 = Color(0xff00173d)
@@ -32,6 +34,8 @@ object StyleDictionaryColor {
   val colorAliasBackgroundColorSecondaryLight50 = Color(0xffc6ccd2)
   val colorAliasBackgroundColorSecondaryMid100 = Color(0xff444c55)
   val colorAliasBackgroundColorSecondaryMid90 = Color(0xff5b6571)
+  val colorAliasBackgroundColorSuccess = Color(0xff008069)
+  val colorAliasBackgroundColorWarning = Color(0xffcb4d1e)
   val colorAliasGradientAccentPrimary = listOf(Color(0xFF2F6DD5), Color(0xFF18CEE7))
   val colorAliasGradientAccentPrimaryDark = listOf(Color(0xFF002460), Color(0xFF2F6DD5), Color(0xFF18CEE7))
   val colorAliasInteractiveAccentDefault = Color(0xff18cee7)
@@ -63,7 +67,9 @@ object StyleDictionaryColor {
   val colorAliasOverlay15Secondary100 = Color(0x26454D56)
   val colorAliasOverlay25Primary000 = Color(0x40FFFFFF)
   val colorAliasOverlay90DarkPrimary120 = Color(0xE600173D)
+  val colorAliasTextColorAlert = Color(0xffaa224f)
   val colorAliasTextColorDisabled = Color(0xff5b6571)
+  val colorAliasTextColorInfo = Color(0xff2f6dd5)
   val colorAliasTextColorPrimary100 = Color(0xff2f6dd5)
   val colorAliasTextColorPrimaryDark110 = Color(0xff00368f)
   val colorAliasTextColorPrimaryLight0 = Color(0xffffffff)
@@ -71,6 +77,8 @@ object StyleDictionaryColor {
   val colorAliasTextColorPrimaryLight50 = Color(0xffd9e4f7)
   val colorAliasTextColorSecondaryDark100 = Color(0xff454d56)
   val colorAliasTextColorSecondaryDark130 = Color(0xff000000)
+  val colorAliasTextColorSuccess = Color(0xff008069)
+  val colorAliasTextColorWarning = Color(0xffcb4d1e)
   val colorGlobalAccent100 = Color(0xff18cee7)
   val colorGlobalAccent110 = Color(0xff13a5b9)
   val colorGlobalAccent120 = Color(0xff0f7d8a)

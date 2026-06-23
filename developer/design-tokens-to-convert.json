@@ -570,7 +570,47 @@
                 "value": "{color.global.primary-000.value}",
                 "type": "color",
                 "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
-            }
+            },
+            "text-color-alert": {
+                "value": "{color.global.semantic-alert-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore del testo per stati di alert o errore"
+              },
+              "text-color-info": {
+                "value": "{color.global.semantic-info-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore del testo per messaggi informativi"
+              },
+              "text-color-warning": {
+                "value": "{color.global.semantic-warning-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore del testo per stati di attenzione o warning"
+              },
+              "text-color-success": {
+                "value": "{color.global.semantic-success-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore del testo per stati di successo"
+              },
+              "background-color-alert": {
+                "value": "{color.global.semantic-alert-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore di background per stati di alert o errore"
+              },
+              "background-color-info": {
+                "value": "{color.global.semantic-info-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore di background per messaggi informativi"
+              },
+              "background-color-warning": {
+                "value": "{color.global.semantic-warning-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore di background per stati di attenzione o warning"
+              },
+              "background-color-success": {
+                "value": "{color.global.semantic-success-100.value}",
+                "type": "color",
+                "description": "🟣 Token alias: Colore di background per stati di successo"
+              }
         },
         "specific": {
             "data-entry-label-color-default": {

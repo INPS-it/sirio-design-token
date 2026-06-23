@@ -104,6 +104,14 @@
   --color-alias-app-interactive-secondary-default: #5b6772;
   --color-alias-app-interactive-primary-active: #2f6dd5;
   --color-alias-app-interactive-primary-000-default: #ffffff;
+  --color-alias-text-color-alert: #aa224f;
+  --color-alias-text-color-info: #2f6dd5;
+  --color-alias-text-color-warning: #cb4d1e;
+  --color-alias-text-color-success: #008069;
+  --color-alias-background-color-alert: #aa224f;
+  --color-alias-background-color-info: #2f6dd5;
+  --color-alias-background-color-warning: #cb4d1e;
+  --color-alias-background-color-success: #008069;
   --color-specific-data-entry-label-color-default: #454d56;
   --color-specific-data-entry-label-color-hover: #00368f;
   --color-specific-data-entry-label-color-focus: #2f6dd5;

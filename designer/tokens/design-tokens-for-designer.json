@@ -1,724 +1,764 @@
 {
-    "color": {
-        "global": {
-            "primary-100": {
-                "value": "#2F6DD5",
-                "type": "color",
-                "description": "🟡 Token globale: Colore primario rappresenta, a livello cromatico, l’identità dell’istituto"
-            },
-            "primary-000": {
-                "value": "#ffffff",
-                "type": "color",
-                "description": "🟡 Token globale: Colore primario bianco"
-            },
-            "secondary-100": {
-                "value": "#454d56",
-                "type": "color",
-                "description": "🟡 Token globale: Colore secondario grigio principale"
-            },
-            "secondary-90": {
-                "value": "#5b6772",
-                "type": "color",
-                "description": "🟡 Token globale: Colore secondario grigio declinato dal principale"
-            },
-            "accent-100": {
-                "value": "#18cee7",
-                "type": "color",
-                "description": "🟡 Token globale: Colore di accento"
-            },
-            "accent-70": {
-                "value": "#8ce7f3",
-                "type": "color",
-                "description": "🟡 Token globale: Colore di accento declinato dal principale"
-            },
-            "accent-110": {
-                "value": "#13a5b9",
-                "type": "color",
-                "description": "🟡 Token globale: Colore di accento declinato dal principale"
-            },
-            "accent-120": {
-                "value": "#0f7d8a",
-                "type": "color",
-                "description": "🟡 Token globale: Colore di accento declinato dal principale"
-            },
-            "dark-primary-110": {
-                "value": "#00368F",
-                "type": "color",
-                "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
-            },
-            "dark-primary-115": {
-                "value": "#002460",
-                "type": "color",
-                "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
-            },
-            "dark-primary-120": {
-                "value": "#00173D",
-                "type": "color",
-                "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
-            },
-            "dark-primary-130": {
-                "value": "#000814",
-                "type": "color",
-                "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
-            },
-            "mid-primary-70": {
-                "value": "#84A9E6",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
-            },
-            "mid-primary-80": {
-                "value": "#598BDE",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
-            },
-            "mid-primary-90": {
-                "value": "#2357AE",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
-            },
-            "light-primary-40": {
-                "value": "#F2F6FC",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
-            },
-            "light-primary-50": {
-                "value": "#D9E4F7",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
-            },
-            "light-primary-60": {
-                "value": "#AEC6EF",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
-            },
-            "dark-secondary-130": {
-                "value": "#000000",
-                "type": "color",
-                "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
-            },
-            "dark-secondary-125": {
-                "value": "#0b0d0e",
-                "type": "color",
-                "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
-            },
-            "dark-secondary-120": {
-                "value": "#17191c",
-                "type": "color",
-                "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
-            },
-            "dark-secondary-110": {
-                "value": "#2d3339",
-                "type": "color",
-                "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
-            },
-            "mid-secondary-100": {
-                "value": "#444C55",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
-            },
-            "mid-secondary-90": {
-                "value": "#5b6571",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
-            },
-            "mid-secondary-80": {
-                "value": "#727f8d",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
-            },
-            "mid-secondary-70": {
-                "value": "#8e98a4",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
-            },
-            "light-secondary-60": {
-                "value": "#aab2bb",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
-            },
-            "light-secondary-50": {
-                "value": "#c6ccd2",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
-            },
-            "light-secondary-40": {
-                "value": "#e3e5e8",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
-            },
-            "light-secondary-35": {
-                "value": "#F1F2F4",
-                "type": "color",
-                "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
-            },
-            "semantic-success-100": {
-                "value": "#008069",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
-            },
-            "semantic-success-110": {
-                "value": "#005C4B",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
-            },
-            "semantic-success-120": {
-                "value": "#00382E",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
-            },
-            "semantic-success-130": {
-                "value": "#001A15",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
-            },
-            "semantic-alert-100": {
-                "value": "#aa224f",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica uno stato di allerta/errore"
-            },
-            "semantic-warning-110": {
-                "value": "#9C3A16",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
-            },
-            "semantic-warning-100": {
-                "value": "#CB4D1E",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
-            },
-            "semantic-warning-90": {
-                "value": "#F97C1D",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
-            },
-            "semantic-warning-80": {
-                "value": "#FFA217",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
-            },
-            "semantic-info-100": {
-                "value": "#2F6DD5",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
-            },
-            "semantic-alert-110": {
-                "value": "#7f1a3b",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
-            },
-            "semantic-alert-120": {
-                "value": "#551128",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
-            },
-            "semantic-alert-130": {
-                "value": "#3f0d1b",
-                "type": "color",
-                "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
-            },
-            "gradient-01": {
-                "value": "linear-gradient(90deg, #2F6DD5 0%, #18cee7 100%)",
-                "type": "color",
-                "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario"
-            },
-            "gradient-02": {
-                "value": "linear-gradient(-90deg, #002460 0%, #2F6DD5 50%, #18cee7 100%)",
-                "type": "color",
-                "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario + colore dark palette"
-            },
-            "gradient-03": {
-                "value": "linear-gradient(180deg, #2F6DD5 0%, #002460 100%)",
-                "type": "color",
-                "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario + colore dark palette"
-            }
-        },
-        "alias": {
-            "interactive-accent-default": {
-                "value": "{color.global.accent-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente può interagire"
-            },
-            "interactive-accent-hover": {
-                "value": "{color.global.accent-70}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore di accento che identifica il passaggio del mouse su un elemento "
-            },
-            "interactive-accent-focus": {
-                "value": "{color.global.accent-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore di accento che identifica la selezione di un elemento usando una tastiera o una voce"
-            },
-            "interactive-accent-pressed": {
-                "value": "{color.global.accent-120}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente ha interagito"
-            },
-            "interactive-primary-000-default": {
-                "value": "{color.global.primary-000}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore primario che identifica un elemento con cui l’utente può interagire"
-            },
-            "interactive-primary-default": {
-                "value": "{color.global.primary-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore primario che identifica un elemento con cui l’utente può interagire"
-            },
-            "interactive-primary-hover": {
-                "value": "{color.global.dark-primary-110}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal primario che identifica il passaggio del mouse su un elemento"
-            },
-            "interactive-primary-focus": {
-                "value": "{color.global.primary-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal primario che identifica la selezione di un elemento usando una tastiera o una voce"
-            },
-            "interactive-primary-pressed": {
-                "value": "{color.global.dark-primary-120}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal primario che identifica un elemento con cui l’utente ha interagito"
-            },
-            "interactive-secondary-default": {
-                "value": "{color.global.secondary-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente può interagire"
-            },
-            "interactive-secondary-hover": {
-                "value": "{color.global.dark-secondary-110}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente può interagire"
-            },
-            "interactive-secondary-focus": {
-                "value": "{color.global.secondary-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal secondario che identifica la selezione di un elemento usando una tastiera o una voce"
-            },
-            "interactive-secondary-pressed": {
-                "value": "{color.global.dark-secondary-125}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente ha interagito"
-            },
-            "interactive-alert-default": {
-                "value": "{color.global.semantic-alert-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
-            },
-            "interactive-alert-hover": {
-                "value": "{color.global.semantic-alert-110}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
-            },
-            "interactive-alert-focus": {
-                "value": "{color.global.semantic-alert-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
-            },
-            "interactive-alert-pressed": {
-                "value": "{color.global.semantic-alert-130}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
-            },
-            "interactive-warning-default": {
-                "value": "{color.global.semantic-warning-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
-            },
-            "interactive-warning-hover": {
-                "value": "{color.global.semantic-warning-80}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
-            },
-            "interactive-warning-focus": {
-                "value": "{color.global.semantic-warning-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
-            },
-            "interactive-warning-pressed": {
-                "value": "{color.global.semantic-warning-110}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
-            },
-            "interactive-success-default": {
-                "value": "{color.global.semantic-success-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
-            },
-            "interactive-success-hover": {
-                "value": "{color.global.semantic-success-110}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
-            },
-            "interactive-success-focus": {
-                "value": "{color.global.semantic-success-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
-            },
-            "interactive-success-pressed": {
-                "value": "{color.global.semantic-success-130}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
-            },
-            "text-color-disabled": {
-                "value": "{color.global.mid-secondary-90}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da utilizzare per i testi che sono all’interno di componenti in stato disabilitato"
-            },
-            "text-color-primary-100": {
-                "value": "{color.global.primary-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
-            },
-            "text-color-primary-light-0": {
-                "value": "{color.global.primary-000}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
-            },
-            "text-color-primary-light-40": {
-                "value": "{color.global.light-primary-40}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
-            },
-            "text-color-primary-light-50": {
-                "value": "{color.global.light-primary-50}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
-            },
-            "text-color-secondary-dark-100": {
-                "value": "{color.global.secondary-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
-            },
-            "text-color-secondary-dark-130": {
-                "value": "{color.global.dark-secondary-130}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
-            },
-            "text-color-primary-dark-110": {
-                "value": "{color.global.dark-primary-110}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
-            },
-            "background-color-disabled": {
-                "value": "{color.global.light-secondary-40}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-primary-light-40": {
-                "value": "{color.global.light-primary-40}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-primary-light-50": {
-                "value": "{color.global.light-primary-50}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-primary-light-60": {
-                "value": "{color.global.light-primary-60}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-primary-light-0": {
-                "value": "{color.global.primary-000}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-primary-dark-110": {
-                "value": "{color.global.dark-primary-110}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-primary-dark-115": {
-                "value": "{color.global.dark-primary-115}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-primary-dark-120": {
-                "value": "{color.global.dark-primary-120}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-light-35": {
-                "value": "{color.global.light-secondary-35}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-light-40": {
-                "value": "{color.global.light-secondary-40}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-light-50": {
-                "value": "{color.global.light-secondary-50}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-mid-100": {
-                "value": "{color.global.mid-secondary-100}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-mid-90": {
-                "value": "{color.global.mid-secondary-90}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-dark-110": {
-                "value": "{color.global.dark-secondary-110}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-dark-120": {
-                "value": "{color.global.dark-secondary-120}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-dark-125": {
-                "value": "{color.global.dark-secondary-125}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "background-color-secondary-dark-130": {
-                "value": "{color.global.dark-secondary-130}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
-            },
-            "interactive-border-focus": {
-                "value": "#0065D1",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare al bordo che evidenzia i componenti in stato focus"
-            },
-            "gradient-accent-primary-dark": {
-                "value": "{color.global.gradient-02}",
-                "type": "color",
-                "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario + colore dark palette"
-            },
-            "gradient-accent-primary": {
-                "value": "{color.global.gradient-01}",
-                "type": "color",
-                "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
-            },
-            "overlay-90-dark-primary-120": {
-                "value": "rgba(0, 23, 61, 90%)",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 90% nei componenti di colore dark-primary-120"
-            },
-            "overlay-15-secondary-100": {
-                "value": "rgba(69, 77, 86, 0.15)",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
-            },
-            "overlay-25-primary-000": {
-                "value": "rgba(255, 255, 255, 0.25)",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
-            },
-            "app-interactive-secondary-default": {
-                "value": "{color.global.secondary-90}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato default del componente app navigation"
-            },
-            "app-interactive-primary-active": {
-                "value": "{color.alias.interactive-primary-default}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
-            },
-            "app-interactive-primary-000-default": {
-                "value": "{color.global.primary-000}",
-                "type": "color",
-                "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
-            }
-        },
-        "specific": {
-            "data-entry-label-color-default": {
-                "value": "{color.alias.interactive-secondary-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato default"
-            },
-            "data-entry-label-color-hover": {
-                "value": "{color.alias.interactive-primary-hover}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato hover"
-            },
-            "data-entry-label-color-focus": {
-                "value": "{color.alias.interactive-primary-focus}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato focus"
-            },
-            "data-entry-label-color-valued": {
-                "value": "{color.alias.interactive-secondary-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato valued"
-            },
-            "data-entry-label-color-alert": {
-                "value": "{color.global.semantic-alert-100}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di errore"
-            },
-            "data-entry-label-color-warning": {
-                "value": "{color.global.semantic-warning-100}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di warning"
-            },
-            "data-entry-label-color-success": {
-                "value": "{color.global.semantic-success-100}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di successo"
-            },
-            "data-entry-placeholder-color-default": {
-                "value": "{color.alias.interactive-secondary-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
-            },
-            "data-entry-placeholder-color-hover": {
-                "value": "{color.alias.interactive-primary-hover}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
-            },
-            "data-entry-placeholder-color-focus": {
-                "value": "{color.alias.interactive-primary-focus}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
-            },
-            "data-entry-placeholder-color-valued": {
-                "value": "{color.alias.interactive-secondary-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
-            },
-            "data-entry-border-color-default": {
-                "value": "{color.alias.interactive-secondary-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato default"
-            },
-            "data-entry-border-color-hover": {
-                "value": "{color.alias.interactive-primary-hover}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato hover"
-            },
-            "data-entry-border-color-focus": {
-                "value": "{color.alias.interactive-primary-focus}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato focus"
-            },
-            "data-entry-border-color-valued": {
-                "value": "{color.alias.interactive-secondary-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato valorizzato"
-            },
-            "data-entry-border-color-alert": {
-                "value": "{color.alias.interactive-alert-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di errore"
-            },
-            "data-entry-border-color-warning": {
-                "value": "{color.alias.interactive-warning-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di warning"
-            },
-            "data-entry-border-color-success": {
-                "value": "{color.alias.interactive-success-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di success"
-            },
-            "data-entry-placeholder-color-warning": {
-                "value": "{color.global.semantic-warning-100}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di warning"
-            },
-            "data-entry-placeholder-color-alert": {
-                "value": "{color.global.semantic-alert-100}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di errore"
-            },
-            "data-entry-placeholder-color-success": {
-                "value": "{color.global.semantic-success-100}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di successo"
-            },
-            "option-background-color-hover": {
-                "value": "{color.alias.interactive-primary-hover}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato di hover"
-            },
-            "option-background-color-focus": {
-                "value": "{color.alias.interactive-primary-focus}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato di focus"
-            },
-            "option-background-color-pressed": {
-                "value": "{color.alias.interactive-primary-pressed}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato selezionato"
-            },
-            "option-background-color-valued": {
-                "value": "{color.alias.interactive-primary-default}",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato valorizzato"
-            },
-            "progressbar-background-color": {
-                "value": "linear-gradient(180deg, #002460 0%, #2F6DD5 50.52%, #18cee7 100%)",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al background della progressbar per evidenziare l’avanzamento dello stato"
-            },
-            "card-overlay-gradient-img": {
-                "value": "linear-gradient(90deg, #000000 0%, #00000000 100%)",
-                "type": "color",
-                "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
-            }
-        }
+  "color": {
+    "global": {
+      "primary-100": {
+        "value": "#2F6DD5",
+        "type": "color",
+        "description": "🟡 Token globale: Colore primario rappresenta, a livello cromatico, l’identità dell’istituto"
+      },
+      "primary-000": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "🟡 Token globale: Colore primario bianco"
+      },
+      "secondary-100": {
+        "value": "#454d56",
+        "type": "color",
+        "description": "🟡 Token globale: Colore secondario grigio principale"
+      },
+      "secondary-90": {
+        "value": "#5b6772",
+        "type": "color",
+        "description": "🟡 Token globale: Colore secondario grigio declinato dal principale"
+      },
+      "accent-100": {
+        "value": "#18cee7",
+        "type": "color",
+        "description": "🟡 Token globale: Colore di accento"
+      },
+      "accent-70": {
+        "value": "#8ce7f3",
+        "type": "color",
+        "description": "🟡 Token globale: Colore di accento declinato dal principale"
+      },
+      "accent-110": {
+        "value": "#13a5b9",
+        "type": "color",
+        "description": "🟡 Token globale: Colore di accento declinato dal principale"
+      },
+      "accent-120": {
+        "value": "#0f7d8a",
+        "type": "color",
+        "description": "🟡 Token globale: Colore di accento declinato dal principale"
+      },
+      "dark-primary-110": {
+        "value": "#00368F",
+        "type": "color",
+        "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
+      },
+      "dark-primary-115": {
+        "value": "#002460",
+        "type": "color",
+        "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
+      },
+      "dark-primary-120": {
+        "value": "#00173D",
+        "type": "color",
+        "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
+      },
+      "dark-primary-130": {
+        "value": "#000814",
+        "type": "color",
+        "description": "🟡 Token globale: Colore scuro declinato dal colore primario"
+      },
+      "mid-primary-70": {
+        "value": "#84A9E6",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
+      },
+      "mid-primary-80": {
+        "value": "#598BDE",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
+      },
+      "mid-primary-90": {
+        "value": "#2357AE",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con media luminosità declinato dal colore primario"
+      },
+      "light-primary-40": {
+        "value": "#F2F6FC",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
+      },
+      "light-primary-50": {
+        "value": "#D9E4F7",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
+      },
+      "light-primary-60": {
+        "value": "#AEC6EF",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore primario"
+      },
+      "dark-secondary-130": {
+        "value": "#000000",
+        "type": "color",
+        "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
+      },
+      "dark-secondary-125": {
+        "value": "#0b0d0e",
+        "type": "color",
+        "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
+      },
+      "dark-secondary-120": {
+        "value": "#17191c",
+        "type": "color",
+        "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
+      },
+      "dark-secondary-110": {
+        "value": "#2d3339",
+        "type": "color",
+        "description": "🟡 Token globale: Colore scuro declinato dal colore secondario"
+      },
+      "mid-secondary-100": {
+        "value": "#444C55",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
+      },
+      "mid-secondary-90": {
+        "value": "#5b6571",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
+      },
+      "mid-secondary-80": {
+        "value": "#727f8d",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
+      },
+      "mid-secondary-70": {
+        "value": "#8e98a4",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con media luminosità declinato dal colore secondario"
+      },
+      "light-secondary-60": {
+        "value": "#aab2bb",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
+      },
+      "light-secondary-50": {
+        "value": "#c6ccd2",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
+      },
+      "light-secondary-40": {
+        "value": "#e3e5e8",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
+      },
+      "light-secondary-35": {
+        "value": "#F1F2F4",
+        "type": "color",
+        "description": "🟡 Token globale: Colore con alta luminosità declinato dal colore secondario"
+      },
+      "semantic-success-100": {
+        "value": "#008069",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
+      },
+      "semantic-success-110": {
+        "value": "#005C4B",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
+      },
+      "semantic-success-120": {
+        "value": "#00382E",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
+      },
+      "semantic-success-130": {
+        "value": "#001A15",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica un stato di successo dell’applicazione"
+      },
+      "semantic-alert-100": {
+        "value": "#aa224f",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica uno stato di allerta/errore"
+      },
+      "semantic-warning-110": {
+        "value": "#9C3A16",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
+      },
+      "semantic-warning-100": {
+        "value": "#CB4D1E",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
+      },
+      "semantic-warning-90": {
+        "value": "#F97C1D",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
+      },
+      "semantic-warning-80": {
+        "value": "#FFA217",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico che identifica uno stato di attenzione"
+      },
+      "semantic-info-100": {
+        "value": "#2F6DD5",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
+      },
+      "semantic-alert-110": {
+        "value": "#7f1a3b",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
+      },
+      "semantic-alert-120": {
+        "value": "#551128",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
+      },
+      "semantic-alert-130": {
+        "value": "#3f0d1b",
+        "type": "color",
+        "description": "🟡 Token globale: Colore semantico declinato dal colore di allerta/errore"
+      },
+      "gradient-01": {
+        "value": "linear-gradient(90deg, #2F6DD5 0%, #18cee7 100%)",
+        "type": "color",
+        "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario"
+      },
+      "gradient-02": {
+        "value": "linear-gradient(-90deg, #002460 0%, #2F6DD5 50%, #18cee7 100%)",
+        "type": "color",
+        "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario + colore dark palette"
+      },
+      "gradient-03": {
+        "value": "linear-gradient(180deg, #2F6DD5 0%, #002460 100%)",
+        "type": "color",
+        "description": "🟡 Token globale: Gradient composto da colore di accento + colore primario + colore dark palette"
+      }
     },
-    "elevation": {
-        "elevation-01": {
-            "value": {
-                "x": 0,
-                "y": 0,
-                "blur": 16,
-                "spread": 0,
-                "color": "#E3E5E8",
-                "alpha": 1,
-                "type": "dropShadow"
-            },
-            "type": "boxShadow",
-            "description": "🟡 Token globale: Superficie 1 - shadow da applicare ai layer dello strato 01"
-        },
-        "elevation-02": {
-            "value": {
-                "x": 0,
-                "y": 0,
-                "blur": 24,
-                "spread": 0,
-                "color": "#E3E5E8",
-                "alpha": 1,
-                "type": "dropShadow"
-            },
-            "type": "boxShadow",
-            "description": "🟡 Token globale: Superficie 2 - shadow da applicare ai layer dello strato 02"
-        },
-        "elevation-03": {
-            "value": {
-                "x": 0,
-                "y": 0,
-                "blur": 32,
-                "spread": 0,
-                "color": "#E3E5E8",
-                "alpha": 1,
-                "type": "dropShadow"
-            },
-            "type": "boxShadow",
-            "description": "🟡 Token globale: Superficie 3 - shadow da applicare ai layer dello strato 03"
-        },
-        "elevation-04": {
-            "value": {
-                "x": 0,
-                "y": 0,
-                "blur": 40,
-                "spread": 0,
-                "color": "#E3E5E8",
-                "alpha": 1,
-                "type": "dropShadow"
-            },
-            "type": "boxShadow",
-            "description": "🟡 Token globale: Superficie 4 - shadow da applicare ai layer dello strato 04"
-        }
+    "alias": {
+      "interactive-accent-default": {
+        "value": "{color.global.accent-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente può interagire"
+      },
+      "interactive-accent-hover": {
+        "value": "{color.global.accent-70}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore di accento che identifica il passaggio del mouse su un elemento "
+      },
+      "interactive-accent-focus": {
+        "value": "{color.global.accent-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore di accento che identifica la selezione di un elemento usando una tastiera o una voce"
+      },
+      "interactive-accent-pressed": {
+        "value": "{color.global.accent-120}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore di accento che identifica un elemento con cui l’utente ha interagito"
+      },
+      "interactive-primary-000-default": {
+        "value": "{color.global.primary-000}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore primario che identifica un elemento con cui l’utente può interagire"
+      },
+      "interactive-primary-default": {
+        "value": "{color.global.primary-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore primario che identifica un elemento con cui l’utente può interagire"
+      },
+      "interactive-primary-hover": {
+        "value": "{color.global.dark-primary-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal primario che identifica il passaggio del mouse su un elemento"
+      },
+      "interactive-primary-focus": {
+        "value": "{color.global.primary-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal primario che identifica la selezione di un elemento usando una tastiera o una voce"
+      },
+      "interactive-primary-pressed": {
+        "value": "{color.global.dark-primary-120}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal primario che identifica un elemento con cui l’utente ha interagito"
+      },
+      "interactive-secondary-default": {
+        "value": "{color.global.secondary-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente può interagire"
+      },
+      "interactive-secondary-hover": {
+        "value": "{color.global.dark-secondary-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente può interagire"
+      },
+      "interactive-secondary-focus": {
+        "value": "{color.global.secondary-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal secondario che identifica la selezione di un elemento usando una tastiera o una voce"
+      },
+      "interactive-secondary-pressed": {
+        "value": "{color.global.dark-secondary-125}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal secondario che identifica un elemento con cui l’utente ha interagito"
+      },
+      "interactive-alert-default": {
+        "value": "{color.global.semantic-alert-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
+      },
+      "interactive-alert-hover": {
+        "value": "{color.global.semantic-alert-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
+      },
+      "interactive-alert-focus": {
+        "value": "{color.global.semantic-alert-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
+      },
+      "interactive-alert-pressed": {
+        "value": "{color.global.semantic-alert-130}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
+      },
+      "interactive-warning-default": {
+        "value": "{color.global.semantic-warning-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
+      },
+      "interactive-warning-hover": {
+        "value": "{color.global.semantic-warning-80}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
+      },
+      "interactive-warning-focus": {
+        "value": "{color.global.semantic-warning-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
+      },
+      "interactive-warning-pressed": {
+        "value": "{color.global.semantic-warning-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
+      },
+      "interactive-success-default": {
+        "value": "{color.global.semantic-success-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente può interagire"
+      },
+      "interactive-success-hover": {
+        "value": "{color.global.semantic-success-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal alert che identifica il passaggio del mouse su un elemento "
+      },
+      "interactive-success-focus": {
+        "value": "{color.global.semantic-success-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica la selezione di un elemento usando una tastiera o una voce"
+      },
+      "interactive-success-pressed": {
+        "value": "{color.global.semantic-success-130}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore declinato dal colore di alert che identifica un elemento con cui l’utente ha interagito"
+      },
+      "text-color-disabled": {
+        "value": "{color.global.mid-secondary-90}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che sono all’interno di componenti in stato disabilitato"
+      },
+      "text-color-primary-100": {
+        "value": "{color.global.primary-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
+      },
+      "text-color-primary-light-0": {
+        "value": "{color.global.primary-000}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
+      },
+      "text-color-primary-light-40": {
+        "value": "{color.global.light-primary-40}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
+      },
+      "text-color-primary-light-50": {
+        "value": "{color.global.light-primary-50}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici dark"
+      },
+      "text-color-secondary-dark-100": {
+        "value": "{color.global.secondary-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
+      },
+      "text-color-secondary-dark-130": {
+        "value": "{color.global.dark-secondary-130}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
+      },
+      "text-color-primary-dark-110": {
+        "value": "{color.global.dark-primary-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da utilizzare per i testi che vivono al di sopra di superfici light"
+      },
+      "background-color-disabled": {
+        "value": "{color.global.light-secondary-40}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-light-40": {
+        "value": "{color.global.light-primary-40}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-light-50": {
+        "value": "{color.global.light-primary-50}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-light-60": {
+        "value": "{color.global.light-primary-60}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-light-0": {
+        "value": "{color.global.primary-000}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-dark-110": {
+        "value": "{color.global.dark-primary-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-dark-115": {
+        "value": "{color.global.dark-primary-115}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-primary-dark-120": {
+        "value": "{color.global.dark-primary-120}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-light-35": {
+        "value": "{color.global.light-secondary-35}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-light-40": {
+        "value": "{color.global.light-secondary-40}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-light-50": {
+        "value": "{color.global.light-secondary-50}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-mid-100": {
+        "value": "{color.global.mid-secondary-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-mid-90": {
+        "value": "{color.global.mid-secondary-90}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-dark-110": {
+        "value": "{color.global.dark-secondary-110}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-dark-120": {
+        "value": "{color.global.dark-secondary-120}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-dark-125": {
+        "value": "{color.global.dark-secondary-125}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "background-color-secondary-dark-130": {
+        "value": "{color.global.dark-secondary-130}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al background di componenti o pagine web"
+      },
+      "interactive-border-focus": {
+        "value": "#0065D1",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare al bordo che evidenzia i componenti in stato focus"
+      },
+      "gradient-accent-primary-dark": {
+        "value": "{color.global.gradient-02}",
+        "type": "color",
+        "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario + colore dark palette"
+      },
+      "gradient-accent-primary": {
+        "value": "{color.global.gradient-01}",
+        "type": "color",
+        "description": "🟣 Token alias: Gradient composto da colore di accento + colore primario"
+      },
+      "overlay-90-dark-primary-120": {
+        "value": "rgba(0, 23, 61, 90%)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 90% nei componenti di colore dark-primary-120"
+      },
+      "overlay-15-secondary-100": {
+        "value": "rgba(69, 77, 86, 0.15)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 15% nei componenti di colore secondary-100"
+      },
+      "overlay-25-primary-000": {
+        "value": "rgba(255, 255, 255, 0.25)",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare ai livelli in overlay con opacità 25% nei componenti di colore primary-000"
+      },
+      "app-interactive-secondary-default": {
+        "value": "{color.global.secondary-90}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato default del componente app navigation"
+      },
+      "app-interactive-primary-active": {
+        "value": "{color.alias.interactive-primary-default}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
+      },
+      "app-interactive-primary-000-default": {
+        "value": "{color.global.primary-000}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore da applicare agli elementi interattivi per app mobile in stato active del componente app navigation"
+      },
+      "text-color-alert": {
+        "value": "{color.global.semantic-alert-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore del testo per stati di alert o errore"
+      },
+      "text-color-info": {
+        "value": "{color.global.semantic-info-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore del testo per messaggi informativi"
+      },
+      "text-color-warning": {
+        "value": "{color.global.semantic-warning-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore del testo per stati di attenzione o warning"
+      },
+      "text-color-success": {
+        "value": "{color.global.semantic-success-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore del testo per stati di successo"
+      },
+      "background-color-alert": {
+        "value": "{color.global.semantic-alert-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore di background per stati di alert o errore"
+      },
+      "background-color-info": {
+        "value": "{color.global.semantic-info-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore di background per messaggi informativi"
+      },
+      "background-color-warning": {
+        "value": "{color.global.semantic-warning-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore di background per stati di attenzione o warning"
+      },
+      "background-color-success": {
+        "value": "{color.global.semantic-success-100}",
+        "type": "color",
+        "description": "🟣 Token alias: Colore di background per stati di successo"
+      }
+    },
+    "specific": {
+      "data-entry-label-color-default": {
+        "value": "{color.alias.interactive-secondary-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato default"
+      },
+      "data-entry-label-color-hover": {
+        "value": "{color.alias.interactive-primary-hover}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato hover"
+      },
+      "data-entry-label-color-focus": {
+        "value": "{color.alias.interactive-primary-focus}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato focus"
+      },
+      "data-entry-label-color-valued": {
+        "value": "{color.alias.interactive-secondary-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle label dei componenti data entry in stato valued"
+      },
+      "data-entry-label-color-alert": {
+        "value": "{color.global.semantic-alert-100}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di errore"
+      },
+      "data-entry-label-color-warning": {
+        "value": "{color.global.semantic-warning-100}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di warning"
+      },
+      "data-entry-label-color-success": {
+        "value": "{color.global.semantic-success-100}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle label dei data entry che comunicano uno stato di successo"
+      },
+      "data-entry-placeholder-color-default": {
+        "value": "{color.alias.interactive-secondary-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
+      },
+      "data-entry-placeholder-color-hover": {
+        "value": "{color.alias.interactive-primary-hover}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
+      },
+      "data-entry-placeholder-color-focus": {
+        "value": "{color.alias.interactive-primary-focus}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
+      },
+      "data-entry-placeholder-color-valued": {
+        "value": "{color.alias.interactive-secondary-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare alle placeholder dei componenti data entry in stato default"
+      },
+      "data-entry-border-color-default": {
+        "value": "{color.alias.interactive-secondary-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato default"
+      },
+      "data-entry-border-color-hover": {
+        "value": "{color.alias.interactive-primary-hover}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato hover"
+      },
+      "data-entry-border-color-focus": {
+        "value": "{color.alias.interactive-primary-focus}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato focus"
+      },
+      "data-entry-border-color-valued": {
+        "value": "{color.alias.interactive-secondary-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry in stato valorizzato"
+      },
+      "data-entry-border-color-alert": {
+        "value": "{color.alias.interactive-alert-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di errore"
+      },
+      "data-entry-border-color-warning": {
+        "value": "{color.alias.interactive-warning-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di warning"
+      },
+      "data-entry-border-color-success": {
+        "value": "{color.alias.interactive-success-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato di success"
+      },
+      "data-entry-placeholder-color-warning": {
+        "value": "{color.global.semantic-warning-100}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di warning"
+      },
+      "data-entry-placeholder-color-alert": {
+        "value": "{color.global.semantic-alert-100}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di errore"
+      },
+      "data-entry-placeholder-color-success": {
+        "value": "{color.global.semantic-success-100}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al placeholder dei data entry che comunicano uno stato di successo"
+      },
+      "option-background-color-hover": {
+        "value": "{color.alias.interactive-primary-hover}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato di hover"
+      },
+      "option-background-color-focus": {
+        "value": "{color.alias.interactive-primary-focus}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato di focus"
+      },
+      "option-background-color-pressed": {
+        "value": "{color.alias.interactive-primary-pressed}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al background delle option per identificare lo stato selezionato"
+      },
+      "option-background-color-valued": {
+        "value": "{color.alias.interactive-primary-default}",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al bordo dei componenti data entry che comunicano uno stato valorizzato"
+      },
+      "progressbar-background-color": {
+        "value": "linear-gradient(180deg, #002460 0%, #2F6DD5 50.52%, #18cee7 100%)",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al background della progressbar per evidenziare l’avanzamento dello stato"
+      },
+      "card-overlay-gradient-img": {
+        "value": "linear-gradient(90deg, #000000 0%, #00000000 100%)",
+        "type": "color",
+        "description": "🔵 Token specifico di componente: Colore da applicare al retino delle immagini del componente card"
+      }
     }
+  },
+  "elevation": {
+    "elevation-01": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 16,
+        "spread": 0,
+        "color": "#E3E5E8",
+        "alpha": 1,
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 1 - shadow da applicare ai layer dello strato 01"
+    },
+    "elevation-02": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 24,
+        "spread": 0,
+        "color": "#E3E5E8",
+        "alpha": 1,
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 2 - shadow da applicare ai layer dello strato 02"
+    },
+    "elevation-03": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 32,
+        "spread": 0,
+        "color": "#E3E5E8",
+        "alpha": 1,
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 3 - shadow da applicare ai layer dello strato 03"
+    },
+    "elevation-04": {
+      "value": {
+        "x": 0,
+        "y": 0,
+        "blur": 40,
+        "spread": 0,
+        "color": "#E3E5E8",
+        "alpha": 1,
+        "type": "dropShadow"
+      },
+      "type": "boxShadow",
+      "description": "🟡 Token globale: Superficie 4 - shadow da applicare ai layer dello strato 04"
+    }
+  }
 }

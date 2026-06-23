@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 23 Jun 2026 08:55:23 GMT
+// Generated on Tue, 23 Jun 2026 10:07:48 GMT
 
 
 #import "StyleDictionaryBoxShadow.h"
